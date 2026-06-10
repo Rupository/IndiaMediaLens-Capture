@@ -1,0 +1,3422 @@
+[
+{
+  "text": "London: As the voting process for the new Conservative Party leader formally opened with postal ballots being mailed out to Tory members from Monday, Rishi Sunak vowed to cut the basic rate of income tax by 20 per cent in a few years if he is elected Britain's Prime Minister. The 42-year-old former Chancellor, who is trailing his rival Liz Truss in the opinion polls and bookmaker's odds, said his \"radical vision\" would mean a 20 per cent tax reduction, the \"largest cut to income tax in 30 years\". Tax cuts have become the dominant issue in the election campaign and while Truss has pledged cuts from day one, Sunak has sought to focus on a more measured approach in order to curb soaring inflation. \"What I'm putting to people today is a vision to deliver the biggest income tax cut since (former Tory Prime Minister) Margaret Thatcher's government,\" said Sunak. \"It is a radical vision but it is also a realistic one and there are some core principles that I'm simply not prepared to compromise on, whatever the prize,\" he said. Under the proposals, Sunak said he would build on his previously announced 1p cut to income tax in",
+  "id": 1,
+  "annotator": 1,
+  "annotation_id": 10,
+  "created_at": "2026-03-30T11:29:53.848630Z",
+  "updated_at": "2026-03-30T11:29:53.848643Z",
+  "lead_time": 1.396
+},
+{
+  "text": "In announcing the dates for the Assembly elections in Jammu and Kashmir (J&K), to be held in three phases on September 18, 25 and October 1, Chief Election Commissioner Rajiv Kumar referred to “awaam ki umeedein” (the people’s hopes) to change their destiny and script their futures. Five years after the reading down of Article 370 and the end of “special status” — a period in which the political process had come to a standstill — this deference to the people’s aspiration is enormously welcome. It is an important step forward. It offers an opportunity to recalibrate and reset the terms of asymmetry that had resulted from J&K’s changed status as a Union territory by Delhi in a way that was seen to by-pass the people. In the aftermath of the abrogation, the restrictions on civil liberties had raised disquieting questions on the democratic deficit that seems to be the perennial inheritance of J&K. There has been no assembly election in the state-turned-Union Territory since 2014 and the last assembly was dissolved in 2018. Elections for District Development Councils were held towards the end of 2020, in which Delhi’s experiment to set the field for the emergence of new political",
+  "id": 2,
+  "annotator": 1,
+  "annotation_id": 11,
+  "created_at": "2026-03-30T11:30:00.366491Z",
+  "updated_at": "2026-03-30T11:30:00.366505Z",
+  "lead_time": 5.128
+},
+{
+  "text": "The state assembly polls this month in five states across the country have acquired special significance as a kind of semi-final match between the ruling BJP and the recently formed Congress-led INDIA alliance before next year’s Lok Sabha polls. While in three states Chhattisgarh, Madhya Pradesh, and Rajasthan, it is a direct contest between the two national parties, in Telangana and Mizoram, the Congress is facing ruling regional parties and would score a major political point over the BJP if it were to do well. For Prime Minister Narendra Modi, these elections are an acid test of whether he has been able to carry out of his earlier promise of a Congress mukt Bharat, snuffing out India’s oldest party.",
+  "id": 3,
+  "label": [
+    {
+      "start": 154,
+      "end": 157,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 182,
+      "end": 190,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 400,
+      "end": 408,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 492,
+      "end": 495,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 538,
+      "end": 551,
+      "text": "Narendra Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 655,
+      "end": 663,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 195,
+      "end": 209,
+      "text": "INDIA alliance",
+      "labels": [
+        "OPP"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 12,
+  "created_at": "2026-03-30T11:31:12.812257Z",
+  "updated_at": "2026-03-30T11:31:12.812265Z",
+  "lead_time": 70.939
+},
+{
+  "text": "The morning of March 14, 1998, was rather pleasant. Neither too hot nor too cold. But those present at the All India Congress Committee (AICC) headquarters at 24, Akbar Road in Delhi betrayed distinct coldness. When party president Sitaram Kesri entered the Congress Working Committee (CWC) meeting, he felt something was off. Hardly anyone stood up to greet him. Kesri’s face turned red-hot when Pranab Mukherjee thanked him for his services and moved a resolution, asking Sonia Gandhi to become the AICC president. Kesri got up and left for his office, rejecting all the persuasion. It was his emotional way of holding onto something that was soon to become Sonia’s. Some accounts say Kesri was locked inside a bathroom for hours until Sonia took over the party. Later in the day, when Kesri was leaving, some youth Congress workers heckled him and even tried to pull his dhoti. Read Full Story But why are we suddenly talking about Sitaram Kesri? After all, the current crisis in the Congress was triggered by the high command’s encouragement for Rajasthan Chief Minister Ashok Gehlot to contest the party’s presidential election. Gehlot became defiant in not leaving his state to Sachin Pilot, who the",
+  "id": 4,
+  "label": [
+    {
+      "start": 137,
+      "end": 141,
+      "text": "AICC",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 474,
+      "end": 486,
+      "text": "Sonia Gandhi",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 501,
+      "end": 505,
+      "text": "AICC",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 818,
+      "end": 826,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 987,
+      "end": 995,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1075,
+      "end": 1087,
+      "text": "Ashok Gehlot",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1184,
+      "end": 1196,
+      "text": "Sachin Pilot",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 258,
+      "end": 284,
+      "text": "Congress Working Committee",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 397,
+      "end": 413,
+      "text": "Pranab Mukherjee",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 232,
+      "end": 245,
+      "text": "Sitaram Kesri",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 364,
+      "end": 371,
+      "text": "Kesri’s",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 517,
+      "end": 522,
+      "text": "Kesri",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 687,
+      "end": 692,
+      "text": "Kesri",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 935,
+      "end": 948,
+      "text": "Sitaram Kesri",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1134,
+      "end": 1140,
+      "text": "Gehlot",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 660,
+      "end": 665,
+      "text": "Sonia",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 738,
+      "end": 743,
+      "text": "Sonia",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 788,
+      "end": 793,
+      "text": "Kesri",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 107,
+      "end": 135,
+      "text": "All India Congress Committee",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 286,
+      "end": 289,
+      "text": "CWC",
+      "labels": [
+        "OPP"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 13,
+  "created_at": "2026-03-30T11:32:37.882533Z",
+  "updated_at": "2026-03-30T12:30:37.594414Z",
+  "lead_time": 117.69399999999999
+},
+{
+  "text": "Every general election is distinctive and unique, yet few commentators can resist the temptation of comparing one poll with another. As I see it, the election that has just concluded bears a notable resemblance to the elections of 1971. Then, as now, there was a hegemonic party in power; a party with a footprint across large parts of India. Then, as now, this party was opposed by a variety of parties whose influence was more restricted, confined to particular states. Then, as now, this motley group of Opposition parties was divided by ideology and social composition, yet united by a single, overwhelming, obsession — with the personality of the prime minister. The election slogan that helped Indira Gandhi win the 1971 general election is still remembered today. It is less well known that this slogan was not coined by her or her party spontaneously. Rather, it was a response to a slogan that the Grand Alliance opposing her sought to make central to its campaign. This was ‘Indira, Hatao’; let’s get rid of the prime minister, Indira Gandhi, who was the symbol of all that (in the Opposition’s view) was wrong with the ruling party, the government, and the country.",
+  "id": 5,
+  "label": [
+    {
+      "start": 507,
+      "end": 517,
+      "text": "Opposition",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 700,
+      "end": 713,
+      "text": "Indira Gandhi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 907,
+      "end": 921,
+      "text": "Grand Alliance",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1038,
+      "end": 1051,
+      "text": "Indira Gandhi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 1092,
+      "end": 1102,
+      "text": "Opposition",
+      "labels": [
+        "OPP"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 14,
+  "created_at": "2026-03-30T11:34:00.448958Z",
+  "updated_at": "2026-03-30T11:34:00.448971Z",
+  "lead_time": 80.895
+},
+{
+  "text": "The Congress’s impressive Telangana victory in this election cycle has been completely overshadowed by its losses in the states of Rajasthan, Madhya Pradesh and Chhattisgarh. The results have strengthened the BJP’s position ahead of the 2024 Lok Sabha elections. The Congress and its ideological fellow travellers must answer some questions before they get back to the 2024 campaign. Raipur, Dec 03 (ANI): A view of the Chhattisgarh Congress office during the counting of votes for the State Assembly elections, in Raipur on Sunday. As per official EC trends, the Bharatiya Janata Party (BJP) is leading in the state with 54 of the total 90 seats. (ANI Photo) (ANI) A segment of the Congress leadership and the left-liberal commentariat continues to insist that democracy in India is increasingly coming under a squeeze. While one can always debate about what the ideal state of democracy is and whether it ever existed in India, the state of purely transactional electoral democracy seems to be absolutely fine even from the Congress’s perspective. It has won the state of Telangana in this election cycle, even though it has lost the states of Rajasthan, Madhya Pradesh and Chhattisgarh. Its vote share – the best measure of",
+  "id": 6,
+  "label": [
+    {
+      "start": 4,
+      "end": 12,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 209,
+      "end": 212,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 267,
+      "end": 275,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 433,
+      "end": 441,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 588,
+      "end": 591,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 683,
+      "end": 691,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1026,
+      "end": 1034,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 564,
+      "end": 586,
+      "text": "Bharatiya Janata Party",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 15,
+  "created_at": "2026-03-30T11:36:10.993675Z",
+  "updated_at": "2026-03-30T12:30:17.976292Z",
+  "lead_time": 34.766000000000005
+},
+{
+  "text": "The story of women voting in India has added one more puzzle for social scientists to decipher. In the past decade, the research largely focused on the increasing voter registration among women and their higher turnout rate at polling booths. The combined effect of these two developments has been that in many parts of the country, the electoral weight of women voters is higher than men. In addition to these, women voters have also been making distinct preferences in vote choice. In the past few years, we have seen the positive effect of this behind the re-election of many Chief Ministers Nitish Kumar, Mamata Banerjee, J Jayalalitha, Naveen Patnaik, among others. advertisement ❮❯ Read Full Story So what role did women voters play in BJP’s victory in four states? The data indicates that more women seem to have voted for the BJP than men in all four states the party won; both the Axis My-India and Lokniti-CSDS post-poll survey data confirm this pattern. While the margin of difference is in the range of 2-4 percentage points, the importance of this turnaround should not be discounted. The BJP used to have a gender disadvantage with women before 2014, but the party",
+  "id": 7,
+  "label": [
+    {
+      "start": 595,
+      "end": 607,
+      "text": "Nitish Kumar",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 609,
+      "end": 624,
+      "text": "Mamata Banerjee",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 641,
+      "end": 655,
+      "text": "Naveen Patnaik",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 742,
+      "end": 745,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 834,
+      "end": 837,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 1102,
+      "end": 1105,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 16,
+  "created_at": "2026-03-30T11:39:59.933175Z",
+  "updated_at": "2026-03-30T11:39:59.933189Z",
+  "lead_time": 226.955
+},
+{
+  "text": "It would be much more reliable to hear ground reports, or just talk to a diverse set of people around you. Both these things have been made difficult by the coronavirus pandemic and the lockdown. Nevertheless, one would do well to believe a fine ground reporter like Jyoti Yadav when she says migrant labourers feel more hurt than angry with Modi. In any case, you have to be really gullible to believe Indian surveys. The credibility ratings of our opinion polls are clearly worse than media and politicians put together. Most surveys can’t even get exit polls right. Some surveys have suggested that Prime Minister Narendra Modi’s popularity ratings have shot up, with people approving handling of the pandemic. It’s been a few weeks since these surveys came out last. People’s patience with the economic cost of the lockdown had not begun running out yet and the migrant crisis had not peaked. Also read: White-collar, blue-collar, no-collar: Discovery of a working class Modi’s India forgot Déjà vu This sentiment is similar to what one saw, heard and felt about Modi for much of 2018. Around that time, Modi voters and supporters were on a back foot. The sentiment was that",
+  "id": 8,
+  "label": [
+    {
+      "start": 617,
+      "end": 630,
+      "text": "Narendra Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 975,
+      "end": 979,
+      "text": "Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 1067,
+      "end": 1071,
+      "text": "Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 1108,
+      "end": 1112,
+      "text": "Modi",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 17,
+  "created_at": "2026-03-30T11:41:19.734032Z",
+  "updated_at": "2026-03-30T11:41:19.734056Z",
+  "lead_time": 78.324
+},
+{
+  "text": "If BJP has to increase its electoral footprint, it must look at acquiring talent externally – especially in places where its own leadership isweak or non-existent. What’s critical for BJP is to convert the present momentum around Narendra Modi’s pan-India popularity intoelectoral dividends in some states. PTI Few would have imagined a decade ago that BJP would enter the 2024 electoral ring with four of its state unitsheaded by not rank BJP insiders but leaders who have joined from other parties, of which two are ex-Congress. At one point, this would have been considered impossible in a party in which attaining a post was seen as an outcome of the years spent within the fold mastering the larger ideological purpose.But that’s clearly changed with the",
+  "id": 9,
+  "label": [
+    {
+      "start": 3,
+      "end": 6,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 184,
+      "end": 187,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 353,
+      "end": 356,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 440,
+      "end": 443,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 230,
+      "end": 244,
+      "text": "Narendra Modi’",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 521,
+      "end": 529,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 18,
+  "created_at": "2026-03-30T11:41:43.795564Z",
+  "updated_at": "2026-03-30T11:41:43.795577Z",
+  "lead_time": 22.094
+},
+{
+  "text": "This article was first published 2 years ago The BJP leadership knows it can't boast of governance in the state as the Bommai government has little to show. So, the game plan is to project Modi, who will reiterate how important it is for a state to have the same party ruling in power at the Centre, observes Ramesh Menon. IMAGE: Narendra D Modi, the Bharatiya Janata Party's primary electionm campaigner, addresses the Vijaya Sankalpa Yatra Mahasangama in Davangere, March 25, 2023. Photograph: Karnataka BJP\/Twitter The Karnataka assembly elections on May 10 will be critical for both the Bharatiya Janata Party and the Congress as the results will determine how the political scenario will change in India. State assembly elections are scheduled later this year in Rajasthan, Madhya Pradesh, Telangana and Chhattisgarh. Both these parties have to do well there too to create an environment for doing well in th next year's Lok Sabha elections. The BJP knows it has to win Karnataka as it is presently the only southern state it rules. A win will make it easier to spread their influence in the south where it has a poor presence and also shed the label of how it",
+  "id": 10,
+  "label": [
+    {
+      "start": 49,
+      "end": 52,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 506,
+      "end": 509,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 622,
+      "end": 630,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 951,
+      "end": 954,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 189,
+      "end": 193,
+      "text": "Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 330,
+      "end": 345,
+      "text": "Narendra D Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 351,
+      "end": 373,
+      "text": "Bharatiya Janata Party",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 591,
+      "end": 613,
+      "text": "Bharatiya Janata Party",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 19,
+  "created_at": "2026-03-30T12:03:20.178876Z",
+  "updated_at": "2026-03-30T12:03:20.178891Z",
+  "lead_time": 386.50399999999996
+},
+{
+  "text": "The elections in West Bengal have been turned into a full-fledged war by the BJP. That leaves Mamata Banerjee with no choice but to arm herself with all kinds of tricks. The two incidents which will define these elections are Mamata Banerjee chanting the Chandi Paath from a political platform and campaigning in a wheelchair with her leg in a plaster. The BJP may have to later regret being over-aggressive in targeting her personally. As a leader, Mamata Banerjee has not been thrust from the top. She has risen from the street, and if today she is a formidable leader in her own right, it is because of her street-fighter spirit. Originally from the Congress, when she realised that her ambitions were being stifled by the party bosses in the mid-1990s, she rebelled and formed her own party. It was a huge decision - in those days, it was believed that any leader who broke from the party did not survive long, there being only a few exceptions like Sharad Pawar. Before she rebelled, two stalwarts of the Congress, Arjun Singh and N.D. Tiwari, had revolted against the leadership of Narasimha Rao, formed a rival party, and contested the election",
+  "id": 11,
+  "label": [
+    {
+      "start": 77,
+      "end": 80,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 94,
+      "end": 109,
+      "text": "Mamata Banerjee",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 226,
+      "end": 241,
+      "text": "Mamata Banerjee",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 357,
+      "end": 360,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 450,
+      "end": 465,
+      "text": "Mamata Banerjee",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 653,
+      "end": 661,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 954,
+      "end": 966,
+      "text": "Sharad Pawar",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 1010,
+      "end": 1018,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1020,
+      "end": 1031,
+      "text": "Arjun Singh",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1088,
+      "end": 1101,
+      "text": "Narasimha Rao",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1036,
+      "end": 1047,
+      "text": "N.D. Tiwari",
+      "labels": [
+        "OPP"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 20,
+  "created_at": "2026-03-30T12:06:16.962493Z",
+  "updated_at": "2026-03-30T12:06:16.962506Z",
+  "lead_time": 175.31
+},
+{
+  "text": "Prime Minister Narendra Modi has given shape to his new cabinet. In a major reshuffle, 12 ministers were axed while 36 new faces were inducted. 7 Ministers of State-rank were elevated to Cabinet minister rank. A lot of emphasis has been placed on social engineering in the cabinet, after all caste plays a key role in determining voter behavior in elections in India. 47 ministers belong to the other backward classes, scheduled caste, and tribes, their highest ever representation. BJP has moved a long way from being an upper-caste-dominated party under Atal Bihari Vajpayee to becoming the voice of the backward and Dalits under Modi. Special attention has been paid to states where elections are due next year. 7 ministers from UP, 6 from Gujarat, 1 each from Uttarakhand and Manipur have been inducted. 1 minister (Anurag Thakur) from Himachal has been promoted.",
+  "id": 12,
+  "label": [
+    {
+      "start": 15,
+      "end": 28,
+      "text": "Narendra Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 483,
+      "end": 486,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 556,
+      "end": 576,
+      "text": "Atal Bihari Vajpayee",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 820,
+      "end": 833,
+      "text": "Anurag Thakur",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 632,
+      "end": 635,
+      "text": "Mod",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 21,
+  "created_at": "2026-03-30T12:06:50.827047Z",
+  "updated_at": "2026-03-30T12:06:50.827060Z",
+  "lead_time": 32.544
+},
+{
+  "text": "With just days to go before the 2019 Lok Sabha elections, the Republic Bharat-Jan Ki Baat Opinion poll has presented a snapshot projection of where the various parties stand at the moment in different states. The state of Maharashtra represents 48 Lok Sabha seats and as the BJP-Shiv Sena alliance is ready to take on Congress-NCP, here who is projected to win if the elections are held in the state today. Seat Share: NDA: between 33-39 seats UPA: between 9-15 seats Vote Share: NDA: 45.5% UPA: 38.5% Methodology: Advertisement R. Bharat-Jan Ki Baat Opinion Poll has used purposive sampling. It involves focused group discussion and face to face interviews done by field investigators with a visit to all states and constituencies involving indigenously built Probability Map of Outcome Prediction Model covering representative samples across demography, and caste. The essence of the methodology is groundwork and proven track record with maximum accuracy to the right trend. The Opinion poll was held between February 1 and April 2 Voting dates in Maharashtra: Advertisement Maharashtra will vote for Lok Sabha Elections 2019 in 4 Phases. The polling dates for Maharashtra will be on April 11, 18, 23 and 29. The votes will be",
+  "id": 13,
+  "label": [
+    {
+      "start": 275,
+      "end": 278,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 318,
+      "end": 326,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 279,
+      "end": 288,
+      "text": "Shiv Sena",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 327,
+      "end": 330,
+      "text": "NCP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 419,
+      "end": 422,
+      "text": "NDA",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 444,
+      "end": 447,
+      "text": "UPA",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 480,
+      "end": 483,
+      "text": "NDA",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 491,
+      "end": 494,
+      "text": "UPA",
+      "labels": [
+        "OPP"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 22,
+  "created_at": "2026-03-30T12:07:38.928975Z",
+  "updated_at": "2026-03-30T12:07:38.928989Z",
+  "lead_time": 45.011
+},
+{
+  "text": "The BJP has replaced yet another one of its chief ministers — the third in two months — before the end of his tenure, for reasons that are not officially stated but ostensibly have to do with balancing caste equations and containing anti-incumbency. The party has chosen Bhupendra Patel, a low-profile legislator with no previous experience in government, as the new Gujarat CM, seemingly in a bid to assuage the politically powerful Patel community ahead of assembly polls in 2022. Vijay Rupani’s poor record in Covid management — the Gujarat High Court had censured the government’s functioning — and his inability to win over powerful social groups, may have gone against him. But his exit, in circumstances that are strikingly similar to his elevation to chief ministerial office in 2016, speaks of a larger trend in the BJP. Political parties are prone to replacing MLAs in elections to dent anti-incumbency, but a change at the top is usually made when there is a threat of revolt by legislators. However, the BJP has visibly downsized the office of the chief minister in states where it runs the government — even assembly elections are fought in the name of the prime minister.",
+  "id": 14,
+  "label": [
+    {
+      "start": 4,
+      "end": 7,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 825,
+      "end": 828,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 1016,
+      "end": 1019,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 271,
+      "end": 286,
+      "text": "Bhupendra Patel",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 483,
+      "end": 495,
+      "text": "Vijay Rupani",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 23,
+  "created_at": "2026-03-30T12:09:00.744214Z",
+  "updated_at": "2026-03-30T12:09:00.744226Z",
+  "lead_time": 80.911
+},
+{
+  "text": "Of the five states that are going to polls next year, four — Uttar Pradesh, Uttarakhand, Goa and Manipur — are likely to fall in BJP’s kitty, the first round of ABP-CVoter survey has predicted. It’s likely to be a hung House in Punjab with the Aam Aadmi Party (AAP) just falling short of the halfway mark, according to the survey. With about five months left for the upcoming Assembly elections, what the survey shows is an interesting trend — AAP is likely to play a spoilsport for the Congress in most states. The prediction assumes national significance as the Congress has been pitching for a united front against the BJP for the 2024 general elections. Punjab According to the survey, AAP emerges as the biggest winner of the fiasco that has hit the Captain Amarinder Singh-led government’s image in Punjab. The survey predicts that the Congress could witness a decline of close to 10 percentage points, from 38.5 per cent in 2017 to a projected 28.8 per cent. In contrast, the AAP’s vote share could increase from 23.7 per cent to 35.1 per cent. In terms of the seat count, the Aam Aadmi Party is expected to win anywhere",
+  "id": 15,
+  "label": [
+    {
+      "start": 129,
+      "end": 132,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 261,
+      "end": 264,
+      "text": "AAP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 444,
+      "end": 447,
+      "text": "AAP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 487,
+      "end": 495,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 564,
+      "end": 572,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 622,
+      "end": 625,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 690,
+      "end": 693,
+      "text": "AAP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 842,
+      "end": 850,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 983,
+      "end": 986,
+      "text": "AAP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 755,
+      "end": 778,
+      "text": "Captain Amarinder Singh",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 1084,
+      "end": 1099,
+      "text": "Aam Aadmi Party",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 244,
+      "end": 259,
+      "text": "Aam Aadmi Party",
+      "labels": [
+        "OPP"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 24,
+  "created_at": "2026-03-30T12:26:04.452351Z",
+  "updated_at": "2026-03-30T12:29:33.276696Z",
+  "lead_time": 355.315
+},
+{
+  "text": "The CSDS post-poll survey highlights that economic interests, specifically, the lived experience of unemployment, price rise and poverty faced by the bulk of India, played a dominant role in shaping voter choices in the 2024 general election. This should not surprise anyone who has paid attention to the real economy or looked, as Rathin Roy evocatively put it, “under the hood”. FILE PHOTO: A worker checks sift joints used for cement filtration at its manufacturing factory in the industrial area of Kolkata June 12, 2012. REUTERS\/Rupak De Chowdhuri (INDIA - Tags: BUSINESS EMPLOYMENT)\/File Photo (REUTERS) Despite robust growth in FY 24, 8%, private final consumption expenditure (consumption demand) grew at a far lower 4% — a consequence of the severe blows suffered by the informal economy, where the bulk of India is employed. Growth in the number of manufacturing enterprises has slowed down, and employment dropped considerably between 2015-16 and 2022-23. Simultaneously, employment in low-productivity agriculture grew (42.5% in 2018-19 to 45.8% in 2022-23) while real wages stagnated, even contracting in some periods. Moreover, the formal sector is unable to absorb India’s growing (shoddily) educated youth. Unemployment among educated youth has increased substantially, accounting in 2022 for nearly half of",
+  "id": 16,
+  "annotator": 1,
+  "annotation_id": 25,
+  "created_at": "2026-03-30T12:26:20.147294Z",
+  "updated_at": "2026-03-30T12:26:20.147309Z",
+  "lead_time": 12.279
+},
+{
+  "text": "The May 10 elections in Karnataka will be closely watched, with observers focussing not just on the conduct of the crucial polls, but also the voter turnout in Bengaluru, the state capital. This is because the city, India’s information technology hub, has an unenviable history of voting in numbers far lower than the state average. Political parties will have to come up with a focused agenda for cities, so that residents get involved in electing their representatives. (HT Archive\/Rpresentative Image) Karnataka witnessed an impressive voter turnout record in the 2013 and 2018 assembly elections, touching 71.83% and 72.44%, respectively. But constituencies under the Bruhat Bengaluru Mahanagara Palike recorded a 60% turnout in 2013 and 55% in 2018. Election enthusiasts hope that the fevered campaign pitch will push the city to not repeat this dismal record in the ongoing polls. Any such dip could not only bring down not just the state’s average, but also underline the urban low-turnout challenge to the all-India aspiration of breaking the 70% barrier in the 2024 Lok Sabha elections. If political combativeness is a key factor for voters’ enthusiasm, there has been plenty of it in Karnataka. The Election Commission of India (ECI) has an",
+  "id": 17,
+  "annotator": 1,
+  "annotation_id": 26,
+  "created_at": "2026-03-30T12:27:33.351826Z",
+  "updated_at": "2026-03-30T12:27:33.351847Z",
+  "lead_time": 70.479
+},
+{
+  "text": "On Sunday, the Indian National Developmental Inclusive Alliance (INDIA) parties held an impressive 'Loktantra Bachao' (Save Democracy) rally at Delhi's Ramlila Maidan. It presented no narrative to counter the Modi government's policies, nor was an alternative agenda put on the table. Instead, what was apparent was a 'victim' mindset, buttressed by allegations of being targeted by the ruling Bharatiya Janata Party (BJP) dispensation. 'Match-Fixing' Allegations The fairness of the 18th general election was challenged too. Rahul Gandhi stated that Modi, with the help of central agencies and \"four capitalists\", was indulging in 'match-fixing' by arresting leaders like Hemant Soren and Arvind Kejriwal. The fact that it was the Congress that had first accused the Aam Aadmi Party (AAP) government in Delhi of facilitating a liquor scam - in connection with which Kejriwal is behind bars today - was easily papered over. The bonhomie between the AAP and the Congress leadership at this rally perhaps underscores the extent of the latter's plummeting fortunes. On January 25, Sam Pitroda, the Congress's overseas chief, held a virtual press conference to question the fairness of Electronic Voting Machines (EVMs). During the presser, however, he skirted a question on the victory of his party in",
+  "id": 18,
+  "label": [
+    {
+      "start": 394,
+      "end": 416,
+      "text": "Bharatiya Janata Party",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 418,
+      "end": 421,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 526,
+      "end": 538,
+      "text": "Rahul Gandhi",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 673,
+      "end": 685,
+      "text": "Hemant Soren",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 690,
+      "end": 705,
+      "text": "Arvind Kejriwal",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 732,
+      "end": 740,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 785,
+      "end": 788,
+      "text": "AAP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 949,
+      "end": 952,
+      "text": "AAP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 961,
+      "end": 969,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1095,
+      "end": 1103,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 15,
+      "end": 63,
+      "text": "Indian National Developmental Inclusive Alliance",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 551,
+      "end": 555,
+      "text": "Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 65,
+      "end": 70,
+      "text": "INDIA",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 768,
+      "end": 783,
+      "text": "Aam Aadmi Party",
+      "labels": [
+        "OPP"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 27,
+  "created_at": "2026-03-30T12:29:19.450547Z",
+  "updated_at": "2026-03-30T12:29:19.450562Z",
+  "lead_time": 104.927
+},
+{
+  "text": "A combination of factors, including a strong wave of sympathy, played a pivotal role in securing the emphatic victory of Congress candidate Chandy Oommen in the recent Puthuppally Assembly by-election, necessitated by the passing of his father, Oommen Chandy. Mr. Oommen recorded a resounding victory, surpassing his father’s performance in the 2011 Kerala Assembly polls. He won by a margin of 37,719 votes, while his father’s best victory margin was 33,255 in the constituency that he had represented for 53 years. Mr. Oommen’s main opponent, Jaick C. Thomas of the CPI(M), put up a good fight but failed to overcome the ‘Chandy factor’. Congress leaders attributed the victory to three key elements: Oommen Chandy’s wide appeal with the electorate, a new-found unity within the Congress, and growing dissatisfaction with the ruling CPI (M)-led Left Democratic Front (LDF) coalition in Kerala. On the other hand, the CPI (M) leadership rationalised its defeat, citing factors such as the significant impact of the sympathy wave and alleging that the Bharatiya Janata Party (BJP) had transferred votes to the Congress. The BJP, a relatively minor political player in the constituency, received just 6,558 votes, half of what it achieved in the 2021 Assembly election,",
+  "id": 19,
+  "label": [
+    {
+      "start": 121,
+      "end": 129,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 245,
+      "end": 258,
+      "text": "Oommen Chandy",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 640,
+      "end": 648,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 781,
+      "end": 789,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1076,
+      "end": 1079,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 1110,
+      "end": 1118,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1124,
+      "end": 1127,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 140,
+      "end": 153,
+      "text": "Chandy Oommen",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 521,
+      "end": 527,
+      "text": "Oommen",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 545,
+      "end": 560,
+      "text": "Jaick C. Thomas",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 568,
+      "end": 574,
+      "text": "CPI(M)",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 624,
+      "end": 630,
+      "text": "Chandy",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 703,
+      "end": 716,
+      "text": "Oommen Chandy",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 835,
+      "end": 842,
+      "text": "CPI (M)",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 847,
+      "end": 868,
+      "text": "Left Democratic Front",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 870,
+      "end": 873,
+      "text": "LDF",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 919,
+      "end": 926,
+      "text": "CPI (M)",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1052,
+      "end": 1074,
+      "text": "Bharatiya Janata Party",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 28,
+  "created_at": "2026-03-30T12:43:42.994366Z",
+  "updated_at": "2026-03-30T12:43:42.994379Z",
+  "lead_time": 768.772
+},
+{
+  "text": "On November 20, Nepal had its general elections, its second since the promulgation of the Nepal Constitution of 2015. This was also the first time in Nepal’s history that a parliament had completed a five-year tenure even though legislative activities were conducted for barely 18 months. The last elections saw communist forces uniting and sweeping the elections and relegating the Nepali Congress to a quiet opposition. There was no end to intra-party squabbles, which are a key feature of Nepali politics, and there was a split in the ruling party. What followed next were attempts to dissolve Parliament twice, but only to be reinstated by the Supreme Court. The President also became very active by becoming a part of the push for a dissolution of Parliament as well as not approving a citizenship bill. The November 2022 parliamentary elections saw an awkward pre-poll alliance between the ruling coalition of Nepali Congress and the two communist parties that had split from the main Nepal Communist Party, i.e., the Communist Party of Nepal (Maoist Centre) and the Communist Party of Nepal (Unified Socialist). The alliance was awkward as it was during the Maoist insurgency that some of the biggest killings took place",
+  "id": 20,
+  "annotator": 1,
+  "annotation_id": 29,
+  "created_at": "2026-03-30T12:43:52.235040Z",
+  "updated_at": "2026-03-30T12:43:52.235053Z",
+  "lead_time": 8.23
+},
+{
+  "text": "Besides voting for the 543 Lok Sabha seats, the EC has also announced Assembly elections in Andhra Pradesh, Sikkim, Arunachal Pradesh, and Odisha, as will assembly bypolls for 26 vacant seats. The elections will see Prime Minister Narendra Modi seek a third consecutive term, which will make him only the second person in independent India after Jawaharlal Nehru to achieve the feat. Meanwhile, the Opposition’s Indian National Democratic Inclusive Alliance (INDIA) hopes to cut into the BJP’s electoral track record and broad social coalition. 2024 Lok Sabha polls: Check statewise full schedule In the last general elections in 2019, the BJP rode on a wave of Modi’s pan-Indian popularity and nationalistic fervour to a once-in-a-generation majority. The party won 303 seats, and along with its allies comprising the National Democratic Alliance (NDA) captured 336 seats. The Congress was reduced to 52 seats. Lok Sabha Election 2024: Phase-wise schedule • Phase 1- April 19 • Phase 2- April 26 • Phase 3- May 7 • Phase 4 - May 13 • Phase 5 - May 20 • Phase 6 - May 25 • Phase 7 - June 1",
+  "id": 21,
+  "label": [
+    {
+      "start": 231,
+      "end": 244,
+      "text": "Narendra Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 488,
+      "end": 491,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 640,
+      "end": 643,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 878,
+      "end": 886,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 399,
+      "end": 409,
+      "text": "Opposition",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 412,
+      "end": 457,
+      "text": "Indian National Democratic Inclusive Alliance",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 459,
+      "end": 464,
+      "text": "INDIA",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 662,
+      "end": 666,
+      "text": "Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 819,
+      "end": 847,
+      "text": "National Democratic Alliance",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 849,
+      "end": 852,
+      "text": "NDA",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 30,
+  "created_at": "2026-03-30T12:58:18.064093Z",
+  "updated_at": "2026-03-30T12:58:18.064107Z",
+  "lead_time": 864.727
+},
+{
+  "text": "Though many pollsters and analysts cite the consolidation of the OBC vote bank as the primary reason behind the BJP’s victory, not much is known about the composition of this category in Haryana. A widely-held assumption is that groups constituting the OBC category in Haryana are homogeneous, best captured through the Hindi descriptor pichade (“those lagging behind”). This projects the OBC as a sociological category, which, unfortunately, it is not. It is thus essential to disaggregate the OBC category in light of these election results. In Haryana, the OBC category is split into two sub-categories – Block A and Block B. Block A comprises landless castes like the Barbers (Nai), Potters (Kumhar), Blacksmiths (Lohars), among others. Though these castes have never been subjected to the practice of untouchability, a feature that distinguishes them from the Dalit castes, they are socially, politically and economically deprived. In stark contrast, Block B consists of several landowning agricultural castes, or what in anthropological parlance are known as dominant castes. They include the Ahirs (Yadav), Gujars, Sainis, and Meos, among others. Much like the Jats, these groups too have had a dominant position in Haryana’s agricultural structure. For these reasons, their inclusion in the reservations",
+  "id": 22,
+  "label": [
+    {
+      "start": 112,
+      "end": 115,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 31,
+  "created_at": "2026-03-30T12:58:59.245022Z",
+  "updated_at": "2026-03-30T12:58:59.245037Z",
+  "lead_time": 40.279
+},
+{
+  "text": "(This is the latest edition of the Political Line newsletter curated by Varghese K. George. The Political Line newsletter is India’s political landscape explained every week. You can subscribe here to get the newsletter in your inbox.) Provincial political interest groups represented by regional and caste parties resist national parties, both the Bharatiya Janata Party (BJP) and the Congress. The outcome of the 2024 Lok Sabha election turned out to be a speed breaker for the BJP — or at least that is how it came to be interpreted. But has it interrupted the homogenisation push of the BJP particularly, and nationalist politics in general? I am working on a piece on that question, and hope to write that soon, but meanwhile, here is a teaser. Readers of the Political Line are most welcome to share their thoughts on some of these recent developments, and how all this ties in with the politics of the BJP. In Andhra Pradesh, BJP ally and Telugu Desam Party (TDP) leader N. Chandrababu Naidu has opened a war front against his arch-rival and Yuvajana Sramika Rythu Congress Party (YSRCP) chief Y.S. Jagan Mohan Reddy on the question of faith. Mr. Reddy is a Christian.",
+  "id": 23,
+  "label": [
+    {
+      "start": 373,
+      "end": 376,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 386,
+      "end": 394,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 480,
+      "end": 483,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 591,
+      "end": 594,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 909,
+      "end": 912,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 933,
+      "end": 936,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 946,
+      "end": 964,
+      "text": "Telugu Desam Party",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 978,
+      "end": 998,
+      "text": "N. Chandrababu Naidu",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 349,
+      "end": 371,
+      "text": "Bharatiya Janata Party",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 966,
+      "end": 969,
+      "text": "TDP",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 32,
+  "created_at": "2026-03-30T13:05:24.263887Z",
+  "updated_at": "2026-03-30T13:05:24.263904Z",
+  "lead_time": 384.01
+},
+{
+  "text": "The COVID-19 distress has caused immense hardship to the lakhs of Bihari migrants. And this may just be the kind of opportunity the BJP was looking for to break the alliance with Nitish Kumar’s JDU and go alone in the Bihar Assembly elections, due in November this year. BJP has already started needling Nitish Kumar through the central government’s decision to shift the famous Indian Institute of Mechanical and Electrical Engineering, from Jamalpur in Bihar, to Uttar Pradesh. And Nitish has already shot a furious letter to the Centre, asking it to revert this decision.",
+  "id": 24,
+  "label": [
+    {
+      "start": 132,
+      "end": 135,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 271,
+      "end": 274,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 304,
+      "end": 316,
+      "text": "Nitish Kumar",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 179,
+      "end": 193,
+      "text": "Nitish Kumar’s",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 194,
+      "end": 197,
+      "text": "JDU",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 484,
+      "end": 490,
+      "text": "Nitish",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 33,
+  "created_at": "2026-03-30T13:06:04.644508Z",
+  "updated_at": "2026-03-30T13:06:04.644521Z",
+  "lead_time": 38.194
+},
+{
+  "text": "Thousands of farmers are at Delhi's borders protesting over the three farm bills passed by Parliament in the last Monsoon Session. They have threatened to block the five main entry routes to Delhi from neighbouring states. The farmers say they are prepared for a long haul in this \"decisive battle\". The Narendra Modi government has sent signals that it is willing to help farmers end their agitation before the winter gets harsher and the protest event turns into a super-spreader for Covid-19. Read Full Story Union Home Minister Amit Shah is said to have held two meetings with Union Agriculture Minister Narendra Singh Tomar after returning from the poll campaign for Hyderabad municipal polls. Some reports have quoted a couple of farmer leaders as saying that they received a telephone call from Amit Shah expressing the government's readiness for talks. This indicates that the protest by farmers may end soon. But with what kind of outcome will the farmers' protest end? First, let's see who these farmers are and why they are protesting. The protest has farmers from Punjab and Haryana as its main constituents. Farmers have also come from Rajasthan and Uttar Pradesh. In Haryana and western Uttar Pradesh,",
+  "id": 25,
+  "label": [
+    {
+      "start": 304,
+      "end": 317,
+      "text": "Narendra Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 608,
+      "end": 628,
+      "text": "Narendra Singh Tomar",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 802,
+      "end": 811,
+      "text": "Amit Shah",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 532,
+      "end": 541,
+      "text": "Amit Shah",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 34,
+  "created_at": "2026-03-30T13:06:38.879001Z",
+  "updated_at": "2026-03-30T13:06:38.879015Z",
+  "lead_time": 32.877
+},
+{
+  "text": "Is the exodus of leaders from the Bahujan Samaj Party (BSP) in Uttar Pradesh a signal of the decline of the once-powerful political entity symbolised by the giant elephant? In yet another major setback ahead of the general elections, Lok Sabha MP Ritesh Pandey resigned from the Mayawati-led BSP and joined the BJP on February 25. Reports suggest that three more BSP MPs are poised to follow suit before the general elections, with another BSP MP considering a switch to Jayant Chaudhary's Rashtriya Lok Dal (RLD). Previously, Ghazipur MP Afzal Ansari had already secured a Samajwadi Party (SP) ticket from the same seat, while Amroha MP Danish Ali, suspended by the BSP for anti-party activities, is set to join the Congress. Another BSP MP from Jaunpur joined Rahul Gandhi's Bharat Jodo Nyay Yatra on February 25. Consequently, out of a total 10 MPs in 2019, Mayawati's party may end up with retaining only two. It appears that BSP leaders, in a last-ditch effort to salvage their political futures, are fleeing to safer havens, leaving the once formidable party in a state of limbo. Following the seat pact between the SP and the Congress in Uttar Pradesh, BSP leaders fear diminished",
+  "id": 26,
+  "label": [
+    {
+      "start": 247,
+      "end": 260,
+      "text": "Ritesh Pandey",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 279,
+      "end": 287,
+      "text": "Mayawati",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 311,
+      "end": 314,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 574,
+      "end": 589,
+      "text": "Samajwadi Party",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 717,
+      "end": 725,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 861,
+      "end": 869,
+      "text": "Mayawati",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1133,
+      "end": 1141,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 34,
+      "end": 53,
+      "text": "Bahujan Samaj Party",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 55,
+      "end": 58,
+      "text": "BSP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 292,
+      "end": 295,
+      "text": "BSP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 440,
+      "end": 443,
+      "text": "BSP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 591,
+      "end": 593,
+      "text": "SP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 509,
+      "end": 512,
+      "text": "RLD",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 471,
+      "end": 487,
+      "text": "Jayant Chaudhary",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 490,
+      "end": 507,
+      "text": "Rashtriya Lok Dal",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 667,
+      "end": 670,
+      "text": "BSP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 638,
+      "end": 648,
+      "text": "Danish Ali",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 735,
+      "end": 738,
+      "text": "BSP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 762,
+      "end": 773,
+      "text": "Rahul Gandh",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1160,
+      "end": 1163,
+      "text": "BSP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 930,
+      "end": 933,
+      "text": "BSP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1122,
+      "end": 1124,
+      "text": "SP",
+      "labels": [
+        "OPP"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 40,
+  "created_at": "2026-03-30T13:41:27.987045Z",
+  "updated_at": "2026-03-30T13:41:27.987058Z",
+  "lead_time": 230.427
+},
+{
+  "text": "Dear Express reader In the last week, two assembly election processes were completed, and one of them saw voting after a decade of electionlessness, and five years after the unprecedented step of a state being carved into two Union Territories. And in the country’s most backward state with the highest number of the poor, a new party was born. Advertisement The wheels of India’s politics keep turning, and amid the great challenges of change, it shows a capacity to renew itself. In Jammu & Kashmir, participation and voting became the new consensus that overtook boycott politics in this election. And in Bihar, Prashant Kishor’s Jan Suraaj party is the new entrant that audaciously promises a “naya vikalp (new alternative)” in a battle-weary landscape scarred with political experiments that fizzled out into unfulfilled possibilities. In the end, in J&K, the election may be far more consequential than its outcome. Exit polls give the winning edge to the National Conference-Congress combine, but whatever be the final tally on October 8, what will remain far more significant is this: That, stripped of its special status and statehood, Kashmir trudged to the polling booth and, arguably for the first time after 1987, the poll",
+  "id": 27,
+  "label": [
+    {
+      "start": 962,
+      "end": 990,
+      "text": "National Conference-Congress",
+      "labels": [
+        "OPP"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 39,
+  "created_at": "2026-03-30T13:37:35.879244Z",
+  "updated_at": "2026-03-30T13:37:35.879257Z",
+  "lead_time": 144.796
+},
+{
+  "text": "Rahul Gandhi’s trusted lieutenant K.C. Venugopal, who ran away from the electoral fray in the 2019 Lok Sabha election, echoed his boss’s sentiments as he opposed a tie-up with the Shiv Sena. But the fear of large-scale defections in the party, more than the temptation to keep the BJP out of power in India’s most industrialised state, prevailed over Sonia Gandhi’s motherly instincts; she gave a go-ahead for talks with the Shiv Sena. The election results were especially shocking to Rahul Gandhi. He hasn’t said a word on the poll outcome in the past one month, not to speak of congratulating party veterans on turning things around. Have you seen or heard of a leader who goes into a sulk because his party has done well in the elections? Rahul Gandhi had reasons to celebrate Saturday evening. Nationalist Congress Party chief Sharad Pawar’s nephew, Ajit Pawar, had saved the day for all dynasts in Indian politics by supporting the Bharatiya Janata Party in Maharashtra. Imagine the implications of the Congress coming to power in a state despite the Nehru-Gandhi family having played virtually no role in the election campaign – while Sonia Gandhi and Priyanka Vadra stayed away, Rahul Gandhi",
+  "id": 28,
+  "label": [
+    {
+      "start": 34,
+      "end": 48,
+      "text": "K.C. Venugopal",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 281,
+      "end": 284,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 485,
+      "end": 497,
+      "text": "Rahul Gandhi",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 742,
+      "end": 754,
+      "text": "Rahul Gandhi",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 831,
+      "end": 843,
+      "text": "Sharad Pawar",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 854,
+      "end": 864,
+      "text": "Ajit Pawar",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 1008,
+      "end": 1016,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1141,
+      "end": 1153,
+      "text": "Sonia Gandhi",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1186,
+      "end": 1198,
+      "text": "Rahul Gandhi",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 0,
+      "end": 14,
+      "text": "Rahul Gandhi’s",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 351,
+      "end": 365,
+      "text": "Sonia Gandhi’s",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 798,
+      "end": 824,
+      "text": "Nationalist Congress Party",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 937,
+      "end": 959,
+      "text": "Bharatiya Janata Party",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 1158,
+      "end": 1172,
+      "text": "Priyanka Vadra",
+      "labels": [
+        "OPP"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 41,
+  "created_at": "2026-03-30T13:43:07.290353Z",
+  "updated_at": "2026-03-30T13:43:07.290368Z",
+  "lead_time": 96.157
+},
+{
+  "text": "The government’s ‘simultaneous elections’ agenda goes much further than the other ideas of ‘oneness’ it propounds; it will spell a deepening of centralisation. It would be dangerous to dismiss the fresh impetus to introduce “simultaneous” elections to the Lok Sabha and the State Assemblies as yet another gimmick in the run-up to the next general election scheduled for 2024. Editorial | Tiers apart: On the ‘one nation, one election’ trial balloon While several committees since 1999 have examined the proposal, the push to introduce and make permanent simultaneous polls once every five years has come over the past decade, with Prime Minister Narendra Modi often speaking about its desirability. This, however, is perhaps the first time that a high-level committee is headed by a former President of India, a most unusual appointment that is meant to impose a stamp of legitimacy on the recommendation. The selling of a simplistic idea and the truth Of all the “One India” decisions taken by the Union Government since 2014, this proposal is the most important. If carried through, it will further centralise power in New Delhi, strengthen the hold of national parties when in office, and reduce the importance of regional parties. This",
+  "id": 29,
+  "label": [
+    {
+      "start": 647,
+      "end": 660,
+      "text": "Narendra Modi",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 38,
+  "created_at": "2026-03-30T13:35:08.222495Z",
+  "updated_at": "2026-03-30T13:35:08.222506Z",
+  "lead_time": 1268.192
+},
+{
+  "text": "Published : Nov 30, 2023 11:00 IST - 6 MINS READ In Pushkar constituency in Rajasthan’s Ajmer district, the advocate Prakash Rawat is able to locate my phone number even as I sit talking to him in the BJP candidate’s party office. Rawat is the BJP’s IT head for Ajmer district and is responsible for social media messaging for five Assembly seats besides being in charge of 241 polling booths in Pushkar constituency. The way the system works, he explains, is that there are 32 shakti kendras for the 241 polling booths that are monitored by six mandals. That, in a nutshell, is the breakdown of the BJP’s famed election management for a cluster of voting booths in an Assembly constituency. There are multiple layers in the sangathan, or organisation, of the BJP and the RSS, from candidate to cadre to leader. In Pushkar, I happened to meet a group of local professionals working full-time for the BJP for this election. They were ideologically driven and made some interesting points. Their analysis was that the sidelining of former Chief Minister Vasundhara Raje does not sink a party like the BJP as people are also motivated by the party’s ideology and",
+  "id": 30,
+  "label": [
+    {
+      "start": 201,
+      "end": 204,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 244,
+      "end": 247,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 600,
+      "end": 603,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 760,
+      "end": 763,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 772,
+      "end": 775,
+      "text": "RSS",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 900,
+      "end": 903,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 1052,
+      "end": 1067,
+      "text": "Vasundhara Raje",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 1099,
+      "end": 1102,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 117,
+      "end": 130,
+      "text": "Prakash Rawat",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 42,
+  "created_at": "2026-03-30T13:46:55.552790Z",
+  "updated_at": "2026-03-30T13:46:55.552803Z",
+  "lead_time": 226.488
+},
+{
+  "text": "Times Now-VMR Exit Poll 2019 Results | Photo Credit: Times Now New Delhi: Most exit polls on Sunday predicted another term for Prime Minister Narendra Modi, with some of the polls forecasting that Bharatiya Janata Party-led National Democratic Alliance (NDA) will win over 300 out of 542 Lok Sabha seats that went to the polls. According to Times Now-VMR exit poll 2019 results, the NDA is likely to win a clear majority with 306 Lok Sabha seats while the UPA could get just 132 seats. Exit polls suggested a major surge in BJP’s presence in West Bengal and Odisha, while there were divisions in their prediction for Uttar Pradesh. Commenting on the exit polls, the BJP said they display a huge positive vote for PM Modi, but opposition parties have dismissed the predictions. Elections to 542 seats of the 543-member Lok Sabha ended on Sunday. The Election Commission had cancelled election for Tamil Nadu’s Vellore Lok Sabha seat over allegations of misuse of money power. The Election Commission of India will declare the final results on May 23. The Times Now-VMR Exit Poll 2019 was carried out between April 11 and May 19, 2019. The survey was carried out at",
+  "id": 31,
+  "label": [
+    {
+      "start": 142,
+      "end": 155,
+      "text": "Narendra Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 197,
+      "end": 219,
+      "text": "Bharatiya Janata Party",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 524,
+      "end": 527,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 666,
+      "end": 669,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 224,
+      "end": 252,
+      "text": "National Democratic Alliance",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 254,
+      "end": 257,
+      "text": "NDA",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 383,
+      "end": 386,
+      "text": "NDA",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 456,
+      "end": 459,
+      "text": "UPA",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 716,
+      "end": 720,
+      "text": "Modi",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 43,
+  "created_at": "2026-03-30T13:47:43.785827Z",
+  "updated_at": "2026-03-30T13:47:43.785843Z",
+  "lead_time": 47.128
+},
+{
+  "text": "America knows best. Or does it? Democracy and elections are under a strenuous test in the US, not so much because of the impending result but because of the run-up leading up to it - and the aftermath feared. America may be the Great Influencer, but when it comes to the election process, boy, has it come across so far as a dysfunctional democratic state.Excitement, of course, is always when personalities involved are 'colourful' and the election process itself is high-octane low entertainment. Racist and misogynistic remarks have flown thick and fast. For months, the US has been locked in a veritable civil war, polarised not only by 'donkey' and 'elephant', but also by ethnic, class, urban-rural, collegiate and non-collegiate divisions, these divisions not necessarily cutting across each other neatly. The election has even appeared to be a fight between America's men and women.Electoral India seems to fare better. Sure, the Model Code of Conduct (MCC) could be served better. But it has served well so far. Yes, arguments over the efficacy of the 60-yr-old MCC abound. But without it, campaign discourse could go the American way.Large democracies can ill afford residues of ugly election campaigns, especially when those edged",
+  "id": 32,
+  "annotator": 1,
+  "annotation_id": 37,
+  "created_at": "2026-03-30T13:13:56.857675Z",
+  "updated_at": "2026-03-30T13:13:56.857688Z",
+  "lead_time": 3.846
+},
+{
+  "text": "Trends on the electoral stage indicate that the ruling establishment’s strategy with regard to Jammu and Kashmir has switched. It is difficult to understand why. For most of the past five years, there was an all-out effort to suppress, jail, or at least marginalise those who had taken separatist positions in the past. But some of those are now springing back to the political centre stage.",
+  "id": 33,
+  "annotator": 1,
+  "annotation_id": 44,
+  "created_at": "2026-03-30T13:47:54.067539Z",
+  "updated_at": "2026-03-30T13:47:54.067557Z",
+  "lead_time": 7.563
+},
+{
+  "text": "AS INDIA bloc parties come out one by one in favour of fellow member Aam Aadmi Party (AAP), the Congress again finds itself in a bind over how far to push against the party that is behind its demise in the Capital. In 2022, for example, while campaigning for the Assembly elections in Punjab, Rahul Gandhi was unusually scathing against Arvind Kejriwal. Targeting the then Delhi Chief Minister, he said the AAP chief could be found at the home of a terrorist and that no CM of the Congress would ever do so. He was referring to Kejriwal’s stay at the house of former Khalistan Commando Force militant Gurinder Singh in Moga ahead of the 2017 elections. Kejriwal fumed and called the allegations laughable. Cut to 2025. Recently, the Delhi Congress cancelled at the last minute a press conference to be addressed by AICC treasurer Ajay Maken where Kejriwal was to be targeted as “deshdrohi (traitor)”. Sources in the Congress said the leadership – some say Gandhi himself – was not comfortable with this line of attack against the AAP supremo. Apart from being INDIA partners, the Congress and AAP have been toying with the idea of being poll allies",
+  "id": 34,
+  "label": [
+    {
+      "start": 86,
+      "end": 89,
+      "text": "AAP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 96,
+      "end": 104,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 293,
+      "end": 305,
+      "text": "Rahul Gandhi",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 337,
+      "end": 352,
+      "text": "Arvind Kejriwal",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 407,
+      "end": 410,
+      "text": "AAP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 481,
+      "end": 489,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 815,
+      "end": 819,
+      "text": "AICC",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 830,
+      "end": 840,
+      "text": "Ajay Maken",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 916,
+      "end": 924,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1030,
+      "end": 1033,
+      "text": "AAP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1080,
+      "end": 1088,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1093,
+      "end": 1096,
+      "text": "AAP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 69,
+      "end": 84,
+      "text": "Aam Aadmi Party",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 528,
+      "end": 536,
+      "text": "Kejriwal",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 653,
+      "end": 661,
+      "text": "Kejriwal",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 739,
+      "end": 747,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 847,
+      "end": 855,
+      "text": "Kejriwal",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 956,
+      "end": 962,
+      "text": "Gandhi",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1060,
+      "end": 1065,
+      "text": "INDIA",
+      "labels": [
+        "OPP"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 45,
+  "created_at": "2026-03-30T13:52:37.700912Z",
+  "updated_at": "2026-03-30T13:52:37.700925Z",
+  "lead_time": 282.377
+},
+{
+  "text": "The Hindi heartland, more often than not, decides who forms the government in Delhi. Of the 189 Lok Sabha seats in the six States of Bihar, Chhattisgarh, Madhya Pradesh, Rajasthan, U.P. and Uttarakhand that make up the very core of this territory, votes have been cast for 71 seats, in the first two phases. In Chhattisgarh, Madhya Pradesh and Rajasthan — where the BJP won the Assembly polls last year — the two principal national parties are in a direct contest which could determine who gets to lead the next government. For the BJP, the general election had begun on a high note with Prime Minister Narendra Modi setting the target of 400 seats for the party and its allies to win, even before the poll notification on March 16. The very next day, he even asked the Cabinet to draft the plan for the first 100 days of the next government which he is confident of forming. The Opposition on the other hand, began its campaign from a position of relative weakness and far less enthusiasm. The constituents of the INDIA bloc were still fighting among themselves on the seat-sharing formula. Developments since then have led to fresh questions.",
+  "id": 35,
+  "label": [
+    {
+      "start": 366,
+      "end": 369,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 532,
+      "end": 535,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 603,
+      "end": 616,
+      "text": "Narendra Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 880,
+      "end": 890,
+      "text": "Opposition",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1015,
+      "end": 1025,
+      "text": "INDIA bloc",
+      "labels": [
+        "OPP"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 59,
+  "created_at": "2026-03-30T14:14:31.726776Z",
+  "updated_at": "2026-03-30T14:14:31.726792Z",
+  "lead_time": 44.759
+},
+{
+  "text": "In the run-up to the impending election to the Maharashtra Assembly, the rivalry between the two factions of the Nationalist Congress Party (NCP), now operating as separate parties, will have its inevitable influence on political developments and electoral outcomes. In the latest development related to the rift, NCP founder Sharad Pawar has approached the Supreme Court for a direction to the NCP led by Ajit Pawar to opt for a new symbol in the Assembly elections. The NCP’s ‘clock’ symbol is with the Ajit Pawar group, following a ruling by the Election Commission of India (ECI) in February, recognising it as the official NCP. There is some logic to the demand that the Ajit Pawar group give up the ‘clock’ now. The ECI’s order has already been challenged in the Supreme Court. Oral observations in early hearings indicated that there are some doubts about the ‘legislative majority’ test adopted by the ECI while recognising the Ajit Pawar faction as the NCP and allotting the ‘clock’ to the group. The ECI’s order had justified the use of the legislative majority test by observing that the test on which group had organisational majority was inconclusive, as was the test based on the",
+  "id": 36,
+  "label": [
+    {
+      "start": 326,
+      "end": 338,
+      "text": "Sharad Pawar",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 406,
+      "end": 416,
+      "text": "Ajit Pawar",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 505,
+      "end": 515,
+      "text": "Ajit Pawar",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 676,
+      "end": 686,
+      "text": "Ajit Pawar",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 936,
+      "end": 946,
+      "text": "Ajit Pawar",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 58,
+  "created_at": "2026-03-30T14:13:45.911057Z",
+  "updated_at": "2026-03-30T14:13:45.911073Z",
+  "lead_time": 74.427
+},
+{
+  "text": "Akhilesh Yadav of the Samajwadi Party emerged as a hero in the 2024 Lok Sabha elections after the SP-Congress combine reduced the Bharatiya Janata Party in Uttar Pradesh to just 33 seats. Akhilesh and Rahul Gandhi — the do ladkon ki jodi — defeated the mighty Narendra Modi-Yogi Adityanath “double engine”, and played a key role in bringing down the BJP’s tally at national level. Â Read Full Story In neighbouring Bihar, however, Tejashwi Yadav could not replicate this success despite his popularity among the youth and Nitish Kumar’s declining appeal amid constant flip-flops. While the INDIA bloc dented the National Democratic Alliance tally in Bihar, it was on expected lines, Nitish Kumar’s gharwapsi benefitting the BJP-led coalition. The SP learnt its lessons in the 2022 Vidhan Sabha elections — while the party’s vote share increased by 10.2 per cent, it largely improved at the cost of the Bahujan Samaj Party and others; the BJP’s vote share rose by 1.6 per cent. In 2024, the SP’s vote share increased by 16 per cent and ally Congress by three per cent, coming equally at the expense of the BSP (10 per cent) and the BJP (nine per cent). This, in comparison",
+  "id": 37,
+  "label": [
+    {
+      "start": 0,
+      "end": 14,
+      "text": "Akhilesh Yadav",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 201,
+      "end": 213,
+      "text": "Rahul Gandhi",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 260,
+      "end": 273,
+      "text": "Narendra Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 274,
+      "end": 289,
+      "text": "Yogi Adityanath",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 350,
+      "end": 353,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 431,
+      "end": 445,
+      "text": "Tejashwi Yadav",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 724,
+      "end": 727,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 938,
+      "end": 941,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 1040,
+      "end": 1048,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1131,
+      "end": 1134,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 22,
+      "end": 37,
+      "text": "Samajwadi Party",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 98,
+      "end": 109,
+      "text": "SP-Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 130,
+      "end": 152,
+      "text": "Bharatiya Janata Party",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 188,
+      "end": 196,
+      "text": "Akhilesh",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 522,
+      "end": 534,
+      "text": "Nitish Kumar",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 590,
+      "end": 600,
+      "text": "INDIA bloc",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 612,
+      "end": 640,
+      "text": "National Democratic Alliance",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 683,
+      "end": 695,
+      "text": "Nitish Kumar",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 747,
+      "end": 749,
+      "text": "SP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 902,
+      "end": 921,
+      "text": "Bahujan Samaj Party",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 990,
+      "end": 992,
+      "text": "SP",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1105,
+      "end": 1108,
+      "text": "BSP",
+      "labels": [
+        "OPP"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 57,
+  "created_at": "2026-03-30T14:12:29.978152Z",
+  "updated_at": "2026-03-30T14:12:29.978166Z",
+  "lead_time": 108.089
+},
+{
+  "text": "India’s electoral outcome is the best thing that could have happened to Indian foreign policy. The composition of the new National Democratic Alliance (NDA) government sends a signal of continuity to India’s friends. But there is, as Prime Minister (PM) Narendra Modi has repeatedly emphasised in speeches over the past decade, a difference between a single-party majority government and a coalition government. The space available to the executive in some domains (for instance, deepening security and technology partnerships with the United States (US), France, and Japan) may remain the same in the context of a wider consensus on where India needs to develop its capabilities and the friends it must work with. The space available in other domains (for instance, the relatively secretive approach to China and specifics of the border issue) may shrink in the context of a more divided polity with stronger Opposition forces in Parliament demanding more public information, if not answers, on India’s principal strategic adversary. Japan's Prime Minister Fumio Kishida, front right, Australia's Prime Minister Anthony Albanese, front left, Prime Minister Narendra Modi, back left, and U.S. President Joe Biden walk as they hold a Quad meeting on the sidelines of the G7 summit, at",
+  "id": 38,
+  "label": [
+    {
+      "start": 254,
+      "end": 267,
+      "text": "Narendra Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 1158,
+      "end": 1171,
+      "text": "Narendra Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 122,
+      "end": 150,
+      "text": "National Democratic Alliance",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 152,
+      "end": 155,
+      "text": "NDA",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 910,
+      "end": 920,
+      "text": "Opposition",
+      "labels": [
+        "OPP"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 56,
+  "created_at": "2026-03-30T14:10:40.928711Z",
+  "updated_at": "2026-03-30T14:10:40.928726Z",
+  "lead_time": 70.293
+},
+{
+  "text": "Socialist leader Ram Manohar Lohia often used to say that elections are the biggest festival of the country in which an excited public dresses up and participates. In public perception, the BJP under the double-engine rule of the Prime Minister Narendra Modi and chief minister Yogi Adityanath, has already won the battle of ballots and the guesstimate is on picks ranging from 70+, though some have given a slogan of 80\/80. (PTI) Much of the voters’ enthusiasm evaporates when the election results look like a forgone conclusion in a state which sends the declared ruler to the Central throne and often plays a decisive role in its strength of 80 members in a 543-member Lok Sabha, about one-sixth of the country’s total share — a scene straight from the upcoming 2024 general elections. But as the Indian voter as well as politics can be unpredictable, even the front-runners, like the Bharatiya Janata Party (BJP), rarely leave any stone unturned to reach the finishing line. The politicians too are men of steel, which explains the tenacity with which the Congress leader Rahul Gandhi and Samajwadi Party national president Akhilesh Yadav have entered the poll arena with full vigour despite the cards",
+  "id": 39,
+  "label": [
+    {
+      "start": 190,
+      "end": 193,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 245,
+      "end": 258,
+      "text": "Narendra Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 278,
+      "end": 293,
+      "text": "Yogi Adityanath",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 912,
+      "end": 915,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 1060,
+      "end": 1068,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1076,
+      "end": 1088,
+      "text": "Rahul Gandhi",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1093,
+      "end": 1108,
+      "text": "Samajwadi Party",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1128,
+      "end": 1142,
+      "text": "Akhilesh Yadav",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 888,
+      "end": 910,
+      "text": "Bharatiya Janata Party",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 55,
+  "created_at": "2026-03-30T14:09:29.662400Z",
+  "updated_at": "2026-03-30T14:09:29.662412Z",
+  "lead_time": 69.257
+},
+{
+  "text": "That we are continually occupied with elections is both an advantage and a flaw of Indian democracy. Three northeastern states will hold elections early next year, following the assembly elections in Gujarat, Himachal Pradesh, and municipal polls in Delhi. Out of the three northeastern states, the Bharatiya Janata Party (BJP) secured a thumping victory in Tripura, but the governments in Meghalaya and Nagaland resulted from political manoeuvring. During his tenure, PM Narendra Modi prioritised the Northeast. But as a new alliance is being formed to oppose the BJP juggernaut, will this association begin with these seven sisters? (ANI) The Congress emerged as the single largest party in Meghalaya, capturing 21 seats, but failed to establish the government. Let us begin with Tripura. The assembly elections in February 2018 were significant in more ways than one. After West Bengal, this was the country’s only state ruled by the Left Front for 25 years in a row. Manik Sarkar, an exceptionally honest man, was the chief minister there. But despite his best efforts, he failed. The BJP won 35 seats, surpassing the magic figure of 31 required for a majority. The Left was reduced to 16 seats. However, there was only a",
+  "id": 40,
+  "label": [
+    {
+      "start": 323,
+      "end": 326,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 472,
+      "end": 485,
+      "text": "Narendra Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 565,
+      "end": 568,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 645,
+      "end": 653,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1089,
+      "end": 1092,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 299,
+      "end": 321,
+      "text": "Bharatiya Janata Party",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 54,
+  "created_at": "2026-03-30T14:08:19.279196Z",
+  "updated_at": "2026-03-30T14:08:19.279211Z",
+  "lead_time": 26.677
+},
+{
+  "text": "The submission of what is popularly called the caste census in Karnataka just before the parliamentary elections has brought to the fore the two very different poll strategies of the Congress and the Bharatiya Janata Party (BJP). The BJP has predictably targeted the study as being unscientific, suggesting it expects to benefit by rallying behind the Opposition to the report from the two dominant communities in the state: Lingayats and Vokkaligas. By choosing not to postpone the submission of the report till after the elections, the Congress clearly has its own plans. Karnataka State Permanent Backward Classes Commission chairman K Jayaprakash Hegde submitted a voluminous report on the caste survey to CM Siddaramaiah on Thursday. (ANI) When seen from an aggregate view of castes in the state, the BJP’s strategy is easy to understand. To come near repeating its sweeping victory in the state in 2019, it needs to get back the support of the Lingayats that it lost in the assembly elections. In addition, it hopes to make inroads into the Vokkaligas by aligning with the party most associated with that caste, the Janata Dal (Secular). The submission of the caste census provided the BJP with a significant issue",
+  "id": 41,
+  "label": [
+    {
+      "start": 183,
+      "end": 191,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 224,
+      "end": 227,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 234,
+      "end": 237,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 538,
+      "end": 546,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 637,
+      "end": 656,
+      "text": "K Jayaprakash Hegde",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 713,
+      "end": 725,
+      "text": "Siddaramaiah",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 806,
+      "end": 809,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 1192,
+      "end": 1195,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 200,
+      "end": 222,
+      "text": "Bharatiya Janata Party",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 352,
+      "end": 362,
+      "text": "Opposition",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1122,
+      "end": 1142,
+      "text": "Janata Dal (Secular)",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 53,
+  "created_at": "2026-03-30T14:07:51.458093Z",
+  "updated_at": "2026-03-30T14:07:51.458116Z",
+  "lead_time": 298.491
+},
+{
+  "text": "In a sudden turn of events, the army in Myanmar mounted a coup in the early hours of Monday to seize power from the democratically elected government, whose de facto leader was Nobel laureate Aung San Suu Kyi. In fact, Suu Kyi and President U Win Myint have been detained along with other leaders of the National League for Democracy (NLD) party. Suu Kyi’s NLD had just won a landslide victory in November polls, picking up more than 80% of the popular vote and winning 396 out of the 476 seats on offer. However, the army-backed party, the USDP, complained of election fraud. The army took these allegations seriously and even threatened to scrap its own 2008 Constitution. It decided to swoop in and take power hours before the first sitting of Parliament since the November polls. Power has now been handed over to Myanmar army chief, Min Aung Hlaing, and a state of emergency has been declared for a year. Myanmar had been taking baby steps towards a democratic polity since 2011, and the army coup is an enormous setback. But it’s clear that the army was never fully onboard the democratic project, and had hoped for a managed",
+  "id": 42,
+  "annotator": 1,
+  "annotation_id": 36,
+  "created_at": "2026-03-30T13:13:32.880620Z",
+  "updated_at": "2026-03-30T13:13:32.880634Z",
+  "lead_time": 2.829
+},
+{
+  "text": "In her guest column for The Times Of India, Rega Jha, former Editor-in-Chief of Buzzfeed India, talks about how the human mind, especially the Indian mind, deals with the news of rape. Jha talks about how as a journalist, her response to these incidents would be clinical and focused on how to “cover” such an event. That came with the guilty realisation that the propensity of people to react to negative news is more than that of them to react to positive news. A realisation proved true by research. This, Jha says, is why it is also really important to examine the effect that such news has on our mental health.",
+  "id": 43,
+  "annotator": 1,
+  "annotation_id": 35,
+  "created_at": "2026-03-30T13:13:28.698844Z",
+  "updated_at": "2026-03-30T13:13:28.698857Z",
+  "lead_time": 4.613
+},
+{
+  "text": "If numbers tell a story, Maharashtra’s political landscape has thrown up an exciting one. Since the elections were announced, Prime Minister Narendra Modi has made a dozen visits to the state, and will likely make another half a dozen, if not more, till May 20 — the fifth and the last phase of polling in Maharashtra. Add to this an equal number of visits in the 12 months leading up to the election announcement. Yet, as the state’s third phase polling gets underway on May 7, Maharashtra remains as enigmatic as ever for the BJP. The gravity of the challenge in Maharashtra this time can be understood if seen in the light of the number of rallies — five — that the PM addressed in Maharashtra during the 2019 Lok Sabha elections. There seems to be such nervousness in the BJP that the PM, in a rare instance, has presented himself twice in one district. All these facts hint at one thing: The BJP leadership’s belief that the state could turn out to be its Achilles’ heel and that it is too important to be left for the local hotchpotch alliance to manage. This has resulted in the PM and",
+  "id": 44,
+  "label": [
+    {
+      "start": 141,
+      "end": 154,
+      "text": "Narendra Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 528,
+      "end": 531,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 776,
+      "end": 779,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 897,
+      "end": 900,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 52,
+  "created_at": "2026-03-30T14:02:49.597268Z",
+  "updated_at": "2026-03-30T14:02:49.597282Z",
+  "lead_time": 109.959
+},
+{
+  "text": "They could have lost the 2019 Lok Sabha election too, if only they had a smarter opponent. It is clear that the mantle was on Rahul Gandhi, as Modi made the election mercilessly presidential. If people wanted Rahul Gandhi as prime minister, it would have lifted the fortunes of regional parties too, with the prospect of a UPA-3. There are no certainties in politics. Narendra Modi and Amit Shah were defeated in Delhi and Bihar in 2015. They couldn’t capture power in Karnataka despite being the single largest party in 2018. They embarrassingly lost many by-polls they should have won easily. Just a few months before the Lok Sabha elections, they lost some key stronghold states in the Hindi heartland. Here are four key mistakes Rahul Gandhi made. 1. Positive campaigning The big picture of Rahul Gandhi’s campaign was negative—the slogan we heard the most was “Chowkidar chor hai”. Compare this to Modi’s campaign as opposition leader in 2013-14. It was about promising “Achhe din”, about making things happen, solving problems, showing people big dreams. Voters want to know from opposition leaders what they would do in power, how they would do it, and how they would be better at",
+  "id": 45,
+  "label": [
+    {
+      "start": 126,
+      "end": 138,
+      "text": "Rahul Gandhi",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 209,
+      "end": 221,
+      "text": "Rahul Gandhi",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 368,
+      "end": 381,
+      "text": "Narendra Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 386,
+      "end": 395,
+      "text": "Amit Shah",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 733,
+      "end": 745,
+      "text": "Rahul Gandhi",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 143,
+      "end": 147,
+      "text": "Modi",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 903,
+      "end": 907,
+      "text": "Modi",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 51,
+  "created_at": "2026-03-30T14:00:58.549132Z",
+  "updated_at": "2026-03-30T14:00:58.549148Z",
+  "lead_time": 49.028
+},
+{
+  "text": "This article was first published 2 years ago Why weren't the chief ministers of Andhra Pradesh, Goa, Kerala, Maharashtra and Telangana -- all of which have borders with Karnataka -- not invited to Saturday's swearing-in ceremony, asks Shyam G Menon. IMAGE: Newly sworn-in Karnataka Chief Minister Siddaramaiah and Deputy CM D K Shivakumar with Mallikarjun Kharge, Rahul Gandhi, Priyanka Gandhi Vadra, Nitish Kumar, Sitaram Yechury and others during the swearing-in ceremony of the newly-elected Karnataka government at the Sree Kanteerava Stadium in Bengaluru, May 20, 2023. Photograph: ANI Photo According to news reports preceding the swearing-in of the freshly elected Congress government in Karnataka, a slew of chief ministers and leaders from 'like-minded parties' were invited for the function. The chief ministers of Bihar, Chhattisgarh, Himachal Pradesh, Jharkhand, Rajasthan, Tamil Nadu found mention. Also in Bengaluru were the deputy chief minister of Bihar, the president of the Nationalist Congress Party, the president of the Shiv Sena (UBT), the presidents of the National Conference and the general secretary of the Communist Party of India-Marxist. The general secretary of the Communist Party of India was personally invited by the Congress president while the chief minister of Tamil Nadu was called up by",
+  "id": 46,
+  "label": [
+    {
+      "start": 297,
+      "end": 309,
+      "text": "Siddaramaiah",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 324,
+      "end": 338,
+      "text": "D K Shivakumar",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 364,
+      "end": 376,
+      "text": "Rahul Gandhi",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 378,
+      "end": 399,
+      "text": "Priyanka Gandhi Vadra",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 401,
+      "end": 413,
+      "text": "Nitish Kumar",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 415,
+      "end": 430,
+      "text": "Sitaram Yechury",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 672,
+      "end": 680,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1251,
+      "end": 1259,
+      "text": "Congress",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 344,
+      "end": 362,
+      "text": "Mallikarjun Kharge",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1041,
+      "end": 1050,
+      "text": "Shiv Sena",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1052,
+      "end": 1055,
+      "text": "UBT",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 992,
+      "end": 1018,
+      "text": "Nationalist Congress Party",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 1133,
+      "end": 1165,
+      "text": "Communist Party of India-Marxist",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1196,
+      "end": 1220,
+      "text": "Communist Party of India",
+      "labels": [
+        "OPP"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 50,
+  "created_at": "2026-03-30T14:00:06.644468Z",
+  "updated_at": "2026-03-30T14:00:06.644480Z",
+  "lead_time": 114.178
+},
+{
+  "text": "I was not surprised by the victory of the BJP-led Mahayuti in Maharashtra. Or rather, I was not surprised by the failure of the opposition Maha Vikas Aghadi (MVA) to win an election that it should have easily won. Yet I simply cannot fathom the tsunami-like scale of this victory. Neither the political common sense nor the technical political science helps me make sense of the final outcome of this race. I cannot but ask: Was the winner on steroids? This is a grave matter. Any serious questioning of the official election outcome must pass some prima facie credibility tests: Is there something big and substantial that needs explaining? Are available explanations hopelessly inadequate? Let us examine both these. Advertisement The Maharashtra election presents us with a four-fold surprise. First of all, there is the jaw-dropping margin of Mahayuti’s victory: Over three-fourths of seats and a 14 per cent lead in terms of vote share. Such victories are rare, but not impossible, nor unheard of. What adds to the surprise is the near disappearance of all the known patterns of Maharashtra politics. It is as if a hidden hand has levelled the huge regional, urban\/rural or within-coalition party-wise differences that",
+  "id": 47,
+  "label": [
+    {
+      "start": 42,
+      "end": 45,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 139,
+      "end": 156,
+      "text": "Maha Vikas Aghadi",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 158,
+      "end": 161,
+      "text": "MVA",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 50,
+      "end": 58,
+      "text": "Mahayuti",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 847,
+      "end": 855,
+      "text": "Mahayuti",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 49,
+  "created_at": "2026-03-30T13:58:11.311872Z",
+  "updated_at": "2026-03-30T13:58:11.311888Z",
+  "lead_time": 78.444
+},
+{
+  "text": "With the election juggernaut in full motion, the Delhi question is one of the most debated ones: That is, will Delhi Chief Minister Arvind Kejriwal’s arrest garner sympathy votes for the Aam Aadmi Party in the Lok Sabha polls, or will it hurt the party’s chances as its star campaigner will be missing from the action? While opinions vary, one widely shared post on X wrongly attributes an opinion poll predicting the INDIA bloc’s victory in four of the seven Delhi Lok Sabha seats to the India Today Group. Read Full Story On March 3, an X userÂ wrote, \"BIG BREAKING India Today Opinion Poll for Loksabha 2024 predicts INDIA to win at least 4 seats in Delhi. All the surveys were predicting a clean sweep for the BJP in Delhi 2 months ago. But Rahul Gandhi's Nyay Yatra & Kejriwal's arrest has turned the tides completely. One final push & BJP will struggle to cross even 180 seats\". At the time of writing this, this post had over 3,500 likes and had been viewed over 1.7 lakh times. Its archive can be seen here. India Today opinion polls never predicted this. A simple Google search led us to an",
+  "id": 48,
+  "label": [
+    {
+      "start": 132,
+      "end": 147,
+      "text": "Arvind Kejriwal",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 714,
+      "end": 717,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 841,
+      "end": 844,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 187,
+      "end": 202,
+      "text": "Aam Aadmi Party",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 418,
+      "end": 428,
+      "text": "INDIA bloc",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 620,
+      "end": 625,
+      "text": "INDIA",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 745,
+      "end": 757,
+      "text": "Rahul Gandhi",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 773,
+      "end": 781,
+      "text": "Kejriwal",
+      "labels": [
+        "OPP"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 48,
+  "created_at": "2026-03-30T13:56:51.682610Z",
+  "updated_at": "2026-03-30T13:56:51.682628Z",
+  "lead_time": 161.325
+},
+{
+  "text": "Debate on two-child policy is back in India courtesy the Bharatiya Janata Party government of Assam which has decided to implement a law passed two years ago. Under the two-child policy, no person having more than two children would be eligible for government jobs in Assam from January 2021. The law, Population and Women Empowerment Policy of Assam, was passed by the Assam Assembly in September 2017. Besides putting a two-child norm for government employment on new job seekers, the policy also calls for strict adherence by the existing government staff. Read Full Story The story of population control through family planning is a curious case in India, which holds the distinction of being the first among the developing countries to officially launch a family planning programme as early as 1951. The first Lok Sabha had not yet been constituted. India elected its 17th Lok Sabha earlier this year. Family planning centre to family expansion centre The policy to control expansion of population in 1951 was revolutionary in idea particularly when seen in the background of Mahatma Gandhi's disapproval of such a government-backed campaign. Gandhi opposed the idea of contraception to control family size. He supported the idea of abstinence",
+  "id": 49,
+  "label": [
+    {
+      "start": 57,
+      "end": 79,
+      "text": "Bharatiya Janata Party",
+      "labels": [
+        "EST"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 47,
+  "created_at": "2026-03-30T13:54:09.333255Z",
+  "updated_at": "2026-03-30T13:54:09.333269Z",
+  "lead_time": 27.362
+},
+{
+  "text": "The BJP has deployed several top leaders for its campaign in the Greater Hyderabad Municipal Corporation (GHMC) election. BJP invoked \"Jinnah,\" and in its speeches called \"surgical strike on Hyderabad\" and top leaders like party chief JP Nadda, Union Home Minister Amit Shah, Uttar Pradesh Chief Minister Yogi Adityanath, and many Union ministers in his campaign Deployed, it has been difficult to believe that this is just a civil election being fought in Hyderabad. The question is why the BJP has raised so much in a civic election like the Greater Hyderabad Municipal Corporation (GHMC)? Capturing Hyderabad is not just an election battle for the BJP; it is an ideology. For many in the Hindutva family, the existence of Hyderabad is a matter of survival. Named after Hyderabad - the BJP wants it to be renamed Bhagyanagar - in its most iconic memorial, Charminar, the Hindutva army contests it. And in this worldview, Hyderabad has an apparent antithesis to Hindutva - Asaduddin Owaisi's All India Majlis-e-Ittehadul Muslimeen (AIMIM). Far from being a BJP B-team, AIMIM is deeply modified by Hindutva organizations, and this is evident in the language used by BJP leaders against Owaisi in this campaign. BJP's 'young face'",
+  "id": 50,
+  "label": [
+    {
+      "start": 4,
+      "end": 7,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 122,
+      "end": 125,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 265,
+      "end": 274,
+      "text": "Amit Shah",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 305,
+      "end": 320,
+      "text": "Yogi Adityanath",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 492,
+      "end": 495,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 651,
+      "end": 654,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 788,
+      "end": 791,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 1033,
+      "end": 1038,
+      "text": "AIMIM",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1058,
+      "end": 1061,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 1070,
+      "end": 1075,
+      "text": "AIMIM",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1166,
+      "end": 1169,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 1211,
+      "end": 1214,
+      "text": "BJP",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 235,
+      "end": 243,
+      "text": "JP Nadda",
+      "labels": [
+        "EST"
+      ]
+    },
+    {
+      "start": 974,
+      "end": 990,
+      "text": "Asaduddin Owaisi",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 993,
+      "end": 1021,
+      "text": "All India Majlis-e-Ittehadul",
+      "labels": [
+        "OPP"
+      ]
+    },
+    {
+      "start": 1186,
+      "end": 1192,
+      "text": "Owaisi",
+      "labels": [
+        "OPP"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 46,
+  "created_at": "2026-03-30T13:53:40.951121Z",
+  "updated_at": "2026-03-30T13:53:40.951136Z",
+  "lead_time": 59.021
+}
+]

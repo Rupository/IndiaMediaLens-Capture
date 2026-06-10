@@ -1,0 +1,705 @@
+('Earlier in the day, the House was adjourned for one hour after Opposition members raised slogans demanding resignation of ', 'Union', ' Minister Hardeep Puri.')
+('Earlier in the day, the House was adjourned for one hour after Opposition members raised slogans demanding resignation of Union Minister ', 'Hardeep Puri', '.')
+('The ', 'Opposition', ' members were also protesting against the India-U.S. interim trade agreement.')
+('', 'Rajya Sabha', ' proceedings were also adjourned on Friday (February 13, 2026) till March 9, as Parliament went into a three-week-long recess to allow standing committees to scrutinise Budget proposals.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  2.23batch/s]
+Sentiment:  0 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.8570219278335571}
+Sentiment:  1 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9606068730354309}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8614270091056824}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9523265957832336}
+
+('Union Parliamentary Affairs Minister ', 'Kiren Rijiju', ' said on Friday that the government has shelved a plan to bring a motion against Leader of the Opposition in the Lok Sabha Rahul Gandhi for using unparliamentary language against the Prime Minister, as a BJP MP has submitted a notice to initiate a “substantive motion” against the Congress leader on the same issue.')
+('Union Parliamentary Affairs Minister Kiren Rijiju said on Friday that the government has shelved a plan to bring a motion against Leader of the Opposition in the Lok Sabha ', 'Rahul Gandhi', ' for using unparliamentary language against the Prime Minister, as a BJP MP has submitted a notice to initiate a “substantive motion” against the Congress leader on the same issue.')
+('Union Parliamentary Affairs Minister Kiren Rijiju said on Friday that the government has shelved a plan to bring a motion against Leader of the Opposition in the Lok Sabha Rahul Gandhi for using unparliamentary language against the Prime Minister, as a ', 'BJP', ' MP has submitted a notice to initiate a “substantive motion” against the Congress leader on the same issue.')
+('Union Parliamentary Affairs Minister Kiren Rijiju said on Friday that the government has shelved a plan to bring a motion against Leader of the Opposition in the Lok Sabha Rahul Gandhi for using unparliamentary language against the Prime Minister, as a BJP MP has submitted a notice to initiate a “substantive motion” against the ', 'Congress', ' leader on the same issue.')
+('Before the beginning of Question Hour, ', 'Rajya Sabha', ' Leader of Opposition Mallikarjun Kharge asks the speaker to restore his remarks on PM Modi’s policies during his speech on the President’s Address.')
+('Before the beginning of Question Hour, Rajya Sabha Leader of Opposition Mallikarjun Kharge asks the speaker to restore his remarks on PM ', 'Modi', '’s policies during his speech on the President’s Address.')
+('Chairman ', 'C.P. Radhakrishnan', ' says that expunged remarks are expunged, and they can’t be restored.')
+('Mr. ', 'Radhakrishnan', '')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.83batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9289847612380981}
+Sentiment:  1 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9894593954086304}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7821590900421143}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.5561493039131165}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9712226390838623}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8058454990386963}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9654319286346436}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9796555042266846}
+
+('Any hope of normalcy returning to ', 'LS', ' was apparently dashed when opposition stepped up their offensive and submitted a notice for the removal of the Speaker.')
+('', 'LS', ' functioned normally even though the govt did not agree to the conditions set by Congress: allowing LoP Rahul Gandhi to speak, rectification of the Speaker’s “baseless” claim that he had to request PM not to speak during the debate on motion of thanks to the President for her address in view of plans of Congress’ MPs to do something unprecedented, and a probe into why BJP MP Nishikant Dubey’s mic was not switched off when he attacked Nehru-Gandhi family.')
+('LS functioned normally even though the govt did not agree to the conditions set by ', 'Congress', ': allowing LoP Rahul Gandhi to speak, rectification of the Speaker’s “baseless” claim that he had to request PM not to speak during the debate on motion of thanks to the President for her address in view of plans of Congress’ MPs to do something unprecedented, and a probe into why BJP MP Nishikant Dubey’s mic was not switched off when he attacked Nehru-Gandhi family.')
+('LS functioned normally even though the govt did not agree to the conditions set by Congress: allowing LoP ', 'Rahul Gandhi', ' to speak, rectification of the Speaker’s “baseless” claim that he had to request PM not to speak during the debate on motion of thanks to the President for her address in view of plans of Congress’ MPs to do something unprecedented, and a probe into why BJP MP Nishikant Dubey’s mic was not switched off when he attacked Nehru-Gandhi family.')
+('LS functioned normally even though the govt did not agree to the conditions set by Congress: allowing LoP Rahul Gandhi to speak, rectification of the Speaker’s “baseless” claim that he had to request PM not to speak during the debate on motion of thanks to the President for her address in view of plans of ', 'Congress', '’ MPs to do something unprecedented, and a probe into why BJP MP Nishikant Dubey’s mic was not switched off when he attacked Nehru-Gandhi family.')
+('LS functioned normally even though the govt did not agree to the conditions set by Congress: allowing LoP Rahul Gandhi to speak, rectification of the Speaker’s “baseless” claim that he had to request PM not to speak during the debate on motion of thanks to the President for her address in view of plans of Congress’ MPs to do something unprecedented, and a probe into why ', 'BJP', ' MP Nishikant Dubey’s mic was not switched off when he attacked Nehru-Gandhi family.')
+('LS functioned normally even though the govt did not agree to the conditions set by Congress: allowing LoP Rahul Gandhi to speak, rectification of the Speaker’s “baseless” claim that he had to request PM not to speak during the debate on motion of thanks to the President for her address in view of plans of Congress’ MPs to do something unprecedented, and a probe into why BJP MP ', 'Nishikant Dubey', '’s mic was not switched off when he attacked Nehru-Gandhi family.')
+('LS functioned normally even though the govt did not agree to the conditions set by Congress: allowing LoP Rahul Gandhi to speak, rectification of the Speaker’s “baseless” claim that he had to request PM not to speak during the debate on motion of thanks to the President for her address in view of plans of Congress’ MPs to do something unprecedented, and a probe into why BJP MP Nishikant Dubey’s mic was not switched off when he attacked ', 'Nehru', '-Gandhi family.')
+('Opposition targets ', 'LS', ' Speaker with no-confidence motion — rules, process & numbers –')
+('Explained The prevailing view within govt was that it had come out better in the battle of wits by not making any concession to the key ', 'Congress', ' demand of allowing Rahul to speak first and revoking the suspension')
+('Explained The prevailing view within govt was that it had come out better in the battle of wits by not making any concession to the key Congress demand of allowing ', 'Rahul', ' to speak first and revoking the suspension')
+Processing batches: 100%|██████████| 1/1 [00:02<00:00,  2.37s/batch]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7753392457962036}
+Sentiment:  1 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.6725758910179138}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.5959436297416687}
+Sentiment:  3 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.8325852751731873}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.595104992389679}
+Sentiment:  5 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.8833087086677551}
+Sentiment:  6 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.7259049415588379}
+Sentiment:  7 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.6049317717552185}
+Sentiment:  8 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.7608045935630798}
+Sentiment:  9 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6043964624404907}
+Sentiment:  10 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.6100707054138184}
+
+('', 'Union', ' Minister Gajendra Singh Sekhawat slammed the Congress and said that he was highly disappointed with the way they behaved in the Parliament during the budget session.')
+('Union Minister ', 'Gajendra Singh Sekhawat', ' slammed the Congress and said that he was highly disappointed with the way they behaved in the Parliament during the budget session.')
+('Union Minister Gajendra Singh Sekhawat slammed the ', 'Congress', ' and said that he was highly disappointed with the way they behaved in the Parliament during the budget session.')
+('It was extremely unfortunate the way the ', 'Congress', ' party and the entire opposition conducted themselves, the way they tore apart democratic norms, created a disruption in democracy...')
+('The way the parliamentary proceedings were obstructed, the opposition members should introspect," he told ', 'ANI', '.')
+('Both houses of ', 'the Indian Parliament', ', Lok Sabha and Rajya Sabha, have been adjourned till 12 and 1 pm respectively.')
+('Both houses of the Indian Parliament, ', 'Lok Sabha', ' and Rajya Sabha, have been adjourned till 12 and 1 pm respectively.')
+('Both houses of the Indian Parliament, Lok Sabha and ', 'Rajya Sabha', ', have been adjourned till 12 and 1 pm respectively.')
+('', 'Lok Sabha', ' has been adjourned for further paper laying.')
+('', 'BJP', ' MP Rameswar Teli on Friday responded sharply to the Congress\'s "Narender-Surrender" jibe at the Centre, accusing the Opposition party of hypocrisy and defending the government\'s record on farmers.')
+('BJP MP Rameswar Teli on Friday responded sharply to the ', 'Congress', '\'s "Narender-Surrender" jibe at the Centre, accusing the Opposition party of hypocrisy and defending the government\'s record on farmers.')
+('BJP MP Rameswar Teli on Friday responded sharply to the Congress\'s "Narender-Surrender" jibe at the ', 'Centre', ", accusing the Opposition party of hypocrisy and defending the government's record on farmers.")
+('"They (', 'Congress', ' leaders) are saying this because when they were in government, they always surrendered.')
+('But our government is very serious about farmers, and because of whatever work we are doing for farmers, farmers nationwide are happy," ', 'Teli', ' said.')
+('', 'Samajwadi Party', ' MP Ram Gopal Yadav on Friday criticised the proposed India-US interim trade agreement, alleging that duty-free imports of American')
+('Samajwadi Party MP ', 'Ram Gopal Yadav', ' on Friday criticised the proposed India-US interim trade agreement, alleging that duty-free imports of American')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.34batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8947571516036987}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7498971819877625}
+Sentiment:  2 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.8963934779167175}
+Sentiment:  3 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9853386878967285}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9748698472976685}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9759858250617981}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9719732999801636}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9741318821907043}
+Sentiment:  8 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9660715460777283}
+Sentiment:  9 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.736834704875946}
+Sentiment:  10 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.647070050239563}
+Sentiment:  11 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.8595099449157715}
+Sentiment:  12 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8617780804634094}
+Sentiment:  13 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.5534080266952515}
+Sentiment:  14 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.937214195728302}
+Sentiment:  15 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6297655701637268}
+
+('Stormy first leg of Budget session over; ', 'Lok Sabha', ' to meet again on March 9 after recess')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  9.22batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9777601361274719}
+
+('', 'Rajya Sabha', ' proceedings were adjourned on Friday till March 9, as Parliament went into a three-week-long recess to allow standing committees to scrutinise Budget proposals.')
+('Earlier in the day, ', 'Lok Sabha', ' proceedings too were adjourned till March 9.')
+('', 'Finance', ' Minister Nirmala Sitharaman presented the Union Budget for the financial year 2026-27 in Parliament on February 1.')
+('Finance Minister ', 'Nirmala Sitharaman', ' presented the Union Budget for the financial year 2026-27 in Parliament on February 1.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  4.67batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9607032537460327}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9693162441253662}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9411799311637878}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9139247536659241}
+
+('The Union Budget for 2026–27 was presented in Parliament on February 1 by ', 'Finance', ' Minister Nirmala Sitharaman, outlining the government’s projected revenues, expenditure plans and fiscal strategy for the coming financial year.')
+('The Union Budget for 2026–27 was presented in Parliament on February 1 by Finance Minister ', 'Nirmala Sitharaman', ', outlining the government’s projected revenues, expenditure plans and fiscal strategy for the coming financial year.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  5.88batch/s]Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7687321305274963}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.786316454410553}
+
+
+('', 'Lok Sabha', ' witnessed uproar during the Question Hour on Thursday as Opposition members protested against the interim trade pact between India and the US.')
+('', 'Congress', ' and other Opposition parties have raised concerns about various concessions, including those related to the agriculture sector, provided by the government in the interim trade agreement with the US.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  6.00batch/s]Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9209949374198914}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9210138320922852}
+
+
+('Slamming the ', 'Opposition', ' over its criticism of the government, Jhala said, “At a time when India is moving towards ‘Viksit Bharat’, from fragile five, we are the fourth largest economy…')
+('Slamming the Opposition over its criticism of the government, ', 'Jhala', ' said, “At a time when India is moving towards ‘Viksit Bharat’, from fragile five, we are the fourth largest economy…')
+('Prime Minister ', 'Modi', ' was present in the Rajya Sabha during the Question Hour on Thursday.')
+('Madan Rathore of the ', 'BJP', ' also targeted the Opposition parties and said, “Opposition for the sake of opposition is not right”.')
+('Amar Pal Maurya of the ', 'BJP', ' said the Budget implements party ideologue Deendayal Upadhyay’s vision of ‘antyodaya’, and will help the poor.')
+('“If ', 'Opposition', ' leaders can’t see it, it’s because their vision is clouded….')
+('Meanwhile, ', 'P Sandosh Kumar', ' of the CPI slammed the Budget for not having anything for the')
+('Meanwhile, P Sandosh Kumar of the ', 'CPI', ' slammed the Budget for not having anything for the')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  2.56batch/s]
+Sentiment:  0 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.807528555393219}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.89371258020401}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9538676738739014}
+Sentiment:  3 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.5266057252883911}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.597461998462677}
+Sentiment:  5 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.8622677326202393}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9275109171867371}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.911062479019165}
+
+('New Delhi [India], February 12 (', 'ANI', '):')
+('Union Minister Chirag Paswan on Thursday accused ', 'Lok Sabha', ' Leader of Opposition Rahul Gandhi of being "stubborn" and deliberately disrupting Parliament, saying the Congress leader\'s approach was preventing the House from functioning during the Budget Session.')
+('Union Minister Chirag Paswan on Thursday accused Lok Sabha Leader of ', 'Opposition', ' Rahul Gandhi of being "stubborn" and deliberately disrupting Parliament, saying the Congress leader\'s approach was preventing the House from functioning during the Budget Session.')
+('Union Minister Chirag Paswan on Thursday accused Lok Sabha Leader of Opposition ', 'Rahul Gandhi', ' of being "stubborn" and deliberately disrupting Parliament, saying the Congress leader\'s approach was preventing the House from functioning during the Budget Session.')
+('Union Minister Chirag Paswan on Thursday accused Lok Sabha Leader of Opposition Rahul Gandhi of being "stubborn" and deliberately disrupting Parliament, saying the ', 'Congress', " leader's approach was preventing the House from functioning during the Budget Session.")
+('In an interview with ', 'ANI', ', Paswan said a "pattern" has emerged in which the Opposition, especially the Congress, fixates on a single issue, preventing the House from functioning smoothly and preventing other Opposition members from speaking.')
+('In an interview with ANI, ', 'Paswan', ' said a "pattern" has emerged in which the Opposition, especially the Congress, fixates on a single issue, preventing the House from functioning smoothly and preventing other Opposition members from speaking.')
+('In an interview with ANI, Paswan said a "pattern" has emerged in which the ', 'Opposition', ', especially the Congress, fixates on a single issue, preventing the House from functioning smoothly and preventing other Opposition members from speaking.')
+('In an interview with ANI, Paswan said a "pattern" has emerged in which the Opposition, especially the ', 'Congress', ', fixates on a single issue, preventing the House from functioning smoothly and preventing other Opposition members from speaking.')
+('In an interview with ANI, Paswan said a "pattern" has emerged in which the Opposition, especially the Congress, fixates on a single issue, preventing the House from functioning smoothly and preventing other ', 'Opposition', ' members from speaking.')
+('"A pattern is emerging where the ', 'Opposition', ' and especially the Congress party pick up an issue and then do not allow the house to function.')
+('"A pattern is emerging where the Opposition and especially the ', 'Congress', ' party pick up an issue and then do not allow the house to function.')
+('', 'Lok Sabha', ' LoP Rahul Gandhi became so stubborn, and he only kept raising one issue, where neither he spoke nor did he allow anyone else (even from the Opposition) to speak," he said.')
+('Lok Sabha LoP ', 'Rahul Gandhi', ' became so stubborn, and he only kept raising one issue, where neither he spoke nor did he allow anyone else (even from the Opposition) to speak," he said.')
+('Lok Sabha LoP Rahul Gandhi became so stubborn, and he only kept raising one issue, where neither he spoke nor did he allow anyone else (even from the ', 'Opposition', ') to speak," he said.')
+('The Union Minister also raised concerns over the Prime Minister ', 'Narendra Modi', "'s safety in Parliament, recalling an incident during the motion of thanks on the President's Address.")
+('The row began after ', 'Congress', " leader Rahul Gandhi tried to quote from a former Army chief General MM Naravane's (Retd)")
+('The row began after Congress leader ', 'Rahul Gandhi', " tried to quote from a former Army chief General MM Naravane's (Retd)")
+('The row began after Congress leader Rahul Gandhi tried to quote from a former ', 'Army', " chief General MM Naravane's (Retd)")
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.02batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.979428231716156}
+Sentiment:  1 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.8826432824134827}
+Sentiment:  2 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9047534465789795}
+Sentiment:  3 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9929407835006714}
+Sentiment:  4 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9391745924949646}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.962039589881897}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9427118301391602}
+Sentiment:  7 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9182476997375488}
+Sentiment:  8 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.6355094909667969}
+Sentiment:  9 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9067348837852478}
+Sentiment:  10 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.4416981339454651}
+Sentiment:  11 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7316144704818726}
+Sentiment:  12 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9299672842025757}
+Sentiment:  13 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9834572672843933}
+Sentiment:  14 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7805668115615845}
+Sentiment:  15 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6938406825065613}
+Sentiment:  16 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.6515156626701355}
+Sentiment:  17 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9685625433921814}
+Sentiment:  18 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7968343496322632}
+
+('Yesterday, ', 'Finance', ' Minister Nirmala Sitharaman replied to a discussion on the Union Budget in the Rajya Sabha.')
+('Yesterday, Finance Minister ', 'Nirmala Sitharaman', ' replied to a discussion on the Union Budget in the Rajya Sabha.')
+('Ms ', 'Sitharaman', ' added that high growth has been maintained while keeping inflation low.')
+('Ms ', 'Sitharaman', ' said unemployment')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  5.16batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.961637020111084}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9579840898513794}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6824754476547241}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9833139181137085}
+
+('The suspension of eight ', 'Opposition', ' MPs from the Lok Sabha will not be revoked despite talks to restore normal proceedings, sources have told CNN-News18.')
+('The suspension of eight Opposition MPs from the Lok Sabha will not be revoked, even though talks are underway between the Treasury benches and ', 'Opposition', ' parties to restore normal functioning in the House, sources told CNN-News18.')
+('The MPs, seven belonging to the ', 'Congress', ' and one from the CPI(M), were suspended after an uproar during proceedings in the House.')
+('The MPs, seven belonging to the Congress and one from ', 'the CPI(M)', ', were suspended after an uproar during proceedings in the House.')
+('The disorder was linked to objections raised when Leader of Opposition ', 'Rahul Gandhi', ' was disallowed from quoting an article that cited an unpublished memoir of former Army chief MM Naravane on the 2020 India-China conflict.')
+('The disorder was linked to objections raised when Leader of Opposition Rahul Gandhi was disallowed from quoting an article that cited an unpublished memoir of former ', 'Army', ' chief MM Naravane on the 2020 India-China conflict.')
+('The confrontation escalated after ', 'Gandhi', ' attempted for a second consecutive day to raise the issue during the Motion of Thanks on the President’s address.')
+('', 'Defence', ' Minister Rajnath Singh and other Treasury bench members objected, and the Chair ruled that the reference could not be made.')
+('Defence Minister ', 'Rajnath Singh', ' and other Treasury bench members objected, and the Chair ruled that the reference could not be made.')
+('', 'Gandhi', ' then told Speaker Om Birla that he had authenticated the document he wished to cite, and')
+('Gandhi then told Speaker ', 'Om Birla', ' that he had authenticated the document he wished to cite, and')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.59batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.5333573222160339}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.5648636221885681}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7627236843109131}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.5985674262046814}
+Sentiment:  4 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9688606858253479}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7478206753730774}
+Sentiment:  6 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.5423635244369507}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8764854073524475}
+Sentiment:  8 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6112704873085022}
+Sentiment:  9 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.816805899143219}
+Sentiment:  10 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9441242218017578}
+
+('Fresh disruptions are expected in both Houses, with the ', 'Opposition', ' gearing up to raise issues related to a trade deal and Congress leader Rahul Gandhi.')
+('Fresh disruptions are expected in both Houses, with the Opposition gearing up to raise issues related to a trade deal and ', 'Congress', ' leader Rahul Gandhi.')
+('Fresh disruptions are expected in both Houses, with the Opposition gearing up to raise issues related to a trade deal and Congress leader ', 'Rahul Gandhi', '.')
+('Tensions have escalated after ', 'BJP', ' MP Nishikant Dubey moved a motion seeking cancellation of Rahul Gandhi’s Lok Sabha membership.')
+('Tensions have escalated after BJP MP ', 'Nishikant Dubey', ' moved a motion seeking cancellation of Rahul Gandhi’s Lok Sabha membership.')
+('Tensions have escalated after BJP MP Nishikant Dubey moved a motion seeking cancellation of ', 'Rahul Gandhi’s', ' Lok Sabha membership.')
+('Tensions have escalated after BJP MP Nishikant Dubey moved a motion seeking cancellation of Rahul Gandhi’s ', 'Lok Sabha', ' membership.')
+('', 'Dubey', ' has alleged that the Leader of the Opposition has behaved irresponsibly and stated that his membership should be revoked.')
+('The ', 'Opposition', ' is expected to strongly object to the motion and may create disruptions in the House over what it calls politically motivated targeting.')
+('All eyes are now on how the Speaker and parliamentary leadership manage the situation amid the escalating war of words between the ruling party and the ', 'Opposition', '.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  2.17batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6305758953094482}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8808134198188782}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7381283044815063}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.64537113904953}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8572438955307007}
+Sentiment:  5 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.8130421042442322}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.886871337890625}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9352140426635742}
+Sentiment:  8 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.674842357635498}
+Sentiment:  9 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8091169595718384}
+
+("The Budget session saw heated debates on the India-US interim trade deal and MM Naravane's memoir, protests led to suspensions of ", 'Congress', ' and CPI-M members, and a recess until March 9.')
+("The Budget session saw heated debates on the India-US interim trade deal and MM Naravane's memoir, protests led to suspensions of Congress and ", 'CPI-M', ' members, and a recess until March 9.')
+('Earlier in the day, the House was adjourned for one hour after Opposition members raised slogans demanding the resignation of ', 'Union', ' Minister Hardeep Puri.')
+('Earlier in the day, the House was adjourned for one hour after Opposition members raised slogans demanding the resignation of Union Minister ', 'Hardeep Puri', '.')
+('The Lok Sabha witnessed dramatic scenes and repeated adjournments from February 2 afternoon, after the Chair disallowed Leader of the Opposition ', 'Rahul Gandhi', ' to quote from the excerpts of the memoir of Naravane relating to the India-China conflict of 2020.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  3.09batch/s]
+Sentiment:  0 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.6333215832710266}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6589791774749756}
+Sentiment:  2 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.8627318739891052}
+Sentiment:  3 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9614059329032898}
+Sentiment:  4 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9332466721534729}
+
+('', 'Lok Sabha', ' took up Question Hour on Wednesday amid vociferous protests and shouting of slogans by Opposition members over various issues.')
+('Opposition members shouted slogans as they sought to raise certain questions but ', 'P C Mohan', ', who was in the Chair, did not allow them.')
+('The discussions on the Union Budget resumed on Tuesday signalled the end of the logjam between the government and the ', 'Opposition', '.')
+('While responding to a supplementary query related to renewable energy on Wednesday, ', 'New and Renewable Energy', ' Minister Pralhad Joshi said the country is leading the way in green energy.')
+('While responding to a supplementary query related to renewable energy on Wednesday, New and Renewable Energy Minister ', 'Pralhad Joshi', ' said the country is leading the way in green energy.')
+('', 'Railways', ' Minister Ashwini Vaishnaw, while replying to a supplementary question from TMC member Kirti Azad, took a swipe at the West Bengal government and asked why the state government was slow in land acquisition for railway projects.')
+('Railways Minister ', 'Ashwini Vaishnaw', ', while replying to a supplementary question from TMC member Kirti Azad, took a swipe at the West Bengal government and asked why the state government was slow in land acquisition for railway projects.')
+('Railways Minister Ashwini Vaishnaw, while replying to a supplementary question from ', 'TMC', ' member Kirti Azad, took a swipe at the West Bengal government and asked why the state government was slow in land acquisition for railway projects.')
+('Railways Minister Ashwini Vaishnaw, while replying to a supplementary question from TMC member ', 'Kirti Azad', ', took a swipe at the West Bengal government and asked why the state government was slow in land acquisition for railway projects.')
+('', 'TMC', ' (Trinamool Congress) is in power in West Bengal, which')
+('TMC (', 'Trinamool Congress', ') is in power in West Bengal, which')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.79batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9627017974853516}
+Sentiment:  1 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.5264596939086914}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8729815483093262}
+Sentiment:  3 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.686161994934082}
+Sentiment:  4 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.5091550350189209}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7442377209663391}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7326855659484863}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9492799043655396}
+Sentiment:  8 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8895719051361084}
+Sentiment:  9 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6448538899421692}
+Sentiment:  10 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7978832721710205}
+
+('The opening phase witnessed sharp political exchanges over the India-US interim trade deal and the controversy surrounding remarks linked to the unpublished memoir of former ', 'Army', ' Chief MM Naravane.')
+('Meanwhile, Union Parliamentary Affairs Minister ', 'Kiren Rijiju', ' said the government has decided to withdraw its proposed motion against Rahul Gandhi over references to Gen Naravane’s unpublished memoir during his Budget speech in the Lok Sabha.')
+('Meanwhile, Union Parliamentary Affairs Minister Kiren Rijiju said the government has decided to withdraw its proposed motion against ', 'Rahul Gandhi', ' over references to Gen Naravane’s unpublished memoir during his Budget speech in the Lok Sabha.')
+('', 'Rijiju', ' told reporters that the decision followed a Substantive Motion moved by BJP MP Nishikant Dubey against the Leader of the Opposition in the Lok Sabha.')
+('Rijiju told reporters that the decision followed a Substantive Motion moved by ', 'BJP', ' MP Nishikant Dubey against the Leader of the Opposition in the Lok Sabha.')
+('Rijiju told reporters that the decision followed a Substantive Motion moved by BJP MP ', 'Nishikant Dubey', ' against the Leader of the Opposition in the Lok Sabha.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  2.53batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6992666125297546}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9619790315628052}
+Sentiment:  2 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9722340106964111}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9765393733978271}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8857731223106384}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7379898428916931}
+
+('According to the list of business, ', 'BJP', ' MP Anurag Sharma and JKNC MP Miah Altaf Ahmad will present the Reports of the Standing Committee on Transport, Tourism and Culture in the Lok Sabha.')
+('According to the list of business, BJP MP ', 'Anurag Sharma', ' and JKNC MP Miah Altaf Ahmad will present the Reports of the Standing Committee on Transport, Tourism and Culture in the Lok Sabha.')
+('According to the list of business, BJP MP Anurag Sharma and ', 'JKNC', ' MP Miah Altaf Ahmad will present the Reports of the Standing Committee on Transport, Tourism and Culture in the Lok Sabha.')
+('According to the list of business, BJP MP Anurag Sharma and JKNC MP ', 'Miah Altaf Ahmad', ' will present the Reports of the Standing Committee on Transport, Tourism and Culture in the Lok Sabha.')
+('Add Asianet Newsable as a Preferred Source In the ', 'Lok Sabha', " Union New and Renewable Energy Minister Pralhad Joshi will make a statement regarding the status of implementation of recommendations contained in the 10th Report of the Standing Committee on Energy on 'Performance Evaluation of Solar Power Projects in the Country' pertaining to the Ministry of New and Renewable Energy.")
+('Add Asianet Newsable as a Preferred Source In the Lok Sabha Union New and Renewable Energy Minister ', 'Pralhad Joshi', " will make a statement regarding the status of implementation of recommendations contained in the 10th Report of the Standing Committee on Energy on 'Performance Evaluation of Solar Power Projects in the Country' pertaining to the Ministry of New and Renewable Energy.")
+("Add Asianet Newsable as a Preferred Source In the Lok Sabha Union New and Renewable Energy Minister Pralhad Joshi will make a statement regarding the status of implementation of recommendations contained in the 10th Report of the Standing Committee on Energy on 'Performance Evaluation of Solar Power Projects in the Country' pertaining to ", 'the Ministry of New and Renewable Energy', '.')
+('', 'TDP', " MP Chandra Sekhar Pemmasani will make a statement regarding 'Withdrawal of advance from Contingency Fund of India for servicing Interest on Sovereign Guarantee Bonds (SGBs) raised by Mahanagar Telephone Nigam Limited (MTNL)'.")
+('In the Rajya Sabha In the Rajya Sabha, JD(U) MP ', 'Sanjay Kumar Jha', ' and Kesridevsinh Jhala are scheduled to present the reports of the Department-related Parliamentary Standing Committee on Transport, Tourism and Culture.')
+('SP ', 'Singh Baghel', ' will make a statement regarding the status of implementation of the Observations/Recommendations contained in the Fourth Report of')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.45batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9363365173339844}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9133690595626831}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9392783045768738}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8893081545829773}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9101115465164185}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.707200825214386}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.666374146938324}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9376876354217529}
+Sentiment:  8 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9221974611282349}
+Sentiment:  9 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.933566153049469}
+
+('This was accompanied by a series of high-intensity clashes over a controversial India-US trade deal and unauthorised extracts from the unpublished autobiography of former ', 'Army', ' Chief MM Naravane.')
+('The mood between members remained quite tense during that session as the ', 'Opposition', " leader, Mallikarjun Kharge, demanded that those critical remarks regarding PM Modi's policies, which were deleted from his statement regarding the President’s Address, be reinstated.")
+('However, Chairman ', 'CP Radhakrishnan', ' strongly disagreed with this demand and accused the Opposition party of trying to dictate terms to the Chairman, a comment supported by Finance Minister Nirmala Sitharaman, where she accused the Opposition Leader of trying to challenge his powers.')
+('However, Chairman CP Radhakrishnan strongly disagreed with this demand and accused the Opposition party of trying to dictate terms to the Chairman, a comment supported by Finance Minister ', 'Nirmala Sitharaman', ', where she accused the Opposition Leader of trying to challenge his powers.')
+('Despite the chaotic atmosphere, which included disruptions stemming from ', 'Rahul Gandhi', ' being barred from quoting the former Army Chief on the 2020 India-China conflict, the Lok Sabha managed to pass ‘The Industrial Relations Code (Amendment) Bill, 2026’ on Thursday after prolonged debate.')
+('Despite the chaotic atmosphere, which included disruptions stemming from Rahul Gandhi being barred from quoting the former ', 'Army', ' Chief on the 2020 India-China conflict, the Lok Sabha managed to pass ‘The Industrial Relations Code (Amendment) Bill, 2026’ on Thursday after prolonged debate.')
+('Adding to the procedural drama, Speaker ', 'Om Birla', ' signalled he would not preside over House business until an Opposition notice for')
+('Adding to the procedural drama, Speaker Om Birla signalled he would not preside over House business until an ', 'Opposition', ' notice for')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.85batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6945739984512329}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7838254570960999}
+Sentiment:  2 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.5854355096817017}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7541331648826599}
+Sentiment:  4 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9679837226867676}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.5710022449493408}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6200409531593323}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8915128111839294}
+
+('At the same time, the beginning of the ', 'Rajya Sabha', ' proceedings was relatively peaceful.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  9.27batch/s]Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8611865639686584}
+
+
+('The website is established in 2015 and is owned by ', 'AGK FIRE INC', '.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00, 10.38batch/s]Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9193642735481262}
+
+
+('The Lok Sabha was adjourned for the day and will reconvene on February 10 after repeated disruptions over demands by ', 'Opposition', ' MPs for a discussion on the India-US interim trade deal framework.')
+('The disruption came against the backdrop of talk of a possible no-confidence motion, after Parliamentary Affairs Minister ', 'Kiren Rijiju', ' rejected Gandhi’s claim of an assurance from the chair.')
+('The disruption came against the backdrop of talk of a possible no-confidence motion, after Parliamentary Affairs Minister Kiren Rijiju rejected ', 'Gandhi', '’s claim of an assurance from the chair.')
+('', 'Rahul', ' vs Rijiju Leader of Opposition in the Lok Sabha, Rahul Gandhi, claimed that he had been given a personal assurance that he would be allowed to raise certain issues on the floor before the budget discussion begins.')
+('Rahul vs ', 'Rijiju', ' Leader of Opposition in the Lok Sabha, Rahul Gandhi, claimed that he had been given a personal assurance that he would be allowed to raise certain issues on the floor before the budget discussion begins.')
+('Rahul vs Rijiju Leader of Opposition in the Lok Sabha', ', Rahul Gandhi', ', claimed that he had been given a personal assurance that he would be allowed to raise certain issues on the floor before the budget discussion begins.')
+('I would like to know whether I would be allowed to speak those points or not," ', 'Gandhi', ' said while addressing MP Sandhya Ray, who was presiding over the proceedings in the absence of Om Birla.')
+('I would like to know whether I would be allowed to speak those points or not," Gandhi said while addressing MP ', 'Sandhya Ray', ', who was presiding over the proceedings in the absence of Om Birla.')
+('I would like to know whether I would be allowed to speak those points or not," Gandhi said while addressing MP Sandhya Ray, who was presiding over the proceedings in the absence of ', 'Om Birla', '.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.61batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.826593816280365}
+Sentiment:  1 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.5603762269020081}
+Sentiment:  2 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.7417055368423462}
+Sentiment:  3 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.578526496887207}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6986650228500366}
+Sentiment:  5 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.6270797848701477}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9208447337150574}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8967270255088806}
+Sentiment:  8 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8523393273353577}
+
+('Adjournment Continues ', 'Lok Sabha', ' Session:')
+('Amid Opposition protests against ', 'Lok Sabha', ' Speaker Om Birla’s remarks that Prime Minister Narendra Modi was asked not to come to the House, floor leaders of ... the INDIA bloc held a meeting on Wednesday at the office of the Leader of Opposition in the Rajya Sabha and Congress President Mallikarjun Kharge within the Parliament House complex.')
+('Amid Opposition protests against Lok Sabha Speaker ', 'Om Birla', '’s remarks that Prime Minister Narendra Modi was asked not to come to the House, floor leaders of ... the INDIA bloc held a meeting on Wednesday at the office of the Leader of Opposition in the Rajya Sabha and Congress President Mallikarjun Kharge within the Parliament House complex.')
+('Amid Opposition protests against Lok Sabha Speaker Om Birla’s remarks that Prime Minister ', 'Narendra Modi', ' was asked not to come to the House, floor leaders of ... the INDIA bloc held a meeting on Wednesday at the office of the Leader of Opposition in the Rajya Sabha and Congress President Mallikarjun Kharge within the Parliament House complex.')
+('Amid Opposition protests against Lok Sabha Speaker Om Birla’s remarks that Prime Minister Narendra Modi was asked not to come to the House, floor leaders of ... the INDIA bloc held a meeting on Wednesday at the office of the Leader of Opposition in the Rajya Sabha and ', 'Congress', ' President Mallikarjun Kharge within the Parliament House complex.')
+('', 'Lok Sabha', ' Leader of Opposition Rahul Gandhi was also present at the meeting.')
+('Lok Sabha Leader of Opposition ', 'Rahul Gandhi', ' was also present at the meeting.')
+('The developments come as the ', 'BJP', ' escalated its complaint against Congress MPs, with Parliamentary Affairs Minister Kiren Rijiju saying that women BJP MPs had lodged a strong protest with the Speaker over the conduct of Congress members inside the Lok Sabha.')
+('The developments come as the BJP escalated its complaint against ', 'Congress', ' MPs, with Parliamentary Affairs Minister Kiren Rijiju saying that women BJP MPs had lodged a strong protest with the Speaker over the conduct of Congress members inside the Lok Sabha.')
+('The developments come as the BJP escalated its complaint against Congress MPs, with Parliamentary Affairs Minister ', 'Kiren Rijiju', ' saying that women BJP MPs had lodged a strong protest with the Speaker over the conduct of Congress members inside the Lok Sabha.')
+('The developments come as the BJP escalated its complaint against Congress MPs, with Parliamentary Affairs Minister Kiren Rijiju saying that women ', 'BJP', ' MPs had lodged a strong protest with the Speaker over the conduct of Congress members inside the Lok Sabha.')
+('The developments come as the BJP escalated its complaint against Congress MPs, with Parliamentary Affairs Minister Kiren Rijiju saying that women BJP MPs had lodged a strong protest with the Speaker over the conduct of ', 'Congress', ' members inside the Lok Sabha.')
+('', 'Rijiju', ' alleged that Congress MPs crossed over to the Treasury benches, surrounded the area near the Prime Minister’s seat, and later went to the Speaker’s chamber, prompting serious concerns over parliamentary decorum.')
+('Rijiju alleged that ', 'Congress', ' MPs crossed over to the Treasury benches, surrounded the area near the Prime Minister’s seat, and later went to the Speaker’s chamber, prompting serious concerns over parliamentary decorum.')
+('Budget Session: Why ', 'Lok Sabha', ' Faces Repeated Logjam and Adjournments Meghalaya Coal')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.05batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9784055948257446}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.779887855052948}
+Sentiment:  2 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.8603315949440002}
+Sentiment:  3 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.906538724899292}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9145416021347046}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9775876402854919}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.938685417175293}
+Sentiment:  7 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.5647538304328918}
+Sentiment:  8 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6904210448265076}
+Sentiment:  9 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9406943321228027}
+Sentiment:  10 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.5647538304328918}
+Sentiment:  11 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6904210448265076}
+Sentiment:  12 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9619336724281311}
+Sentiment:  13 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.870770275592804}
+Sentiment:  14 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.772371232509613}
+
+('New Delhi Leader of Opposition in ', 'Lok Sabha', ', Rahul Gandhi, will intervene in the ongoing discussion on the Union Budget 2026-27 in the Lower House on Wednesday.')
+('New Delhi Leader of Opposition in Lok Sabha, ', 'Rahul Gandhi', ', will intervene in the ongoing discussion on the Union Budget 2026-27 in the Lower House on Wednesday.')
+('On Tuesday, as both Houses discussed the Budget, the ', 'Opposition', ' MPs took the opportunity to slam the Centre over the framework of the India-United States interim trade agreement.')
+('On Tuesday, as both Houses discussed the Budget, the Opposition MPs took the opportunity to slam the ', 'Centre', ' over the framework of the India-United States interim trade agreement.')
+('Initiating the discussion in the Lower House, ', 'Congress', ' MP Shashi Tharoor said that the framework of the deal "appears far less like a free trade agreement and far more like a pre-committed purchase that overturns the very idea of reciprocity".')
+('Initiating the discussion in the Lower House, Congress MP ', 'Shashi Tharoor', ' said that the framework of the deal "appears far less like a free trade agreement and far more like a pre-committed purchase that overturns the very idea of reciprocity".')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  2.49batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9754575490951538}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8424162268638611}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.782652735710144}
+Sentiment:  3 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9415045976638794}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9190822243690491}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9066449403762817}
+
+('The first part of the Budget Session, since it began in the first week of February, witnessed repeated chaos and disruption, noisy scenes, government-opposition confrontation over a host of issues ranging from the India-US trade deal, unpublished memoirs of Former ', 'Army', ' Chief General M.M. Naravane and the latest being the Epstein controversy.')
+('As the Lower House convened on Friday, the opposition members started raising slogans and assembled in the well of the House, demanding the resignation of ', 'Union', ' Minister Hardeep Singh Puri over an alleged connection with Jeffrey Epstein, a convicted American sex offender.')
+('As the Lower House convened on Friday, the opposition members started raising slogans and assembled in the well of the House, demanding the resignation of Union Minister ', 'Hardeep Singh Puri', ' over an alleged connection with Jeffrey Epstein, a convicted American sex offender.')
+('', 'Congress', " MP Ujjawal Raman Singh questioned the Centre over 'multiple deaths' due to Codeine syrup and demanded the victims, both in Uttar Pradesh and Madhya Pradesh, be given due monetary compensation of Rs five lakh each and also a CBI enquiry should be set up to nab the culprits.")
+('Congress MP Ujjawal Raman Singh questioned the ', 'Centre', " over 'multiple deaths' due to Codeine syrup and demanded the victims, both in Uttar Pradesh and Madhya Pradesh, be given due monetary compensation of Rs five lakh each and also a CBI enquiry should be set up to nab the culprits.")
+('', 'Union', ' Minister J.P. Nadda stated that no deaths have been reported')
+('Union Minister ', 'J.P. Nadda', ' stated that no deaths have been reported')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.80batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7928469777107239}
+Sentiment:  1 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9615299105644226}
+Sentiment:  2 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9882473349571228}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.83478182554245}
+Sentiment:  4 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.8598321080207825}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9656646251678467}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9666606783866882}
+
+('With Parliament adjourned until Thursday, ', 'Congress', ' MPs, alongside other opposition parties, gathered near the Makar Dwar of Parliament, chanting slogans decrying alleged governmental oversights.')
+('Prominent figures, including ', 'Congress', " general secretary Priyanka Gandhi Vadra, voiced concerns, highlighting complaints about the farmers' plight and unmet regional demands, such as the need for an AIIMS in Kerala.")
+('Prominent figures, including Congress general secretary ', 'Priyanka Gandhi Vadra', ", voiced concerns, highlighting complaints about the farmers' plight and unmet regional demands, such as the need for an AIIMS in Kerala.")
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  3.98batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8586348295211792}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8029082417488098}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6421257257461548}
+
+('The Lok Sabha witnessed major disruption on Friday as opposition MPs demanded the resignation of ', 'Union', ' Minister Hardeep Singh Puri, forcing the House to be adjourned first till noon and later till 11 am on March 9.')
+('The Lok Sabha witnessed major disruption on Friday as opposition MPs demanded the resignation of Union Minister ', 'Hardeep Singh Puri', ', forcing the House to be adjourned first till noon and later till 11 am on March 9.')
+('As proceedings began, presiding officer ', 'Sandhya Ray', ' informed the House about the death of former MP Dr Bhagwan Das Rathore.')
+('Soon after Question Hour began, MPs from ', 'Congress', ' and other opposition parties began shouting slogans demanding Puri’s resignation.')
+('Soon after Question Hour began, MPs from Congress and other opposition parties began shouting slogans demanding ', 'Puri', '’s resignation.')
+('The protest comes after ', 'Hardeep Singh Puri’s', ' name reportedly surfaced in connection with files related to US sex offender Jeffrey Epstein.')
+('', 'Rahul Gandhi', ' has intensified attacks on the minister over the issue.')
+('', 'Puri', ' has stated that he had')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  2.11batch/s]
+Sentiment:  0 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.8739766478538513}
+Sentiment:  1 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9777337908744812}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9588579535484314}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9488308429718018}
+Sentiment:  4 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9574352502822876}
+Sentiment:  5 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.8230937719345093}
+Sentiment:  6 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.8391664028167725}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9321865439414978}
+
+('The first part of the Budget session concluded on Friday, marked by political debates over the India-US interim trade deal and the memoir of former ', 'Army', ' Chief MM Naravane, whose publishing status remained a matter of controversy even outside the Parliament.')
+('Earlier in the day, the Opposition MPs staged a protest outside the Makar Dwar in the Parliament House complex while demanding the resignation of Union Petroleum and Natural Gas Minister ', 'Hardeep Singh Puri', ', who is under fire after Leader of Opposition (LoP) Lok Sabha Rahul Gandhi questioned his links with the infamous Jeffrey Epstein.')
+('Earlier in the day, the Opposition MPs staged a protest outside the Makar Dwar in the Parliament House complex while demanding the resignation of Union Petroleum and Natural Gas Minister Hardeep Singh Puri, who is under fire after Leader of Opposition (LoP) ', 'Lok Sabha', ' Rahul Gandhi questioned his links with the infamous Jeffrey Epstein.')
+('Earlier in the day, the Opposition MPs staged a protest outside the Makar Dwar in the Parliament House complex while demanding the resignation of Union Petroleum and Natural Gas Minister Hardeep Singh Puri, who is under fire after Leader of Opposition (LoP) Lok Sabha ', 'Rahul Gandhi', ' questioned his links with the infamous Jeffrey Epstein.')
+('This came after ', 'Rahul', '')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  2.31batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6500109434127808}
+Sentiment:  1 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.990455687046051}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7751239538192749}
+Sentiment:  3 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.874081552028656}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9106478095054626}
+
+('', 'BJP', ' MP Accuses Rahul Gandhi |')
+('BJP MP Accuses ', 'Rahul Gandhi', ' |')
+('', 'BJP', ' MP asks, ‘Is Rahul plotting India’s partition to gain power?’')
+('BJP MP asks, ‘Is ', 'Rahul', ' plotting India’s partition to gain power?’')
+('7 hours ago Copy link ', 'Lok Sabha', ' proceedings lasted only about 10 minutes on the 13th day of the Budget Session.')
+('As soon as the House began on Friday, opposition MPs shouted, “', 'Hardeep Puri', ', resign!”')
+('Chairperson ', 'Sandhya Rai', ' then adjourned the Lok Sabha until 9 March.')
+('', 'Rajya Sabha', ' also adjourned until the same date.')
+('Meanwhile, ', 'BJP', ' MP Nishikant Dubey on Friday accused Rahul Gandhi of trying to divide the country to gain power.')
+('Meanwhile, BJP MP ', 'Nishikant Dubey', ' on Friday accused Rahul Gandhi of trying to divide the country to gain power.')
+('Meanwhile, BJP MP Nishikant Dubey on Friday accused ', 'Rahul Gandhi', ' of trying to divide the country to gain power.')
+('Earlier, a substantive motion was introduced in the Lok Sabha against ', 'Rahul Gandhi', ', accusing him of misleading the nation.')
+('', 'Nishikant Dubey', ' demanded the termination of Rahul Gandhi’s parliamentary membership and called for')
+('Nishikant Dubey demanded the termination of ', 'Rahul Gandhi’s', ' parliamentary membership and called for')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.79batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8946225047111511}
+Sentiment:  1 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.8965467810630798}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9667671918869019}
+Sentiment:  3 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9638506174087524}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9610010385513306}
+Sentiment:  5 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9571826457977295}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9762654900550842}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9615170955657959}
+Sentiment:  8 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.933555006980896}
+Sentiment:  9 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9369153380393982}
+Sentiment:  10 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9889979958534241}
+Sentiment:  11 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9859907031059265}
+Sentiment:  12 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9304445385932922}
+Sentiment:  13 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9002448916435242}
+
+('', 'Sandhya Ray', " initiated Question Hour, inviting Allahabad MP Ujjwal Raman Singh (Uttar Pradesh) to pose his query, answered by Health Minister J.P. Nadda; Telugu Desam Party's Krishna Prasad Tennneti followed suit.")
+('Sandhya Ray initiated Question Hour, inviting Allahabad MP Ujjwal Raman Singh (Uttar Pradesh) to pose his query, answered by ', 'Health', " Minister J.P. Nadda; Telugu Desam Party's Krishna Prasad Tennneti followed suit.")
+('Sandhya Ray initiated Question Hour, inviting Allahabad MP Ujjwal Raman Singh (Uttar Pradesh) to pose his query, answered by Health Minister ', 'J.P. Nadda', "; Telugu Desam Party's Krishna Prasad Tennneti followed suit.")
+('Sandhya Ray initiated Question Hour, inviting Allahabad MP Ujjwal Raman Singh (Uttar Pradesh) to pose his query, answered by Health Minister J.P. Nadda; ', "Telugu Desam Party's", ' Krishna Prasad Tennneti followed suit.')
+('Pandemonium erupted as ', 'Congress', '-led opposition MPs launched slogan-shouting over resignation demands, prompting Ray to suspend sittings until noon despite repeated pleas for order.')
+('Pandemonium erupted as Congress-led opposition MPs launched slogan-shouting over resignation demands, prompting ', 'Ray', ' to suspend sittings until noon despite repeated pleas for order.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  2.38batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8591557145118713}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8985660076141357}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.940735936164856}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9072271585464478}
+Sentiment:  4 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.7597537636756897}
+Sentiment:  5 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.87382572889328}
+
+('Pandemonium broke out in the Lok Sabha on Monday after Leader of Opposition ', 'Rahul Gandhi', ' sought to speak, citing an assurance from the Speaker that he would be given an opportunity.')
+('Raising the issue amid the din, ', 'Gandhi', ' questioned whether he would be allowed to speak, maintaining that the Speaker had earlier assured him.')
+('Replying to him, Parliamentary Affairs Minister ', 'Kiren Rijiju', ' said the speaker tried to resolve the deadlock and he said that every member of the House would be allowed to speak.')
+('“The Speaker had said that if a solution is found and house functions then ', 'Rahul Gandhi', ', followed by other party leaders, and parliamentary affairs minister will speak,” he said.')
+('', 'Lok Sabha', " has been witnessing disruptions since February 3 after Leader of Opposition Rahul Gandhi was disallowed by the chair from quoting from an article based on excerpts of former Army chief M M Naravane's 'unpublished memoir' in which he has referred to the India-China conflict of 2020.")
+('Lok Sabha has been witnessing disruptions since February 3 after Leader of ', 'Opposition', " Rahul Gandhi was disallowed by the chair from quoting from an article based on excerpts of former Army chief M M Naravane's 'unpublished memoir' in which he has referred to the India-China conflict of 2020.")
+('Lok Sabha has been witnessing disruptions since February 3 after Leader of Opposition ', 'Rahul Gandhi', " was disallowed by the chair from quoting from an article based on excerpts of former Army chief M M Naravane's 'unpublished memoir' in which he has referred to the India-China conflict of 2020.")
+('Lok Sabha has been witnessing disruptions since February 3 after Leader of Opposition Rahul Gandhi was disallowed by the chair from quoting from an article based on excerpts of former ', 'Army', " chief M M Naravane's 'unpublished memoir' in which he has referred to the India-China conflict of 2020.")
+('Opposition likely to move no-confidence motion against ', 'OM Birla', '')
+('The ', 'Congress', ' accused the government of')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.53batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.5338702201843262}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7163482308387756}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8856097459793091}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6898881196975708}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8458672165870667}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6161611676216125}
+Sentiment:  6 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9781257510185242}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6884667277336121}
+Sentiment:  8 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.7620211243629456}
+Sentiment:  9 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9091053009033203}
+
+('After several days of gridlock between the treasury and opposition benches, the Lok Sabha on Tuesday afternoon resumed discussion on the Union Budget, which had been stalled over opposition demands that ', 'Rahul Gandhi', ' be allowed to speak on various issues.')
+('', 'Congress', ' MP Shashi Tharoor of Thiruvananthapuram initiated the debate, marking a significant step toward breaking the stalemate.')
+('Congress MP ', 'Shashi Tharoor', ' of Thiruvananthapuram initiated the debate, marking a significant step toward breaking the stalemate.')
+('The breakthrough came shortly after opposition parties submitted a notice seeking a resolution to remove Speaker ', 'Om Birla', '.')
+('The Lok Sabha’s Business Advisory Committee has allocated 18 hours for the discussion, with ', 'Finance', ' Minister Nirmala Sitharaman expected to respond on Thursday afternoon.')
+('The Lok Sabha’s Business Advisory Committee has allocated 18 hours for the discussion, with Finance Minister ', 'Nirmala Sitharaman', ' expected to respond on Thursday afternoon.')
+('Since February 2, the House had experienced repeated disruptions, which resulted in the suspension of seven ', 'Congress', ' members and one CPI(M) member for the remainder of the Budget session.')
+('Speaker ', 'Birla', ', anticipating further unrest, requested Prime Minister Narendra Modi not to attend the House last week when he was scheduled to respond to the Motion of Thanks on the President’s')
+('Speaker Birla, anticipating further unrest, requested Prime Minister ', 'Narendra Modi', ' not to attend the House last week when he was scheduled to respond to the Motion of Thanks on the President’s')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  2.01batch/s]
+Sentiment:  0 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.5858790278434753}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6609192490577698}
+Sentiment:  2 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.8006064891815186}
+Sentiment:  3 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9363263845443726}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9522059559822083}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9532984495162964}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.4992789924144745}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9456230401992798}
+Sentiment:  8 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9180415272712708}
+
+('On June 10, 2004, the motion of thanks was passed without the Prime Minister’s speech, but at that time the ', 'BJP', ' had prevented the PM from speaking.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  7.97batch/s]Sentiment:  0 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9051164984703064}
+
+
+('', 'Union', ' Minister Mansukh Mandaviya moved Industrial Relations Code (Amendment) Bill, which was earlier passed in the Lok Sabha, for discussion in the Rajya Sabha.')
+('Union Minister ', 'Mansukh Mandaviya', ' moved Industrial Relations Code (Amendment) Bill, which was earlier passed in the Lok Sabha, for discussion in the Rajya Sabha.')
+('', 'Congress', ' MP Jairam Ramesh said, "Industrial Relations Code 202 was passed on September 23, 20220 by a voice vote and now we are amending a law passed six years ago, reflecting failure of government.')
+('Congress MP ', 'Jairam Ramesh', ' said, "Industrial Relations Code 202 was passed on September 23, 20220 by a voice vote and now we are amending a law passed six years ago, reflecting failure of government.')
+('Laws passed without discussion in ', 'Indian Labour Conference', '.')
+('', 'TMC', " MP Dola Sen said this Bill is trying to snatch trade union rights and calls for 'no trade union' or industrial disputes.")
+('', 'DMK', ' MP R Girirajan said the Bill is anti-union, anti-federation, anti-workers and weakens workers.')
+('Niranjan Bishi ', 'BJD', " MP said the Bill is against the basic principal of natural justice and destroy workers' interest .")
+('FM ', 'Nirmala Sitharaman', ' said one member said that farmers are happy in Kentucky but unhappy in Tamil Nadu, Karnataka, West Bengal. "Now why INDIA Bloc states are unhappy is')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.44batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8998568058013916}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.692439615726471}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8252840638160706}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.86942058801651}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9812468886375427}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9377433061599731}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.883535623550415}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8409708142280579}
+Sentiment:  8 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9486594796180725}
+
+('', 'Rajya Sabha', ' proceedings were adjourned on Friday till March 9, as Parliament went into a three-week-long recess to allow standing committees to scrutinise Budget proposals.')
+('Earlier in the day, ', 'Lok Sabha', ' proceedings too were adjourned till March 9.')
+('', 'Finance', ' Minister Nirmala Sitharaman presented the Union Budget for the financial year 2026-27 in Parliament on February 1.')
+('Finance Minister ', 'Nirmala Sitharaman', ' presented the Union Budget for the financial year 2026-27 in Parliament on February 1.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  4.20batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9607032537460327}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9693162441253662}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9411799311637878}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9139247536659241}
+
+('Earlier in the day, the House was adjourned for one hour after Opposition members raised slogans demanding resignation of ', 'Union', ' Minister Hardeep Puri.')
+('Earlier in the day, the House was adjourned for one hour after Opposition members raised slogans demanding resignation of Union Minister ', 'Hardeep Puri', '.')
+('The Lok Sabha witnessed dramatic scenes and repeated adjournments from February 2 afternoon after the Chair disallowed Leader of the Opposition ', 'Rahul Gandhi', ' to quote from the excerpts of the memoir of Naravane relating to the India-China conflict of 2020.')
+('The House witnessed noisy protests and dramatic scenes in the coming days leading to the suspension of seven ', 'Congress', ' and one CPI-M member from the House for the remainder part of the Budget session for unruly')
+('The House witnessed noisy protests and dramatic scenes in the coming days leading to the suspension of seven Congress and one ', 'CPI-M', ' member from the House for the remainder part of the Budget session for unruly')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  3.10batch/s]
+Sentiment:  0 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.8570206165313721}
+Sentiment:  1 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9606065154075623}
+Sentiment:  2 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9337178468704224}
+Sentiment:  3 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.7600300312042236}
+Sentiment:  4 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.6728620529174805}
+
+('As the opposition gathered to decide strategy for the upcoming discussion on Budget on Tuesday, ', 'Rahul Gandhi', ' faced a unanimous demand from allies that he should start the debate, if only to get back at BJP which had not let him speak for seven days.')
+('As the opposition gathered to decide strategy for the upcoming discussion on Budget on Tuesday, Rahul Gandhi faced a unanimous demand from allies that he should start the debate, if only to get back at ', 'BJP', ' which had not let him speak for seven days.')
+('The demand was led by ', 'DMK', '’s T R Baalu and supported by others.')
+('But ', 'Rahul', ' resisted.')
+('He underlined that all regional parties has important issues to raise, and they should not fall prey to “organised disruptions” of ', 'BJP', '.')
+("'Speaker Personally Committed': ", 'Rahul Gandhi', '-Kiren Rijiju Showdown In Lok Sabha Over LoP Speech')
+("'Speaker Personally Committed': Rahul Gandhi-", 'Kiren Rijiju', ' Showdown In Lok Sabha Over LoP Speech')
+("'Speaker Personally Committed': Rahul Gandhi-Kiren Rijiju Showdown In ", 'Lok Sabha', ' Over LoP Speech')
+('The move won a few hearts in the room, with an ally-critic of LoP ', 'Rahul Gandhi', ' later describing it as a “magnanimous” gesture.')
+('The meeting was attended by ', 'Congress', '’ Mallikarjun Kharge, K C Venugopal, Naseer Hussain and Manickam Tagore, Ramgopal Yadav (SP), N K Premachandran (RSP), Sanjay Raut and Arvind Sawant (SS), John Brittas (CPM), PC Gupta (RJD), Shatabdi Roy (TMC), E T Mohd Basheer (IUML), Rajaram Singh (CPI-ML), among others.')
+('The meeting was attended by Congress’ Mallikarjun Kharge, ', 'K C Venugopal', ', Naseer Hussain and Manickam Tagore, Ramgopal Yadav (SP), N K Premachandran (RSP), Sanjay Raut and Arvind Sawant (SS), John Brittas (CPM), PC Gupta (RJD), Shatabdi Roy (TMC), E T Mohd Basheer (IUML), Rajaram Singh (CPI-ML), among others.')
+('The meeting was attended by Congress’ Mallikarjun Kharge, K C Venugopal, ', 'Naseer Hussain', ' and Manickam Tagore, Ramgopal Yadav (SP), N K Premachandran (RSP), Sanjay Raut and Arvind Sawant (SS), John Brittas (CPM), PC Gupta (RJD), Shatabdi Roy (TMC), E T Mohd Basheer (IUML), Rajaram Singh (CPI-ML), among others.')
+('The meeting was attended by Congress’ Mallikarjun Kharge, K C Venugopal, Naseer Hussain and ', 'Manickam Tagore', ', Ramgopal Yadav (SP), N K Premachandran (RSP), Sanjay Raut and Arvind Sawant (SS), John Brittas (CPM), PC Gupta (RJD), Shatabdi Roy (TMC), E T Mohd Basheer (IUML), Rajaram Singh (CPI-ML), among others.')
+('The meeting was attended by Congress’ Mallikarjun Kharge, K C Venugopal, Naseer Hussain and Manickam Tagore, Ramgopal Yadav (SP), ', 'N K Premachandran', ' (RSP), Sanjay Raut and Arvind Sawant (SS), John Brittas (CPM), PC Gupta (RJD), Shatabdi Roy (TMC), E T Mohd Basheer (IUML), Rajaram Singh (CPI-ML), among others.')
+('The meeting was attended by Congress’ Mallikarjun Kharge, K C Venugopal, Naseer Hussain and Manickam Tagore, Ramgopal Yadav (SP), N K Premachandran (RSP), ', 'Sanjay Raut', ' and Arvind Sawant (SS), John Brittas (CPM), PC Gupta (RJD), Shatabdi Roy (TMC), E T Mohd Basheer (IUML), Rajaram Singh (CPI-ML), among others.')
+('The meeting was attended by Congress’ Mallikarjun Kharge, K C Venugopal, Naseer Hussain and Manickam Tagore, Ramgopal Yadav (SP), N K Premachandran (RSP), Sanjay Raut and ', 'Arvind Sawant', ' (SS), John Brittas (CPM), PC Gupta (RJD), Shatabdi Roy (TMC), E T Mohd Basheer (IUML), Rajaram Singh (CPI-ML), among others.')
+('The meeting was attended by Congress’ Mallikarjun Kharge, K C Venugopal, Naseer Hussain and Manickam Tagore, Ramgopal Yadav (SP), N K Premachandran (RSP), Sanjay Raut and Arvind Sawant (SS), ', 'John Brittas', ' (CPM), PC Gupta (RJD), Shatabdi Roy (TMC), E T Mohd Basheer (IUML), Rajaram Singh (CPI-ML), among others.')
+('The meeting was attended by Congress’ Mallikarjun Kharge, K C Venugopal, Naseer Hussain and Manickam Tagore, Ramgopal Yadav (SP), N K Premachandran (RSP), Sanjay Raut and Arvind Sawant (SS), John Brittas (CPM), PC Gupta (', 'RJD', '), Shatabdi Roy (TMC), E T Mohd Basheer (IUML), Rajaram Singh (CPI-ML), among others.')
+('The meeting was attended by Congress’ Mallikarjun Kharge, K C Venugopal, Naseer Hussain and Manickam Tagore, Ramgopal Yadav (SP), N K Premachandran (RSP), Sanjay Raut and Arvind Sawant (SS), John Brittas (CPM), PC Gupta (RJD), Shatabdi Roy (', 'TMC', '), E T Mohd Basheer (IUML), Rajaram Singh (CPI-ML), among others.')
+('The meeting was attended by Congress’ Mallikarjun Kharge, K C Venugopal, Naseer Hussain and Manickam Tagore, Ramgopal Yadav (SP), N K Premachandran (RSP), Sanjay Raut and Arvind Sawant (SS), John Brittas (CPM), PC Gupta (RJD), Shatabdi Roy (TMC), E T Mohd Basheer (IUML), Rajaram Singh (', 'CPI-ML', '), among others.')
+Processing batches: 100%|██████████| 1/1 [00:02<00:00,  2.02s/batch]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.47083476185798645}
+Sentiment:  1 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.8597878813743591}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.750289797782898}
+Sentiment:  3 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.5980191826820374}
+Sentiment:  4 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9219805002212524}
+Sentiment:  5 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.6670367121696472}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7885770201683044}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9154595136642456}
+Sentiment:  8 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.6420861482620239}
+Sentiment:  9 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9386854767799377}
+Sentiment:  10 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9239096641540527}
+Sentiment:  11 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9270229935646057}
+Sentiment:  12 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9144168496131897}
+Sentiment:  13 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.911954402923584}
+Sentiment:  14 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9268319606781006}
+Sentiment:  15 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9037574529647827}
+Sentiment:  16 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9090471267700195}
+Sentiment:  17 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8707761168479919}
+Sentiment:  18 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8624587655067444}
+Sentiment:  19 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8672875165939331}
+
+('', 'Rajya Sabha', ' proceedings adjourned till March 9')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  9.17batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9736179113388062}
+
+('Stormy first leg of Budget session over; ', 'Lok Sabha', ' to meet again on March 9 after recess')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  7.59batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9777601361274719}
+
+('“Budget reflects the disconnect between the government and the lived realities of the citizens,” Dr. ', 'Mallu Ravi', ', INC, Telangana.')
+('“Budget reflects the disconnect between the government and the lived realities of the citizens,” Dr. Mallu Ravi, ', 'INC', ', Telangana.')
+('Sudama Prasad, ', 'CPI', ' (ML), Bihar, highlighted the issue of deforestation and accused the government of giving “thousands of acres of land for power plants to Adani”.')
+('', 'Jugal Kishore', ', BJP, Jammu and Kashmir, said, “VB G RAM G is a big relief to rural areas.”')
+('Jugal Kishore, ', 'BJP', ', Jammu and Kashmir, said, “VB G RAM G is a big relief to rural areas.”')
+('He said that the loopholes that existed in MGNREGA be rectified by ', 'VB G RAM G.', '')
+('He said PM ', 'Modi', '’s long-term reforms brought in fiscal discipline that improved the economy.')
+('', 'Hanuman Beniwal', ', RLP, Rajasthan, said that the Budget “is a step to increase the chasm between the poor and the rich people”.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  2.29batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9376880526542664}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9178745746612549}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8826789259910583}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7531096339225769}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7019229531288147}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.5231794714927673}
+Sentiment:  6 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.9576812982559204}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8245269656181335}
+
+('', 'AIADMK', ' MP Dr. M Thambidurai says the budget gives strong emphasis to health and medical education.')
+('He says that textile hubs at Tiruppur, Erode and Karur will benefit from the ', 'MSME', ' protections which are part of the budget.')
+('He speaks about the mismanagement of the Tamil Nadu government and issues caused by the ', 'DMK', ', leading to protests from DMK members and the Chair asking him to stick to speaking about the Union Budget.')
+('He speaks about the mismanagement of the Tamil Nadu government and issues caused by the DMK, leading to protests from ', 'DMK', ' members and the Chair asking him to stick to speaking about the Union Budget.')
+('', 'BJD', ' MP Muzibulla Khan says that the budget has been dispiriting for Odisha.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  3.38batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6669610142707825}
+Sentiment:  1 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.6967299580574036}
+Sentiment:  2 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.5696523189544678}
+Sentiment:  3 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.5111841559410095}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9594400525093079}
+
+
+('', 'Congress', ' MP Rahul Gandhi did not open the discussion on the Union budget in the Lok Sabha on Tuesday, citing concerns over potential “engineered disruptions” by the treasury benches, party sources cited by PTI said.')
+('Congress MP ', 'Rahul Gandhi', ' did not open the discussion on the Union budget in the Lok Sabha on Tuesday, citing concerns over potential “engineered disruptions” by the treasury benches, party sources cited by PTI said.')
+('Congress MP Rahul Gandhi did not open the discussion on the ', 'Union', ' budget in the Lok Sabha on Tuesday, citing concerns over potential “engineered disruptions” by the treasury benches, party sources cited by PTI said.')
+('Opposition targets ', 'LS', ' Speaker with no-confidence motion — rules, process & numbers – Explained')
+('According to ', 'Congress', ' sources, several opposition leaders had urged Gandhi to start the Budget debate.')
+('According to Congress sources, several opposition leaders had urged ', 'Gandhi', ' to start the Budget debate.')
+('', 'Gandhi', ' emphasized that the Budget debate is crucial for all opposition parties to raise issues affecting the people and hold the government accountable.')
+('The decision came after opposition parties submitted a notice to move a resolution for the removal of ', 'Lok Sabha', ' Speaker Om Birla, escalating tensions between the treasury and opposition benches.')
+('The decision came after opposition parties submitted a notice to move a resolution for the removal of Lok Sabha Speaker ', 'Om Birla', ', escalating tensions between the treasury and opposition benches.')
+('When the House convened at 2 pm following two adjournments, Krishna Prasad Tenneti, presiding over the proceedings, asked ', 'Congress', ' MP Shashi Tharoor to initiate the debate, and he began speaking on the issue.')
+('When the House convened at 2 pm following two adjournments, Krishna Prasad Tenneti, presiding over the proceedings, asked Congress MP ', 'Shashi Tharoor', ' to initiate the debate, and he began speaking on the issue.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.66batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6171731948852539}
+Sentiment:  1 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.85856032371521}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8796131014823914}
+Sentiment:  3 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.7116133570671082}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9782131314277649}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8027074933052063}
+Sentiment:  6 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.7376577258110046}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6196321845054626}
+Sentiment:  8 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9517064690589905}
+Sentiment:  9 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9592940211296082}
+Sentiment:  10 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9153928756713867}
+
+('Synopsis ', 'Rahul Gandhi', ' is set to take the floor in the Lok Sabha on Wednesday, addressing the critical Union Budget 2026-27.')
+('New Delhi [India], February 11 (', 'ANI', '):')
+('Leader of Opposition in ', 'Lok Sabha', ', Rahul Gandhi, will intervene in the ongoing discussion on the Union Budget 2026-27 in the Lower House on Wednesday.')
+('Leader of Opposition in Lok Sabha, ', 'Rahul Gandhi', ', will intervene in the ongoing discussion on the Union Budget 2026-27 in the Lower House on Wednesday.')
+('On Tuesday, as both Houses discussed the Budget, the Opposition MPs took the opportunity to slam the ', 'Centre', ' over the framework of the India-United States interim trade agreement.')
+('Initiating the discussion in the Lower House, ', 'Congress', ' MP Shashi Tharoor said that the framework of the deal "appears far less like a free trade agreement and far more like a pre-committed purchase that overturns the very idea of reciprocity".')
+('Initiating the discussion in the Lower House, Congress MP ', 'Shashi Tharoor', ' said that the framework of the deal "appears far less like a free trade agreement and far more like a pre-committed purchase that overturns the very idea of reciprocity".')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  2.20batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8528345823287964}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9791373014450073}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.976125955581665}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8208629488945007}
+Sentiment:  4 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.9415042400360107}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9190823435783386}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9066452980041504}
+
+('The first part of the Budget session concluded on Friday, marked by political debates over the India-US interim trade deal and the memoir of former ', 'Army', ' Chief MM Naravane, whose publishing status remained a matter of controversy even outside the Parliament.')
+('Earlier in the day, the Opposition MPs staged a protest outside the Makar Dwar in the Parliament House complex while demanding the resignation of Union Petroleum and Natural Gas Minister ', 'Hardeep Singh Puri', ', who is under fire after Leader of Opposition (LoP) Lok Sabha Rahul Gandhi questioned his links with the infamous Jeffrey Epstein.')
+('Earlier in the day, the Opposition MPs staged a protest outside the Makar Dwar in the Parliament House complex while demanding the resignation of Union Petroleum and Natural Gas Minister Hardeep Singh Puri, who is under fire after Leader of Opposition (LoP) ', 'Lok Sabha', ' Rahul Gandhi questioned his links with the infamous Jeffrey Epstein.')
+('Earlier in the day, the Opposition MPs staged a protest outside the Makar Dwar in the Parliament House complex while demanding the resignation of Union Petroleum and Natural Gas Minister Hardeep Singh Puri, who is under fire after Leader of Opposition (LoP) Lok Sabha ', 'Rahul Gandhi', ' questioned his links with the infamous Jeffrey Epstein.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  2.45batch/s]Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6500120162963867}
+Sentiment:  1 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.990455687046051}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7751238346099854}
+Sentiment:  3 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.8740822076797485}

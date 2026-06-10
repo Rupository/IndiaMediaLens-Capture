@@ -1,0 +1,479 @@
+('Prime Minister ', 'Narendra Modi', ' on Friday signed a series of key files from his new office complex, Seva Teerth, approving major decisions focused on women, youth, farmers and vulnerable citizens.')
+('PM ', 'Modi', ' Unveils Seva Teerth, A New PMO Hub Marking Governance Shift In National Capital Delhi')
+('According to the government, the first decisions from Seva Teerth reflect a spirit of “', 'Seva', '” and aim to touch every section of society.')
+('Cashless treatment for road accident victims PM ', 'Modi', ' approved the launch of the PM RAHAT scheme, under which road accident victims will be entitled to cashless treatment of up to Rs 1.5 lakh.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.63batch/s]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.8460277318954468}
+Sentiment:  1 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.6314061284065247}
+Sentiment:  2 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.8021040558815002}
+Sentiment:  3 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.795201301574707}
+
+('Prime Minister ', 'Narendra Modi', ' today unveiled the name of the building complex Seva Teerth in the National Capital.')
+('The inauguration reflects Prime Minister ', 'Modi', '’s commitment to building a modern, efficient, accessible and citizen-centric governance ecosystem.')
+('Seva Teerth houses ', 'the Prime Minister’s Office', ', the National Security Council Secretariat, the Cabinet Secretariat, all of which were previously located across different locations.')
+('accommodate several Key ministries including ', 'the Ministry of Finance', ', Ministry of Defence, Ministry of Health and Family Welfare, Ministry of Education and the Ministry of Information and Broadcasting.')
+('accommodate several Key ministries including the Ministry of Finance, ', 'Ministry of Defence', ', Ministry of Health and Family Welfare, Ministry of Education and the Ministry of Information and Broadcasting.')
+('accommodate several Key ministries including the Ministry of Finance, Ministry of Defence, ', 'Ministry of Health and Family Welfare', ', Ministry of Education and the Ministry of Information and Broadcasting.')
+('accommodate several Key ministries including the Ministry of Finance, Ministry of Defence, Ministry of Health and Family Welfare, Ministry of Education and ', 'the Ministry of Information and Broadcasting', '.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  2.52batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7078734636306763}
+Sentiment:  1 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.9752362966537476}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9357702732086182}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7509340643882751}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7346418499946594}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6403983235359192}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8062734603881836}
+
+('Prime Minister ', 'Narendra Modi', " on Friday (February 13, 2026) said the new buildings housing the Prime Minister's Office (PMO) and Central Secretariat mark are an important milestone in India's journey towards 'Viksit Bharat' (developed India) and they reflect the government's commitment to citizen-centric governance and national progress.")
+("Prime Minister Narendra Modi on Friday (February 13, 2026) said the new buildings housing the Prime Minister's Office (", 'PMO', ") and Central Secretariat mark are an important milestone in India's journey towards 'Viksit Bharat' (developed India) and they reflect the government's commitment to citizen-centric governance and national progress.")
+('Inaugurating the new ', 'PMO', ', named Seva Teerth, and two buildings of the Central Secretariat, called Kartavya Bhawan 1 and 2, Mr. Modi also said that the towers have been built to fulfil the aspirations of the people of India.')
+('Inaugurating the new PMO, named Seva Teerth, and two buildings of the Central Secretariat, called Kartavya Bhawan 1 and 2, Mr. ', 'Modi', ' also said that the towers have been built to fulfil the aspirations of the people of India.')
+('The prime minister said the historic structures such as the South Block and North Block, which till now house important ministries like defence, home and finance besides the ', 'PMO', ', were built to embody the ideals of the British Empire but the Seva Teerth and Kartavya Bhawan have been constructed to realise the aspirations of the people of the nation.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  2.30batch/s]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.6205418109893799}
+Sentiment:  1 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.5514868497848511}
+Sentiment:  2 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.5927785038948059}
+Sentiment:  3 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.6423627734184265}
+Sentiment:  4 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.7119824290275574}
+
+('Inauguration marks a transformative milestone in India’s administrative governance architecture Seva Teerth houses ', 'the Prime Minister’s Office', ', the National Security Council Secretariat, the Cabinet Secretariat Kartavya Bhavan-1 & 2 house several key ministries, including the Ministry of Finance, Defence, Health & Family Welfare, Education among others')
+('Inauguration marks a transformative milestone in India’s administrative governance architecture Seva Teerth houses the Prime Minister’s Office, the National Security Council Secretariat, the Cabinet Secretariat Kartavya Bhavan-1 & 2 house several key ministries, including ', 'the Ministry of Finance, Defence, Health & Family Welfare', ', Education among others')
+('Prime Minister ', 'Shri Narendra Modi', ' will unveil the name of the building complex Seva Teerth on 13th February, 2026 at around 1:30 PM.')
+('Seva Teerth houses ', 'the Prime Minister’s Office', ', the National Security Council Secretariat, the Cabinet Secretariat, all of which were previously located across different locations.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  3.03batch/s]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.5883826017379761}
+Sentiment:  1 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.5506951212882996}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7496139407157898}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9357699751853943}
+
+('PM ', 'Modi', " with Union ministers Manohar Lal and Jitendra Singh during the inaugural programme of the 'Seva Teerth' and two Kartavya Bhawans.")
+('PM Modi with ', 'Union', " ministers Manohar Lal and Jitendra Singh during the inaugural programme of the 'Seva Teerth' and two Kartavya Bhawans.")
+('PM Modi with Union ministers ', 'Manohar Lal', " and Jitendra Singh during the inaugural programme of the 'Seva Teerth' and two Kartavya Bhawans.")
+('PM Modi with Union ministers Manohar Lal and ', 'Jitendra Singh', " during the inaugural programme of the 'Seva Teerth' and two Kartavya Bhawans.")
+('Prime Minister ', 'Narendra Modi', ' inaugurated two new Kartavya Bhawans and released a commemorative postage stamp and coin on Friday, hours after shifting to his new office, "Seva Teertha. "')
+('PM ', 'Modi', ' Unveils Seva Teerth, A New PMO Hub Marking Governance Shift In National Capital Delhi')
+('PM ', 'Modi', ' noted that after independence, many crucial decisions shaping the nation’s future were taken, and key policies were framed within buildings such as the South Block and North Block.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  2.49batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9267223477363586}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.930992066860199}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9182575941085815}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9128217101097107}
+Sentiment:  4 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.6384883522987366}
+Sentiment:  5 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.6314033269882202}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6297522783279419}
+
+('Prime Minister ', 'Narendra Modi', ' on Friday said that India is stepping into a new phase with the resolve of building a “Viksit Bharat” as he dedicated the newly built ‘Seva Teerth’ to the people of the country.')
+('India’s most powerful address changed today as Prime Minister ', 'Narendra Modi', ' inaugurated Seva Teerth, the new integrated complex that will house the Prime Minister’s Office (PMO).')
+('India’s most powerful address changed today as Prime Minister Narendra Modi inaugurated Seva Teerth, the new integrated complex that will house ', 'the Prime Minister’s Office', ' (PMO).')
+('In his address, PM ', 'Modi', ' congratulated the Prime Minister’s Office team and all secretariats for their role in the transition.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  3.57batch/s]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.7855430841445923}
+Sentiment:  1 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.8514242172241211}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6181945204734802}
+Sentiment:  3 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.7816428542137146}
+
+('Prime Minister ', 'Narendra Modi', ' on Friday said Seva Teerth, the new complex that houses the Prime Minister’s Office, will serve the aspirations of 140 crore Indians.')
+('In his first address from Seva Teerth, PM ', 'Modi', ' said the new buildings mark a decisive shift away from the colonial legacy and reflect the hopes of a modern India.')
+('Seva Teerth comprises three buildings accommodating the ', 'PMO', ', the National Security Council Secretariat and the Cabinet Secretariat.')
+('“I can say with pride that Seva Teerth and Kartavya Bhawans are built to fulfil aspirations of Indians, not of any monarch,” ', 'Modi', ' said after inaugurating Kartavya Bhawan 1 and 2.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  3.11batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7624508142471313}
+Sentiment:  1 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.7080140709877014}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9350399374961853}
+Sentiment:  3 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.5688139796257019}
+
+('', 'The Prime Minister’s Office', ' moving to the Seva Teerth complex has cleared the path for the landmark Yuge Yugeen Bharat National Museum project in Delhi')
+('In a historic transition that marks the end of nearly eight decades of governance from colonial-era headquarters, Prime Minister ', 'Narendra Modi', ' officially inaugurated the Seva Teerth complex on Friday.')
+('This state-of-the-art administrative hub now serves as the permanent home of ', 'the Prime Minister’s Office', ' (PMO), the Cabinet Secretariat, and the National Security Council Secretariat.')
+('This state-of-the-art administrative hub now serves as the permanent home of the Prime Minister’s Office (', 'PMO', '), the Cabinet Secretariat, and the National Security Council Secretariat.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  3.60batch/s]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.7937160730361938}
+Sentiment:  1 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.7522005438804626}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7528997659683228}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8151143789291382}
+
+("Earlier premises meant to keep us in 'colonial shackles': PM ", 'Modi', ' at Seva Teerth Seva Teerth -- a set of three buildings -- houses the PMO, the National Security Council Secretariat and the Cabinet Secretariat, all of which were previously located across different locations within the Central Vista area.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  6.35batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8883779048919678}
+
+('Prime Minister ', 'Narendra Modi', ' will formally inaugurate Seva Teerth, the new building complex housing the Prime Minister’s Office (PMO), today.')
+('Prime Minister Narendra Modi will formally inaugurate Seva Teerth, the new building complex housing ', 'the Prime Minister’s Office', ' (PMO), today.')
+('Apart from the ', 'PMO', ', Seva Teerth houses the National Security Council Secretariat and the Cabinet Secretariat.')
+('The ministries relocated to Kartavya Bhavan-1 and 2 include ', 'the Ministry of Finance', ', Ministry of Defence, Ministry of Health and Family Welfare, Ministry of Corporate Affairs, Ministry of Education, Ministry of Culture, Ministry of Law and Justice, Ministry of Information and Broadcasting, Ministry of Agriculture and Farmers Welfare, Ministry of Chemicals and Fertilizers, and the Ministry of Tribal Affairs.')
+('The ministries relocated to Kartavya Bhavan-1 and 2 include the Ministry of Finance, ', 'Ministry of Defence', ', Ministry of Health and Family Welfare, Ministry of Corporate Affairs, Ministry of Education, Ministry of Culture, Ministry of Law and Justice, Ministry of Information and Broadcasting, Ministry of Agriculture and Farmers Welfare, Ministry of Chemicals and Fertilizers, and the Ministry of Tribal Affairs.')
+('The ministries relocated to Kartavya Bhavan-1 and 2 include the Ministry of Finance, Ministry of Defence, ', 'Ministry of Health and Family Welfare', ', Ministry of Corporate Affairs, Ministry of Education, Ministry of Culture, Ministry of Law and Justice, Ministry of Information and Broadcasting, Ministry of Agriculture and Farmers Welfare, Ministry of Chemicals and Fertilizers, and the Ministry of Tribal Affairs.')
+('The ministries relocated to Kartavya Bhavan-1 and 2 include the Ministry of Finance, Ministry of Defence, Ministry of Health and Family Welfare, Ministry of Corporate Affairs, Ministry of Education, Ministry of Culture, Ministry of Law and Justice, ', 'Ministry of Information and Broadcasting', ', Ministry of Agriculture and Farmers Welfare, Ministry of Chemicals and Fertilizers, and the Ministry of Tribal Affairs.')
+('The ministries relocated to Kartavya Bhavan-1 and 2 include the Ministry of Finance, Ministry of Defence, Ministry of Health and Family Welfare, Ministry of Corporate Affairs, Ministry of Education, Ministry of Culture, Ministry of Law and Justice, Ministry of Information and Broadcasting, Ministry of Agriculture and Farmers Welfare, Ministry of Chemicals and Fertilizers, and ', 'the Ministry of Tribal Affairs', '.')
+('The ', 'PMO', ' described the inauguration as a “transformative milestone” in India’s administrative governance architecture, reflecting the Prime Minister’s vision of building a modern, efficient, accessible and citizen-centric governance ecosystem.')
+('The relocation of ministries was necessitated by what the ', 'PMO', ' termed “fragmented and ageing infrastructure spread across multiple locations in the Central Vista area.”')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.33batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.5999917387962341}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8691487908363342}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.959754228591919}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8009901642799377}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7898874878883362}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6659865975379944}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7973018288612366}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.817229688167572}
+Sentiment:  8 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.755393385887146}
+Sentiment:  9 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9319789409637451}
+
+('The Prime Minister earlier unveiled the name of the Seva Teerth complex at 1.30 pm, marking the first relocation of the ', 'PMO', ' since Independence from the British-era South Block.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  8.84batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8660283088684082}
+
+('The government will on Friday fully vacate British-era North and South Blocks, which have housed its offices for nearly a century, with ', 'the Prime Minister’s Office', ' the last of all segments to move out.')
+('On Friday, the ', 'PMO', ' will shift to a new address, Seva Teerth, also located in Lutyens’ Delhi but one reflective of Indian architectural elements rather than colonial.')
+('Seva Teerth will be home to ', 'the Prime Minister’s Office', ', the National Security Council Secretariat, the Cabinet Secretariat and other crucial segments so far scattered across the city.')
+('After the Cabinet meeting, ', 'Modi', ' will inaugurate Seva Teerth and other sections of Kartavya Bhavan — a series of modern government office complexes on the Janpath road close to India Gate.')
+('Seva Teerth will be a separate stand-alone compound for the ', 'PMO', ' and Cabinet Secretariat offices.')
+('The two new Karvatya Bhavan offices to be inaugurated tomorrow will house the ministries of ', 'Finance', ', Defence, Health, Corporate Affairs, Education, Culture, Law, Information & Broadcasting, Agriculture, Chemicals & Fertilisers and Tribal')
+('The two new Karvatya Bhavan offices to be inaugurated tomorrow will house the ministries of Finance, ', 'Defence', ', Health, Corporate Affairs, Education, Culture, Law, Information & Broadcasting, Agriculture, Chemicals & Fertilisers and Tribal')
+('The two new Karvatya Bhavan offices to be inaugurated tomorrow will house the ministries of Finance, Defence, Health, Corporate Affairs, ', 'Education', ', Culture, Law, Information & Broadcasting, Agriculture, Chemicals & Fertilisers and Tribal')
+('The two new Karvatya Bhavan offices to be inaugurated tomorrow will house the ministries of Finance, Defence, Health, Corporate Affairs, Education, Culture, Law, ', 'Information & Broadcasting', ', Agriculture, Chemicals & Fertilisers and Tribal')
+('The two new Karvatya Bhavan offices to be inaugurated tomorrow will house the ministries of Finance, Defence, Health, Corporate Affairs, Education, Culture, Law, Information & Broadcasting, ', 'Agriculture', ', Chemicals & Fertilisers and Tribal')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.78batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8650467395782471}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9189163446426392}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.921099841594696}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.5106481313705444}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9660059213638306}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6671836376190186}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6353749632835388}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.4894700348377228}
+Sentiment:  8 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7402936220169067}
+Sentiment:  9 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6592796444892883}
+
+('Bringing the curtains down on the top executive office at the iconic, but of imperial heritage, South Block after over a century, Prime Minister ', 'Narendra Modi', ' will chair the last Cabinet meeting at the distinguished seat of power on Friday before moving to the new office complex Seva Teerth.')
+('', "The Prime Minister's Office", ' (PMO) said: “The inauguration marks a transformative milestone in India’s administrative governance architecture and reflects the Prime Minister’s commitment to building a modern, efficient, accessible and citizen-centric governance ecosystem.”')
+('located with the ', 'PMO', '.')
+('Officials said only ', 'the Prime Minister’s Office', ' is being shifted.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  3.35batch/s]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.49125370383262634}
+Sentiment:  1 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.669642984867096}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9829955697059631}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.940197765827179}
+
+('Prime Minister ', 'Narendra Modi', ' unveiled Seva Teerth, a brand-new building complex in the national capital.')
+('Seva Teerth now houses the ', 'PMO', ', Cabinet Secretariat, and National Security Council Secretariat.')
+('The PM also inaugurated Kartavya Bhavan-1 & 2, housing key ministries like ', 'Finance', ', Defence, and Health.')
+('The PM also inaugurated Kartavya Bhavan-1 & 2, housing key ministries like Finance, ', 'Defence', ', and Health.')
+('The PM also inaugurated Kartavya Bhavan-1 & 2, housing key ministries like Finance, Defence, and ', 'Health', '.')
+('In his first major decision at Seva Teerth, PM ', 'Narendra Modi', ' announced an increase in the Agriculture Infrastructure Fund (AIF) to ₹2 lakh crore, nearly doubling its earlier outlay.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  3.33batch/s]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.7795003056526184}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9458616971969604}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6656947135925293}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6953877210617065}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6444299817085266}
+Sentiment:  5 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.8738618493080139}
+
+('After more than a century, ', 'the Prime Minister’s Office', ' (PMO), the Cabinet Secretariat and the National Security Council Secretariat will shift from the South Block on Friday to a new building known as Seva Teerth.')
+('After more than a century, the Prime Minister’s Office (', 'PMO', '), the Cabinet Secretariat and the National Security Council Secretariat will shift from the South Block on Friday to a new building known as Seva Teerth.')
+('PM ', 'Narendra Modi', ' will chair a special meeting of the Union Cabinet at the South Block on Friday, the last such gathering at the British-era secretariat building before the PMO shifts to the new complex.')
+('PM Narendra Modi will chair a special meeting of the Union Cabinet at the South Block on Friday, the last such gathering at the British-era secretariat building before the ', 'PMO', ' shifts to the new complex.')
+('PM ', 'Modi', ' will unveil the name of the building complex Seva Teerth on 13th February, 2026 at around 1.30 PM, according to a PMO statement.')
+('PM Modi will unveil the name of the building complex Seva Teerth on 13th February, 2026 at around 1.30 PM, according to a ', 'PMO', ' statement.')
+('Seva Teerth houses ', 'the Prime Minister’s Office', ', the National Security Council Secretariat, the Cabinet Secretariat, all of which were previously located across different locations.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  2.44batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9034788012504578}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.927587628364563}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7845903635025024}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9155436158180237}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8554396629333496}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.95396488904953}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9357702732086182}
+
+('The unveiling of ‘Seva Teerth’ as the name for the new complex housing ', 'the Prime Minister’s Office', ' (PMO), the National Security Council Secretariat (NSCS), and the Cabinet Secretariat marks a definitive moment in India’s administrative evolution.')
+('The unveiling of ‘Seva Teerth’ as the name for the new complex housing the Prime Minister’s Office (', 'PMO', '), the National Security Council Secretariat (NSCS), and the Cabinet Secretariat marks a definitive moment in India’s administrative evolution.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  4.96batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7040163278579712}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6965667009353638}
+
+('Prime Minister ', 'Narendra Modi', ' will inaugurate the new complex of the Prime Minister’s Office (PMO), Cabinet Secretariat, and National Security Council Secretariat, named Seva Teerth, on Friday, the PMO said in a statement on Thursday.')
+('Prime Minister Narendra Modi will inaugurate the new complex of ', 'the Prime Minister’s Office', ' (PMO), Cabinet Secretariat, and National Security Council Secretariat, named Seva Teerth, on Friday, the PMO said in a statement on Thursday.')
+('Prime Minister Narendra Modi will inaugurate the new complex of the Prime Minister’s Office (', 'PMO', '), Cabinet Secretariat, and National Security Council Secretariat, named Seva Teerth, on Friday, the PMO said in a statement on Thursday.')
+('Prime Minister Narendra Modi will inaugurate the new complex of the Prime Minister’s Office (PMO), Cabinet Secretariat, and National Security Council Secretariat, named Seva Teerth, on Friday, the ', 'PMO', ' said in a statement on Thursday.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  3.16batch/s]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.5579630136489868}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8583056926727295}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9339232444763184}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9370256662368774}
+
+('Prime Minister ', 'Narendra Modi', ' on Friday signed a series of key files from his new office complex, Seva Teerth, approving major policy decisions aimed at benefiting women, youth, farmers and vulnerable citizens.')
+('PM ', 'Modi', "'s first decisions from Seva Teerth reflect a spirit of Seva and touch every section of society.")
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  6.33batch/s]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.8804318904876709}
+Sentiment:  1 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.8027018904685974}
+
+('As ', 'the Prime Minister’s Office', ' (PMO) gets relocated from the South Block building in Raisina Hills to a newly constructed buildling ‘Seva Teerth’, this not only marks a milestone in the highest office’s history but also puts on record a profound shift in the popular public mindset, since Prime Minister Narendra Modi came to power.\u200b')
+('As the Prime Minister’s Office (PMO) gets relocated from the South Block building in Raisina Hills to a newly constructed buildling ‘Seva Teerth’, this not only marks a milestone in the highest office’s history but also puts on record a profound shift in the popular public mindset, since Prime Minister ', 'Narendra Modi', ' came to power.\u200b')
+('The calibrated effort to do away with structures reflective of the colonial past and to rename and rebrand public institutions underscores the ', 'Modi', ' government’s focus and thrust on making public service the high point of its governance.\u200b Renaming and relocating the PMO to ‘Seva Teerth’ is a step in the same direction.')
+('The calibrated effort to do away with structures reflective of the colonial past and to rename and rebrand public institutions underscores the Modi government’s focus and thrust on making public service the high point of its governance.\u200b Renaming and relocating the ', 'PMO', ' to ‘Seva Teerth’ is a step in the same direction.')
+('While Seva Teerth serves as the new hub of ', 'PMO', ', accommodating offices like the Cabinet Secretariat, the National Security Advisor’s office, and India House, the Kartayva Bhavans 1 & 2 have also been inaugurated, from where several high-profile ministries, including Defence and External Affairs, will now function in an integrated fashion.\u200b')
+('While Seva Teerth serves as the new hub of PMO, accommodating offices like the Cabinet Secretariat, the National Security Advisor’s office, and India House, the Kartayva Bhavans 1 & 2 have also been inaugurated, from where several high-profile ministries, including ', 'Defence', ' and External Affairs, will now function in an integrated fashion.\u200b')
+('This shows that the ', 'Centre', ' is firm on making “citizen-first” the centrestage of governance and shedding the image of an authority that those buildings continued to serve.\u200b')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.67batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.5044205784797668}
+Sentiment:  1 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.8136880397796631}
+Sentiment:  2 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.9464408159255981}
+Sentiment:  3 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.8314343690872192}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.5275237560272217}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.5881967544555664}
+Sentiment:  6 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.9445996880531311}
+
+
+('Prime Minister ', 'Narendra Modi', ' inaugurated Seva Teerth on February 13, a date of historic significance marking 95 years since New Delhi was formally inaugurated as India’s modern capital in 1931.')
+('Seva Teerth became the new home of ', 'the Prime Minister’s Office', ', the National Security Council Secretariat and the Cabinet Secretariat, consolidating institutions that earlier operated from multiple locations across the Central Vista.')
+('Along with Seva Teerth, ', 'Modi', ' also inaugurated Kartavya Bhavan 1 and Kartavya Bhavan 2, designed to house key ministries including law, defence, finance, health and agriculture as part of a common central secretariat system.')
+('The inauguration marked a transition from the North Block and South Block, which had served as the seat of India’s executive power since 1931 and housed ministries such as home, finance, defence, external affairs and the ', 'PMO', '.')
+('New Delhi’s foundations were laid in December 1911 by King George V and Queen ', 'Mary', ', and the city was inaugurated on February 13, 1931, by Viceroy Lord Irwin after over two decades')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  2.67batch/s]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.6836285591125488}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7729296684265137}
+Sentiment:  2 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.8570089936256409}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8475853204727173}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.707676112651825}
+
+('1 . ', 'PMO', ' new house 1')
+('Prime Minister ', 'Narendra Modi', " formally inaugurated the new complex for the Prime Minister's Office (PMO), officially named Seva Teerth, on February 13, 2026.")
+('Prime Minister Narendra Modi formally inaugurated the new complex for ', "the Prime Minister's Office", ' (PMO), officially named Seva Teerth, on February 13, 2026.')
+("Prime Minister Narendra Modi formally inaugurated the new complex for the Prime Minister's Office (", 'PMO', '), officially named Seva Teerth, on February 13, 2026.')
+('Since 2014, the ', 'Modi', " government has taken steady steps to move away from symbols of India's colonial past and to usher in a mindset shift.")
+('accommodate several key ministries, including ', 'the Ministry of Finance', ', Ministry of Defence, Ministry of Health & Family Welfare, Ministry of Corporate Affairs, Ministry of Education, Ministry of Culture, Ministry of Law & Justice, Ministry of Information & Broadcasting, Ministry of Agriculture & Farmers Welfare, Ministry of Chemicals & Fertilizers and Ministry of Tribal Affairs')
+('accommodate several key ministries, including the Ministry of Finance, ', 'Ministry of Defence', ', Ministry of Health & Family Welfare, Ministry of Corporate Affairs, Ministry of Education, Ministry of Culture, Ministry of Law & Justice, Ministry of Information & Broadcasting, Ministry of Agriculture & Farmers Welfare, Ministry of Chemicals & Fertilizers and Ministry of Tribal Affairs')
+('accommodate several key ministries, including the Ministry of Finance, Ministry of Defence, ', 'Ministry of Health & Family Welfare', ', Ministry of Corporate Affairs, Ministry of Education, Ministry of Culture, Ministry of Law & Justice, Ministry of Information & Broadcasting, Ministry of Agriculture & Farmers Welfare, Ministry of Chemicals & Fertilizers and Ministry of Tribal Affairs')
+('accommodate several key ministries, including the Ministry of Finance, Ministry of Defence, Ministry of Health & Family Welfare, Ministry of Corporate Affairs, Ministry of Education, Ministry of Culture, Ministry of Law & Justice, ', 'Ministry of Information & Broadcasting', ', Ministry of Agriculture & Farmers Welfare, Ministry of Chemicals & Fertilizers and Ministry of Tribal Affairs')
+('accommodate several key ministries, including the Ministry of Finance, Ministry of Defence, Ministry of Health & Family Welfare, Ministry of Corporate Affairs, Ministry of Education, Ministry of Culture, Ministry of Law & Justice, Ministry of Information & Broadcasting, Ministry of Agriculture & Farmers Welfare, Ministry of Chemicals & Fertilizers and ', 'Ministry of Tribal Affairs', '')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.41batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9619277119636536}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6260086297988892}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8963572978973389}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8178174495697021}
+Sentiment:  4 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.9137849807739258}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6886248588562012}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6771517395973206}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.5591497421264648}
+Sentiment:  8 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.717681884765625}
+Sentiment:  9 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6939348578453064}
+
+('Prime Minister ', 'Narendra Modi', "'s first decisions from the newly shifted Prime Minister's Office at the Seva Teerth complex centred on welfare measures for women, farmers, youth and vulnerable groups, signalling the government's continued focus on social support and grassroots beneficiaries.")
+("Prime Minister Narendra Modi's first decisions from the newly shifted ", "Prime Minister's Office", " at the Seva Teerth complex centred on welfare measures for women, farmers, youth and vulnerable groups, signalling the government's continued focus on social support and grassroots beneficiaries.")
+('As the ', 'PMO', ' began functioning from its new location on Friday, the Prime Minister cleared four major decisions linked to key welfare segments considered crucial to governance priorities and public outreach.')
+('About the first four schemes signed by PM ', 'Modi', ' from Seva Teerth PM RAHAT Scheme: The scheme aims to provide cashless emergency treatment up to Rs 1.5 lakh to road accident victims, ensuring timely medical care without financial hurdles.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  3.23batch/s]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.8729153871536255}
+Sentiment:  1 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.6468273997306824}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.5439006090164185}
+Sentiment:  3 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.8307912945747375}
+
+('PM ', 'Modi', " to chair last meeting at South Block before his office shifts on Feb 13 short by Aradhana / 10:27 am on PM Narendra Modi will chair the final Union Cabinet meeting at South Block on Friday before the PM office (PMO) shifts to the new 'Seva Teerth' complex.")
+('PM Modi to chair last meeting at South Block before his office shifts on Feb 13 short by ', 'Aradhana', " / 10:27 am on PM Narendra Modi will chair the final Union Cabinet meeting at South Block on Friday before the PM office (PMO) shifts to the new 'Seva Teerth' complex.")
+('PM Modi to chair last meeting at South Block before his office shifts on Feb 13 short by Aradhana / 10:27 am on PM ', 'Narendra Modi', " will chair the final Union Cabinet meeting at South Block on Friday before the PM office (PMO) shifts to the new 'Seva Teerth' complex.")
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  3.43batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9268175363540649}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9781382083892822}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9254141449928284}
+
+('Prime Minister ', 'Shri Narendra Modi', ' addressed the inaugural event of Seva Teerth and Kartavya Bhavan-1 & 2 in New Delhi today.')
+('Shri ', 'Modi', ' stated that today, with the resolve of a developed India, all are entering the Seva Teerth and Kartavya Bhavan.')
+('He extended congratulations to everyone, including the ', 'PMO', ' team, the Cabinet Secretariat, and employees of various departments, on Seva Teerth and the new buildings.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  5.02batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.899431586265564}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7167314291000366}
+Sentiment:  2 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.8248926997184753}
+
+('The Prime Minister, ', 'Narendra Modi', ' today dedicated Seva Teerth to the nation, reaffirming his unwavering resolve to serve the people of India and highlighting the sacred spirit of ‘Nagrikdevo Bhava’ as its guiding force.')
+('', 'Modi', ' expressed that the dedication of Seva Teerth reflects a deep commitment towards public service and the welfare of citizens.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  6.12batch/s]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.9671713709831238}
+Sentiment:  1 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.6674448251724243}
+
+('Prime Minister ', 'Narendra Modi', ' on Friday begun working from his new office ‘Seva Teerth’ by signing four major files including one for providing relief to accident victim.')
+('After decades, ', 'Prime Minister Office', ' (PMO) shifted from historic South Block to new office, names ‘Seva Teerth.’')
+('After decades, Prime Minister Office (', 'PMO', ') shifted from historic South Block to new office, names ‘Seva Teerth.’')
+('“PM ', 'Modi', '’s first decisions from Seva Teerth reflect a spirit of seva and touch every section of society — farmers, women, youth, and vulnerable citizens.')
+('PM signs important files relating to important decisions for women, youth and vulnerable citizens,” a statement from the ', 'PMO', ' said.')
+('According to the statement, in order to provide life saving protection for every citizen, ', 'Modi', ' approved ‘PM RAHAT Scheme’ “Under this initiative, accident victims will get cashless treatment of up to ₹1.5 lakh, ensuring that no life is lost due to lack of immediate medical help,” the statement said.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  2.80batch/s]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.7912713885307312}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9228635430335999}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9368649125099182}
+Sentiment:  3 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.9140257239341736}
+Sentiment:  4 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.5455873012542725}
+Sentiment:  5 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.8700253963470459}
+
+('Prime Minister ', 'Narendra Modi', ' will move the Prime Minister’s Office (PMO) out of South Block on February 13, marking the first change in its address since Independence and bringing an end to nearly eight decades of governance from the iconic colonial-era complex on Raisina Hill.')
+('Prime Minister Narendra Modi will move ', 'the Prime Minister’s Office', ' (PMO) out of South Block on February 13, marking the first change in its address since Independence and bringing an end to nearly eight decades of governance from the iconic colonial-era complex on Raisina Hill.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  4.00batch/s]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.6993533372879028}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7311989068984985}
+
+('Inaugurating Seva Teerth and Kartavya Bhavan 1 & 2, Prime Minister ', 'Narendra Modi', ' said that as India advances rapidly through reforms, global partnerships Inaugurating Seva Teerth and Kartavya Bhavan 1 & 2, Prime Minister Narendra Modi said that as India advances rapidly through reforms, global partnerships, and new trade agreements, the renewed energy and efficiency from these institutions will play a crucial role in achieving the nation’s goals.')
+('Inaugurating Seva Teerth and Kartavya Bhavan 1 & 2, Prime Minister Narendra Modi said that as India advances rapidly through reforms, global partnerships Inaugurating Seva Teerth and Kartavya Bhavan 1 & 2, Prime Minister ', 'Narendra Modi', ' said that as India advances rapidly through reforms, global partnerships, and new trade agreements, the renewed energy and efficiency from these institutions will play a crucial role in achieving the nation’s goals.')
+('At the North Zone Quality Assurance Industry Conclave, Vice Admiral ', 'Sanjay Sadhu', ' said that quality assurance is crucial to the Indian Navy’s combat capability and operational efficiency.')
+('At the North Zone Quality Assurance Industry Conclave, Vice Admiral Sanjay Sadhu said that quality assurance is crucial to ', 'the Indian Navy’s', ' combat capability and operational efficiency.')
+('At the North Zone Quality Assurance Industry Conclave, Vice Admiral ', 'Sanjay Sadhu', ' said that quality assurance is crucial to the Indian Navy’s combat capability and operational efficiency.')
+('At the North Zone Quality Assurance Industry Conclave, Vice Admiral Sanjay Sadhu said that quality assurance is crucial to ', 'the Indian Navy’s', ' combat capability and operational efficiency.')
+('Visuals emerged from the final Cabinet meeting at South Block as Prime Minister ', 'Narendra Modi', ' inaugurated the new ‘Seva Teerth’')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.94batch/s]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.8628911972045898}
+Sentiment:  1 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.8628911972045898}
+Sentiment:  2 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.5507839918136597}
+Sentiment:  3 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.7263126969337463}
+Sentiment:  4 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.5507839918136597}
+Sentiment:  5 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.7263126969337463}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6855064034461975}
+
+('As Prime Minister ', 'Narendra Modi', ' inaugurated Seva Teerth, Union Minister of State S.P. Singh Baghel on Friday said the initiative reflects the spirit of national service and will serve as a platform for launching welfare schemes.')
+('As Prime Minister Narendra Modi inaugurated Seva Teerth, ', 'Union', ' Minister of State S.P. Singh Baghel on Friday said the initiative reflects the spirit of national service and will serve as a platform for launching welfare schemes.')
+('As Prime Minister Narendra Modi inaugurated Seva Teerth, Union Minister of ', 'State', ' S.P. Singh Baghel on Friday said the initiative reflects the spirit of national service and will serve as a platform for launching welfare schemes.')
+('As Prime Minister Narendra Modi inaugurated Seva Teerth, Union Minister of State ', 'S.P. Singh Baghel', ' on Friday said the initiative reflects the spirit of national service and will serve as a platform for launching welfare schemes.')
+('Speaking to IANS, ', 'Baghel', ' said,“The term Seva Teerth itself reflects its purpose.')
+('Reacting to the development, ', 'Congress', ' MP Ujjwal Raman Singh said the focus should remain on governance and public welfare rather than names.')
+('Earlier in the day, Prime Minister ', 'Narendra Modi', " unveiled the new complex named 'Seva Teerth', which houses the Prime Minister's Office (PMO), National Security Council Secretariat (NSCS) and the Cabinet Secretariat.")
+("Earlier in the day, Prime Minister Narendra Modi unveiled the new complex named 'Seva Teerth', which houses ", "the Prime Minister's Office", ' (PMO), National Security Council Secretariat (NSCS) and the Cabinet Secretariat.')
+("Earlier in the day, Prime Minister Narendra Modi unveiled the new complex named 'Seva Teerth', which houses the Prime Minister's Office (", 'PMO', '), National Security Council Secretariat (NSCS) and the Cabinet Secretariat.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.89batch/s]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.8564944863319397}
+Sentiment:  1 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.6778525114059448}
+Sentiment:  2 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.6343508362770081}
+Sentiment:  3 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.781506359577179}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9554343223571777}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6153592467308044}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6506521105766296}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8883129954338074}
+Sentiment:  8 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7849878668785095}
+
+('Prime Minister ', 'Narendra Modi', " will chair a special meeting of the Union Cabinet at South Block on Friday, the last such gathering at the British-era secretariat building before the Prime Minister's Office (PMO) shifts to its new complex, 'Seva Teerth'.")
+('Prime Minister Narendra Modi will chair a special meeting of the Union Cabinet at South Block on Friday, the last such gathering at the British-era secretariat building before ', "the Prime Minister's Office", " (PMO) shifts to its new complex, 'Seva Teerth'.")
+("Official sources confirmed this will be the Cabinet's final meeting in the ", 'PMO', ' located in the imperial complex designed by British architect Herbert Baker in the early 1900s to meet the requirements of the British Raj.')
+('The cabinet meeting, scheduled for 4 pm on Friday, will be followed by the ', 'PMO', "'s relocation to 'Seva Teerth'.")
+('Prime Minister ', 'Narendra Modi', ' is scheduled to')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  3.09batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.763192892074585}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9131772518157959}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9515409469604492}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9656460881233215}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9693996906280518}
+
+('', 'The Prime Minister’s Office', ' (PMO) has officially moved from the historic South Block to the newly constructed Seva Teerth complex in New Delhi.')
+('The Prime Minister’s Office (', 'PMO', ') has officially moved from the historic South Block to the newly constructed Seva Teerth complex in New Delhi.')
+('The inauguration, led by Prime Minister ', 'Narendra Modi', ', took place on 13 February 2026, coinciding with the 95th anniversary of New Delhi’s designation as India’s capital.')
+('According to ', 'The Indian Express', ', Seva Teerth now accommodates the PMO, the Cabinet Secretariat, and the National Security Council Secretariat, all previously dispersed across different locations.')
+('According to The Indian Express, Seva Teerth now accommodates the ', 'PMO', ', the Cabinet Secretariat, and the National Security Council Secretariat, all previously dispersed across different locations.')
+('The inauguration ceremony included the unveiling of the Seva Teerth name and a public address by Prime Minister ', 'Narendra Modi', ' in the evening.')
+('The new Kartavya Bhavan buildings will accommodate ministries such as ', 'Finance', ', Defence, Health, Agriculture, and others, consolidating government functions for improved efficiency.')
+('The new Kartavya Bhavan buildings will accommodate ministries such as Finance, ', 'Defence', ', Health, Agriculture, and others, consolidating government functions for improved efficiency.')
+('The new Kartavya Bhavan buildings will accommodate ministries such as Finance, Defence, ', 'Health', ', Agriculture, and others, consolidating government functions for improved efficiency.')
+('The new Kartavya Bhavan buildings will accommodate ministries such as Finance, Defence, Health, ', 'Agriculture', ', and others, consolidating government functions for improved efficiency.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  2.01batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8886906504631042}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9281550645828247}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7109484076499939}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9810791015625}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9405827522277832}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8449919819831848}
+Sentiment:  6 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.5642174482345581}
+Sentiment:  7 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.5464127063751221}
+Sentiment:  8 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.5560402870178223}
+Sentiment:  9 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.52964848279953}
+
+('Prime Minister ', 'Narendra Modi', ' has placed farmers and women at the forefront of his initial decisions following the inauguration of the new Seva Teerth office, signalling a clear emphasis on rural empowerment and inclusive development.')
+('', 'Modi', '’s focus on farmers comes amid ongoing challenges in the agricultural sector, with calls for improved support systems, better access to credit and sustainable practices gaining traction across states.')
+('Officials said ', 'Modi', '’s choice to foreground these priorities reflects a broader vision of equitable growth, with farmers and women seen as key')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.95batch/s]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.9711371660232544}
+Sentiment:  1 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.9171240329742432}
+Sentiment:  2 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.9534705281257629}
+
+('Prime Minister ', 'Narendra Modi', ', on Friday, inaugurated Seva Teerth, a new integrated complex that will house the Prime Minister’s Office, marking its first relocation since Independence.')
+('Prime Minister Narendra Modi, on Friday, inaugurated Seva Teerth, a new integrated complex that will house ', 'the Prime Minister’s Office', ', marking its first relocation since Independence.')
+('', 'Modi', ' unveiled the name ‘Seva Teerth’ around 2 pm before inaugurating Seva Teerth and Kartavya Bhavan 1 and 2, which will house several key ministries.')
+('Seva Teerth will house three core executive institutions previously located separately: ', 'the Prime Minister’s Office', ' in Seva Teerth-1, the National Security Council Secretariat in Seva Teerth-2 and the Cabinet Secretariat in Seva Teerth-3.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  2.30batch/s]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.5941781401634216}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8169309496879578}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6984114050865173}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9489625692367554}
+
+('Prime Minister ', 'Narendra Modi', ' on Friday unveiled the name ‘Seva Teerth’ for the new building complex housing the Prime Minister’s Office, the National Security Council Secretariat and the Cabinet Secretariat, marking a major overhaul of India’s administrative infrastructure.')
+('Prime Minister Narendra Modi on Friday unveiled the name ‘Seva Teerth’ for the new building complex housing ', 'the Prime Minister’s Office', ', the National Security Council Secretariat and the Cabinet Secretariat, marking a major overhaul of India’s administrative infrastructure.')
+('PM ', 'Modi', ' Unveils Seva Teerth, A New PMO Hub Marking Governance Shift In National Capital Delhi South Block to Seva Teerth Central Secretariat to be Kartavya Bhavan Rajpath to be Kartavya Path Race Course Road to be Lok Kalyan Marg Raj Bhavans/Raj Niwas to be Lok Bhavan/Lok Niwas Seva Teerth now brings under one roof the PMO, the National Security Council Secretariat and the Cabinet Secretariat, which were earlier functioning from separate locations.')
+('PM Modi Unveils Seva Teerth, A New PMO Hub Marking Governance Shift In National Capital Delhi South Block to Seva Teerth Central Secretariat to be Kartavya Bhavan Rajpath to be Kartavya Path Race Course Road to be Lok Kalyan Marg Raj Bhavans/Raj Niwas to be Lok Bhavan/Lok Niwas Seva Teerth now brings under one roof the ', 'PMO', ', the National Security Council Secretariat and the Cabinet Secretariat, which were earlier functioning from separate locations.')
+('Kartavya Bhavan 1 and 2 will house key ministries, including ', 'Finance', ', Defence, Health and Family Welfare, Corporate Affairs, Education, Culture, Law and Justice, Information and Broadcasting, Agriculture and Farmers Welfare, Chemicals and Fertilizers, and Tribal Affairs.')
+('Kartavya Bhavan 1 and 2 will house key ministries, including Finance, ', 'Defence', ', Health and Family Welfare, Corporate Affairs, Education, Culture, Law and Justice, Information and Broadcasting, Agriculture and Farmers Welfare, Chemicals and Fertilizers, and Tribal Affairs.')
+('Kartavya Bhavan 1 and 2 will house key ministries, including Finance, Defence, Health and Family Welfare, Corporate Affairs, ', 'Education', ', Culture, Law and Justice, Information and Broadcasting, Agriculture and Farmers Welfare, Chemicals and Fertilizers, and Tribal Affairs.')
+('Kartavya Bhavan 1 and 2 will house key ministries, including Finance, Defence, Health and Family Welfare, Corporate Affairs, Education, Culture, Law and Justice, ', 'Information and Broadcasting', ', Agriculture and Farmers Welfare, Chemicals and Fertilizers, and Tribal Affairs.')
+('Kartavya Bhavan 1 and 2 will house key ministries, including Finance, Defence, Health and Family Welfare, Corporate Affairs, Education, Culture, Law and Justice, Information and Broadcasting, Agriculture and Farmers Welfare, Chemicals and Fertilizers, and ', 'Tribal Affairs', '.')
+Processing batches: 100%|██████████| 1/1 [00:01<00:00,  1.30s/batch]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.6080902814865112}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6873354911804199}
+Sentiment:  2 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.7536602020263672}
+Sentiment:  3 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.7342396974563599}
+Sentiment:  4 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.5828797221183777}
+Sentiment:  5 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.5888029336929321}
+Sentiment:  6 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.7390674352645874}
+Sentiment:  7 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.5122066736221313}
+Sentiment:  8 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6547250747680664}
+
+('', 'Narendra Modi', ' on Friday announced that the complex housing the Prime Minister’s Office, the National Security Council Secretariat and the Cabinet Secretariat will now be known as Seva Teerth.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  6.11batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8744281530380249}
+
+('Prime Minister ', 'Narendra Modi', " inaugurated the Seva Teerth complex on Friday, the new building which houses the PM's Office, the National Security Council Secretariat, and the Cabinet Secretariat.")
+('Prime Minister Narendra Modi inaugurated the Seva Teerth complex on Friday, the new building which houses ', "the PM's Office", ', the National Security Council Secretariat, and the Cabinet Secretariat.')
+('Earlier, ', 'the Prime Minister’s Office', ' and the two secretariats were in different locations.')
+('', 'Vijay', ' says his power-sharing comment ‘exploded like a bomb’ on TN poll scene Kartavya Bhavan 1 and 2 are equipped with several key features, including digitally integrated offices, structured public interface zones and centralized reception facilities.')
+('Vijay says his power-sharing comment ‘exploded like a bomb’ on ', 'TN', ' poll scene Kartavya Bhavan 1 and 2 are equipped with several key features, including digitally integrated offices, structured public interface zones and centralized reception facilities.')
+('The buildings have been designed in line with 4-Star GRIHA standards and incorporate renewable energy systems, water conservation measures, waste management solutions and high-performance building envelopes, according to ', "the Prime Minister's Office", '.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.50batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.5139479637145996}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8598936200141907}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.97380530834198}
+Sentiment:  3 {'class_id': 0, 'class_label': 'negative', 'class_prob': 0.5338683724403381}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7958666682243347}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7378937602043152}
+
+('Prime Minister ', 'Narendra Modi', ' on Friday (February 13, 2026) inaugurated the Seva Teerth complex, which will house the Prime Minister’s Office (PMO), the National Security Council Secretariat and the Cabinet Secretariat.')
+('Prime Minister Narendra Modi on Friday (February 13, 2026) inaugurated the Seva Teerth complex, which will house ', 'the Prime Minister’s Office', ' (PMO), the National Security Council Secretariat and the Cabinet Secretariat.')
+('PM ', 'Modi', ' unveiled the plaque of Seva Teerth at the new complex -- the name inscribed in Devanagari script on the wall of the complex.')
+('Housing and Urban Affairs Minister ', 'Manohar Lal', ', Minister of State in the PMO Jitendra Singh, and officials from the PMO were present on the occasion when PM Modi inaugurated the new building.')
+('Housing and Urban Affairs Minister Manohar Lal, Minister of ', 'State', ' in the PMO Jitendra Singh, and officials from the PMO were present on the occasion when PM Modi inaugurated the new building.')
+('Housing and Urban Affairs Minister Manohar Lal, Minister of State in the PMO ', 'Jitendra Singh', ', and officials from the PMO were present on the occasion when PM Modi inaugurated the new building.')
+('Housing and Urban Affairs Minister Manohar Lal, Minister of State in the PMO Jitendra Singh, and officials from the ', 'PMO', ' were present on the occasion when PM Modi inaugurated the new building.')
+('Housing and Urban Affairs Minister Manohar Lal, Minister of State in the PMO Jitendra Singh, and officials from the PMO were present on the occasion when PM ', 'Modi', ' inaugurated the new building.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.48batch/s]
+Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.5729998350143433}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8534657955169678}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8172484040260315}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.7970504760742188}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9064509272575378}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9143948554992676}
+Sentiment:  6 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9254886507987976}
+Sentiment:  7 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8706799745559692}
+
+('In its very first set of decisions after shifting to Seva Teerth, PM ', 'Modi', ' signed important files relating to decisions that reflect the spirit of Seva.')
+('In its very first set of decisions after shifting to Seva Teerth, PM Modi signed important files relating to decisions that reflect the spirit of ', 'Seva', '.')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  4.40batch/s]
+Sentiment:  0 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.8912807703018188}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.5948097705841064}
+
+('Prime Minister ', 'Narendra Modi', ' will on Friday (February 13, 2026) inaugurate the new Prime Minister’s Office ‘Seva Teerth’, and the Central Secretariat buildings, Kartavya Bhavan 1 and 2.')
+('Prime Minister Narendra Modi will on Friday (February 13, 2026) inaugurate the new ', 'Prime Minister’s Office', ' ‘Seva Teerth’, and the Central Secretariat buildings, Kartavya Bhavan 1 and 2.')
+('The South Block houses ', 'the Prime Minister’s Office', ', as well as the offices of the Union Ministries of External Affairs and Defence.')
+('The South Block houses the Prime Minister’s Office, as well as the offices of the Union Ministries of External Affairs and ', 'Defence', '.')
+('The North Block houses the Ministries of Home Affairs, and ', 'Finance', '.')
+('', 'The Prime Minister’s Office', ' will be moved on Friday (February 13, 2026) to the newly built ‘Seva Teerth’ complex.')
+('Kartavya Bhavan 1 and 2 house several key Ministries, including the Ministries of ', 'Finance', ', Defence, Health and Family Welfare, Education, Corporate Affairs, Culture, Law and Justice, Information and Broadcasting,')
+('Kartavya Bhavan 1 and 2 house several key Ministries, including the Ministries of Finance, ', 'Defence', ', Health and Family Welfare, Education, Corporate Affairs, Culture, Law and Justice, Information and Broadcasting,')
+('Kartavya Bhavan 1 and 2 house several key Ministries, including the Ministries of Finance, Defence, Health and Family Welfare, ', 'Education', ', Corporate Affairs, Culture, Law and Justice, Information and Broadcasting,')
+Processing batches: 100%|██████████| 1/1 [00:00<00:00,  1.50batch/s]Sentiment:  0 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.6884259581565857}
+Sentiment:  1 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8191753625869751}
+Sentiment:  2 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9203327298164368}
+Sentiment:  3 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.8846610188484192}
+Sentiment:  4 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9140118360519409}
+Sentiment:  5 {'class_id': 1, 'class_label': 'neutral', 'class_prob': 0.9529855847358704}
+Sentiment:  6 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.5416952967643738}
+Sentiment:  7 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.5911487936973572}
+Sentiment:  8 {'class_id': 2, 'class_label': 'positive', 'class_prob': 0.688035249710083}
