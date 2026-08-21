@@ -1,5 +1,5 @@
 Sentence,Entity,Human,NewsSentiment,ChatGPT,Llama
-"A new post-poll combination, between the Sena, NCP and the Congress and some independents, has now formed the government.",Congress,neutral,neutral,positive,neutral
+"A new post-poll combination, between the Sena, NCP and the Congress and some independents, has now formed the government.",Congress,neutral,neutral,neutral,neutral
 The Congress once again fell short of numbers needed to get Leader of Opposition position in Lok Sabha.,Congress,negative,negative,negative,negative
 "In the third phase, voting was held in 116 Lok Sabha seats, including all constituencies in Gujarat and Kerala, with BJP president Amit Shah, Congress chief Rahul Gandhi and several Union Ministers among prominent candidates in the fray.",Congress,neutral,neutral,neutral,neutral
 "“The farzi dosti of bua and babua will also end the same way,” Modi said at an election rally here, referring to Mayawati and SP president Akhilesh Yadav.",Mayawati,negative,neutral,negative,negative
@@ -20,7 +20,32 @@ The ruling Congress-led coalition and opposition BJP-led alliance are scrambling
 "The leaders of India's Congress party have thanked the people for returning them to power with a ""massive mandate"".",Congress,positive,positive,positive,positive
 "Congress President Sonia Gandhi said that they had made the ""right choice"" and PM Manmohan Singh vowed the party would ""rise to the occasion"".",Sonia Gandhi,positive,positive,positive,positive
 Congress has made tackling the effects of the global economic crisis and ensuring growth its key priorities.,Congress,positive,positive,positive,neutral
-The Congress party is hoping to retain power in the three states,Congress,neutral,positive,neutral,neutral
+The Congress party is hoping to retain power in the three states,Congress,neutral,positive,positive,neutral
 "In the northern state of Haryana, the Congress is seeking a second term in office against a divided opposition, correspondents say.",Congress,neutral,neutral,positive,neutral
 "If this was odd, odder still was the Congress second-in-command’s refusal to woo the electorate with the kind of largesse and promises mandatorily handed out ahead of a critically important general election.",Congress,negative,negative,negative,negative
 Sources said the party does not really want Mayawati’s dismissal; it wants her to stay on and destroy all chances of BSP’s reelection in 2012 by her misrule.,Mayawati,negative,negative,negative,negative
+Congress leader Rahul Gandhi spoke to farmers in Chhattisgarh and hailed his party's 'pro-farmer' model.,Rahul Gandhi,positive,positive,positive,positive
+"Vijayvargiya also targeted Congress leaders Kamal Nath, Priyanka Gandhi, and Rahul Gandhi, questioning their credibility.",Rahul Gandhi,negative,negative,negative,negative
+He urged Congress to work for the poor and not divide society based on caste.,Congress,negative,positive,positive,negative
+"Jaipur/Bhopal Prime Minister Narendra Modi on Thursday accused the Congress of sympathising with terrorism and condoning corruption, and said that the BJP’s rise to power in the 2014 Lok Sabha elections broke the back of an ecosystem of middlemen who siphoned public money.",Congress,negative,negative,negative,negative
+"Prime Minister Narendra Modi attacked Chief Minister Bhupesh Baghel over the alleged Mahadev betting app scam, while the Congress focused on the welfare schemes of the Baghel government.",Congress,positive,neutral,neutral,neutral
+"In Chhattisgarh, the main contest is between the ruling Congress and the BJP, with the Aam Aadmi Party and BSP also in the fray.",Congress,neutral,neutral,neutral,neutral
+The party failed to come to an agreement with the Congress regarding seat sharing.,Congress,neutral,neutral,negative,negative
+"Congress leader Jairam Ramesh criticized Prime Minister Modi, stating that he is the only Prime Minister in the world who can never tell the truth.",Congress,neutral,neutral,positive,negative
+"Be it Prime Minister Narendra Modi’s announcement to extend the free ration scheme for five more years or Rahul Gandhi’s aggressive OBC pitch and demand for a caste census, both the BJP and Congress have used the present round of Assembly elections to frame their respective 2024 Lok Sabha poll campaign narratives.",Congress,neutral,neutral,neutral,neutral
+"Given that Preneet’s vote ensured that the Lok Sabha panel wasn’t tied over expulsion of Moitra, it is an embarrassment for the Congress at a time when it is leading the Opposition unity efforts for the 2024 Lok Sabha elections.",Congress,negative,negative,negative,negative
+"Samajwadi Party chief Akhilesh Yadav has hit out at Congress leader Rahul Gandhi after the latter’s “X-ray"" remark over the caste census demand, in yet another indication of the widening rift between the two INDIA opposition bloc members.",Rahul Gandhi,negative,negative,negative,negative
+Pilot Congress leader Sachin Pilot has criticized the BJP for trying to polarize voters on religious lines.,Congress,neutral,neutral,positive,negative
+"We also published the following articles recently Congress, BJP look for pole position in Chhindwara; will Kamal Nath trump 'kamal' in his backyard?",Congress,neutral,neutral,neutral,negative
+"Rao also accused the Congress of using people, especially Muslims, as vote banks and questioned them over the demolition of Babri Masjid.",Congress,negative,negative,negative,negative
+"Congress leader Priyanka Gandhi Vadra criticized the BJP in Rajasthan, claiming that the party is scattered and lacks a chief ministerial face for the upcoming state Assembly polls.",Congress,neutral,neutral,positive,negative
+"Congress leader Jairam Ramesh criticized Prime Minister Modi, stating that he is the only Prime Minister in the world who can never tell the truth.",Congress,neutral,neutral,positive,negative
+"In the 2019 parliamentary polls, in an embarrassing upset for the Congress, Rahul Gandhi lost the Amethi seat to the BJP’s Smriti Irani by a margin of over 55,000 votes.",Rahul Gandhi,negative,negative,negative,negative
+He also highlighted the Congress' track record in Rajasthan and praised the Ashok Gehlot government for fulfilling over 90% of the promises made in the previous manifesto.,Ashok Gehlot,positive,positive,positive,positive
+Punjab CM Bhagwant Mann reiterates beginning citizen-centric services at doorstep,Bhagwant Mann,positive,positive,positive,neutral
+"On whether the BJP’s move not to project any CM face would benefit the Congress in the polls, Gehlot said, “It naturally helps.",Congress,neutral,neutral,positive,positive
+"Before setting out for his final round of campaigning, CM Gehlot, who is aiming to buck the three-decade trend of alternating governments and hoping for his fourth term, in an interview with The Indian Express, expressed confidence that the Congress will return to power riding on his “shandaar” (excellent) performance, reports Hamza Khan.",Congress,positive,positive,positive,positive
+"As the polling process is underway in Rajasthan, BJP leader Alka Singh Gurjar criticized Rahul Gandhi's 'panauti' remark against Prime Minister Narendra Modi, stating that it reflects the values of Rahul Gandhi and the Congress party.",Rahul Gandhi,negative,negative,negative,negative
+The Mamata Banerjee-led party has accused the Centre of not releasing Central funds to the state because of political reasons and held protests in Delhi and Kolkata in October.,Mamata Banerjee,neutral,neutral,neutral,negative
+"Citing political violence, corruption, and appeasement in the state, the union minister said that Chief Minister Mamata Banerjee has destroyed West Bengal.",Mamata Banerjee,negative,negative,negative,negative
+"The Congress, buoyed by its success in Karnataka, is trying to pitch for maarpu (change) in Telangana.",Congress,neutral,positive,positive,positive
